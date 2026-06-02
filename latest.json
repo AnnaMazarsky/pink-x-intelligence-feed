@@ -1,0 +1,79 @@
+{
+  "window": "2026-05-25 to 2026-06-01",
+  "published_at": "2026-06-01T05:00:00Z",
+  "run_number": 2,
+  "top_signals": [
+    {
+      "rank": 1,
+      "headline": "Kalshi closes $1B Series F at $22B valuation",
+      "summary": "Luana Lopes Lara, co-founder. Coatue-led. The largest female-co-founded round of the week and a milestone for both prediction markets and Latina founders.",
+      "source_name": "WINS LIST",
+      "source_url": "https://winslist.beehiiv.com/p/wins-list-kalshi-raises-1b-series-f-a-vc-for-moms-corgi-founder-signal-assessment",
+      "date": "2026-05-28",
+      "category": "funding_round",
+      "priority": 1
+    },
+    {
+      "rank": 2,
+      "headline": "Aurora Tech Award: all-women teams deliver 2x revenue per VC dollar - and get 1.4%",
+      "summary": "InDrive-backed Aurora Ventures launched with $180-250K checks for women in MENA, Africa and LatAm, alongside a 900-founder, 127-country study showing all-women teams generate $0.78 in revenue per VC dollar vs $0.31 for all-male teams.",
+      "source_name": "Global Woman Leader",
+      "source_url": "https://www.globalwomanleader.com/news/indrive-backs-aurora-ventures-to-support-female-founders-nwid-6264.html",
+      "date": "2026-05-25",
+      "category": "research",
+      "priority": 1
+    },
+    {
+      "rank": 3,
+      "headline": "Switzerland female-led funding jumped 6.9% to 12.2% in two years",
+      "summary": "Swiss GP Arijana Walcott's data shows female-CEO companies almost doubled their VC share between 2023 and 2025. But all-female teams are still at 1.7% in Switzerland and 1.2% across Europe - a decade low.",
+      "source_name": "Arijana Walcott on LinkedIn",
+      "source_url": "https://www.linkedin.com/posts/arijanawalcott_over-the-last-few-years-of-being-a-gp-more-activity-7464925952385515520-c87h",
+      "date": "2026-05-26",
+      "category": "research",
+      "priority": 1
+    },
+    {
+      "rank": 4,
+      "headline": "Ex-PayPal exec launches AeQuitas Invest, a Reg CF platform for women founders",
+      "summary": "Molly Huyck's new platform routes Regulation Crowdfunding capital to women-led startups. Underlying data: women-led startups got under 2% of US VC in 2025 while delivering 2.5x better returns per dollar invested.",
+      "source_name": "Observer",
+      "source_url": "https://observer.com/2026/05/this-20-year-paypal-veteran-takes-on-venture-capitals-gender-bias/",
+      "date": "2026-05-27",
+      "category": "fund",
+      "priority": 1
+    },
+    {
+      "rank": 5,
+      "headline": "UK female founders: 2% equity for a decade, GBP 310B opportunity",
+      "summary": "150Sec deep-dive synthesizing Barclays, UK Treasury and Beauhurst data. Female founders received 2% of UK equity for ten years running; closing the gap is a GBP 310B economic opportunity per Barclays.",
+      "source_name": "150Sec",
+      "source_url": "https://150sec.com/a-deep-dive-into-the-tech-funding-gap-barriers-facing-female-founders/",
+      "date": "2026-05-28",
+      "category": "research",
+      "priority": 1
+    }
+  ],
+  "urgent_deadlines": [
+    {
+      "title": "Third Wave Fund Mobilize Power Fund",
+      "deadline": "2026-06-02",
+      "url": "https://www.thirdwavefund.org/mobilize-power-fund"
+    },
+    {
+      "title": "Together Women Rise Featured Grants",
+      "deadline": "2026-06-05",
+      "url": "https://www.togetherwomenrise.org/featuredgrants/"
+    },
+    {
+      "title": "Cartier Women's Initiative 2026",
+      "deadline": "2026-06-24",
+      "url": "https://www.cartierwomensinitiative.com"
+    },
+    {
+      "title": "TiE Women Program 2026 - $50K equity-free",
+      "deadline": "2026-06-25",
+      "url": "https://tiewomen.org/"
+    }
+  ]
+}
