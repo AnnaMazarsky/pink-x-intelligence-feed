@@ -26,5 +26,15 @@
       "run_number": 2,
       "url": "archive/2026-06-01.json"
     }
-  ]
+  ],
+  "runs": [
+    {
+      "run_number": 7,
+      "run_date": "2026-07-06",
+      "window": "June 29 - July 6, 2026",
+      "archive_url": "archive/run7_2026-07-06.json"
+    }
+  ],
+  "latest_run": 7,
+  "last_updated": "2026-07-06"
 }
