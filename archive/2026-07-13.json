@@ -1,522 +1,450 @@
 {
-  "window_start": "2026-07-06",
-  "window_end": "2026-07-13",
   "run_number": 8,
-  "generated_at": "2026-07-13T05:00:00Z",
-  "brand_color": "#F01A6B",
-  "source": "Pink X Weekly Intelligence Briefing",
-  "headline_tldr": [
-    "UK Investing in Women Code: signatories deployed 32% of investment value to female-founded teams in 2025, vs 15% market baseline. Network grew from 12 to 330+.",
-    "British Business Bank Investor Pathways deployed \u00a390M to 10 new microfunds, 57% led by female GPs.",
-    "Databento raised $97M Series B led by NEA. Founder Christina Qi. Rare all-female-founded round at this scale.",
-    "Solo GP Ashley Smith closed Vermilion Cliffs Ventures Fund II at $25M. Thesis: AI infra, security, dev tools.",
-    "Bayer Foundation Women Entrepreneurs Award picked 15 winners from 1,172 applicants across 124 countries. \u20ac25K + accelerator each."
-  ],
-  "top_rounds": [
+  "run_date": "2026-07-13",
+  "window": "July 6 - July 13, 2026",
+  "headline_of_the_week": "UK Investing in Women Code proves the fix works: signatories deployed 32% of investment value to female-founded teams in 2025, more than double the 15% market baseline",
+  "headlines": [
     {
-      "company": "Databento",
-      "amount": "$97M",
-      "round": "Series B",
-      "sector": "Fintech data",
-      "country": "USA",
-      "founder": "Christina Qi (CEO)",
-      "lead": "NEA",
-      "url": "https://fortune.com/2026/07/09/christina-qi-left-a-hedge-fund-trading-7-billion-a-day-for-a-farm-in-utah-startup-raised-97-million-to-rival-bloomberg-lseg-databento/"
-    },
-    {
-      "company": "Venus Aerospace",
-      "amount": "$90M",
-      "round": "Series B",
-      "sector": "Hypersonics",
-      "country": "USA",
-      "founder": "Sassie Duggleby (CEO)",
-      "lead": "Mercury Fund",
-      "url": ""
-    },
-    {
-      "company": "Naaia",
-      "amount": "\u20ac6M",
-      "round": "Series A",
-      "sector": "AI compliance",
-      "country": "France",
-      "founder": "Nathalie Beslay (CEO)",
-      "lead": "Ventech",
-      "url": "https://naaia.ai/en/naaia-raises-6-million-euros-trusted-ai-europe/"
-    },
-    {
-      "company": "Materna Medical",
-      "amount": "$5M",
-      "round": "Seed",
-      "sector": "Women's health",
-      "country": "USA",
-      "founder": "",
-      "lead": "InnovaHealth Partners, Wavemaker Three-Sixty",
-      "url": ""
-    },
-    {
-      "company": "Avni Wellness",
-      "amount": "\u20b94 crore",
-      "round": "Seed",
-      "sector": "Women's health",
-      "country": "India",
-      "founder": "",
-      "lead": "Proteus Partners",
-      "url": ""
-    }
-  ],
-  "new_funds": [
-    {
-      "name": "Vermilion Cliffs Ventures Fund II",
-      "size": "$25M",
-      "gp": "Ashley Smith (solo GP)",
-      "thesis": "AI infra, security, dev tools",
-      "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/"
-    },
-    {
-      "name": "Bootstrap 4F Women Backing Women Fund of Funds",
-      "size": "Undisclosed",
-      "gp": "UK-based",
-      "thesis": "Female-led GPs",
-      "url": "https://startupsmagazine.co.uk/articles/funding"
-    },
-    {
-      "name": "Next Phase Capital",
-      "size": "Undisclosed",
-      "gp": "Shelly Sun Berkowitz",
-      "thesis": "Women founders (backed Clementine's Ice Cream $6M, Forge Industries $3.85M)",
-      "url": "https://finance.yahoo.com/energy/articles/next-phase-capital-co-leads-173000557.html"
-    },
-    {
-      "name": "Bayer Foundation Women Entrepreneurs Award (2026 cycle)",
-      "size": "\u20ac25K per winner + accelerator",
-      "gp": "Bayer Foundation + Impact Hub Network",
-      "thesis": "Health + food security in underserved markets. 15 winners from 124 countries.",
-      "url": "https://finance.yahoo.com/healthcare/articles/bayer-foundation-women-entrepreneurs-award-040000592.html"
-    },
-    {
-      "name": "Fundamentum Partnership Fund III",
-      "size": "\u20b92,200 crore (~$260M)",
-      "gp": "India (Nilekani stepped back from GP role)",
-      "thesis": "India growth-stage",
-      "url": ""
-    }
-  ],
-  "vc_moves": [
-    {
-      "person": "Magdalena Jonikas PhD",
-      "role": "Partner",
-      "firm": "Jeito Capital",
-      "location": "London",
-      "context": "Biopharma promotion",
-      "url": "https://www.jeito.life/en/jeito-capital-appointment-magdalena-jonikas-phd-partner-anastasiya-sybirna-phd-principal/"
-    },
-    {
-      "person": "Anastasiya Sybirna PhD",
-      "role": "Principal",
-      "firm": "Jeito Capital",
-      "location": "London",
-      "context": "Biopharma promotion",
-      "url": "https://www.jeito.life/en/jeito-capital-appointment-magdalena-jonikas-phd-partner-anastasiya-sybirna-phd-principal/"
-    },
-    {
-      "person": "Melanie Fan",
-      "role": "Partner",
-      "firm": "Ampersand Capital Partners",
-      "location": "US",
-      "context": "Named GrowthCap Top Women Leaders in Growth Investing 2026",
-      "url": ""
-    },
-    {
-      "person": "Kathy Elsesser",
-      "role": "Board Director + Chair Comp Committee",
-      "firm": "Lazard",
-      "location": "US",
-      "context": "Retired Goldman Sachs Partner joins Lazard board",
-      "url": ""
-    },
-    {
-      "person": "Monique Villa Capra",
-      "role": "Founder",
-      "firm": "Day Trip Ventures",
-      "location": "US (New American South)",
-      "context": "Launched seed-stage fund",
-      "url": ""
-    },
-    {
-      "person": "Shelley Morrison",
-      "role": "Head of Private Credit",
-      "firm": "Aberdeen Investments",
-      "location": "UK",
-      "context": "Newly appointed",
-      "url": ""
-    },
-    {
-      "person": "Marianne Zangerl",
-      "role": "Head of MAAIS",
-      "firm": "Aberdeen Investments",
-      "location": "UK",
-      "context": "Promoted internally",
-      "url": ""
-    }
-  ],
-  "research": [
-    {
-      "title": "UK Investing in Women Code sixth annual report",
-      "publisher": "UK Government",
+      "title": "UK Investing in Women Code: signatories deployed 32% vs 15% market baseline",
+      "summary": "The sixth annual UK Investing in Women Code report shows signatories directed 32% of their investment value to female-founded teams in 2025, more than double the 15% UK market baseline. The signatory network grew from 12 firms in 2019 to 330+ today. Proof that public commitment, quarterly reporting, and measurement move the number.",
+      "source": "UK Government / British Business Bank",
+      "url": "https://www.gov.uk/government/news/research-shows-backing-female-led-businesses-is-good-for-growth",
       "date": "2026-07-08",
-      "key_stat": "Signatories directed 32% of investment value to female-founded teams in 2025 vs 15% market baseline. Network grew from 12 to 330+ signatories.",
-      "url": "https://www.gov.uk/government/news/research-shows-backing-female-led-businesses-is-good-for-growth"
+      "priority": "P1"
     },
     {
-      "title": "British Business Bank Investor Pathways deployment",
-      "publisher": "UK Government / BBB",
+      "title": "British Business Bank deploys \u00a390M to 10 microfunds, 57% female-led GPs",
+      "summary": "Under the Investor Pathways programme, the British Business Bank confirmed \u00a390M into 10 new microfunds this cycle, with 57% led by female GPs. Total pathway commitment now \u00a3100M into female-led funds. Structural LP deployment, not thematic marketing.",
+      "source": "UK Government / British Business Bank",
+      "url": "https://www.gov.uk/government/news/research-shows-backing-female-led-businesses-is-good-for-growth",
       "date": "2026-07-08",
-      "key_stat": "\u00a390M deployed to 10 new microfunds. 57% female-led GPs. \u00a3100M total pathway commitment.",
-      "url": "https://www.gov.uk/government/news/research-shows-backing-female-led-businesses-is-good-for-growth"
+      "priority": "P1"
     },
     {
-      "title": "The Female Founder Funding Gap Hiding Behind the AI Boom",
-      "publisher": "Entrepreneur Plus",
+      "title": "Databento closes $97M Series B led by NEA - Christina Qi builds Bloomberg competitor",
+      "summary": "Databento raised $97M Series B led by NEA. Founder-CEO Christina Qi (former hedge-fund trader) is building a low-cost financial data platform to compete with Bloomberg and LSEG. Rare all-female-founded round at this scale, coming out of Utah.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/09/christina-qi-left-a-hedge-fund-trading-7-billion-a-day-for-a-farm-in-utah-startup-raised-97-million-to-rival-bloomberg-lseg-databento/",
+      "date": "2026-07-09",
+      "priority": "P2"
+    },
+    {
+      "title": "AI boom widened the gender funding gap: 3% AI deal share for all-female teams",
+      "summary": "As global AI funding drove record H1 2026 numbers, all-female founding teams received only 3% of AI deal share versus a 7% cross-sector average. The record capital cycle concentrated even further away from female founders. Narrative-building window before the AI-benefits-everyone consensus locks in.",
+      "source": "Entrepreneur Plus",
+      "url": "https://entrepreneurplus.co.uk/the-female-founders-funding-gap-hiding-behind-this-weeks-record-ai-boom/",
       "date": "2026-07-10",
-      "key_stat": "All-female teams received only 3% of AI deal share in 2026 vs 7% cross-sector average.",
-      "url": "https://entrepreneurplus.co.uk/the-female-founders-funding-gap-hiding-behind-this-weeks-record-ai-boom/"
+      "priority": "P1"
     },
     {
-      "title": "FutureFemHealth Q2 2026 Women's Health Funding Analysis",
-      "publisher": "FutureFemHealth",
+      "title": "Solo GP Ashley Smith closes Vermilion Cliffs Ventures Fund II at $25M",
+      "summary": "Solo woman GP Ashley Smith closed her second fund at $25M targeting AI infrastructure, security, and dev tools. Solo woman GPs raising institutional capital remain scarce, and second funds are the harder milestone. Signal that the solo GP thesis is bankable for women.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
       "date": "2026-07-08",
-      "key_stat": "$738.78M invested across 40 women's health rounds in Q2 2026. Largest: CREATE Medicines $122M, Nourish $100M.",
-      "url": "https://www.linkedin.com/posts/annavosullivan_out-now-q2-2026-womens-health-funding-activity-7480559429571051520-lg-_"
+      "priority": "P3"
     },
     {
-      "title": "Crunchbase H1 2026 global startup funding recap",
-      "publisher": "Crunchbase",
-      "date": "2026-07-02",
-      "key_stat": "Global startup funding hit record $510B in H1 2026, driven overwhelmingly by AI mega-rounds. Female-founder share largely unchanged.",
-      "url": "https://news.crunchbase.com/"
+      "title": "Bayer Foundation Women Entrepreneurs Award: 15 winners from 1,172 applicants across 124 countries",
+      "summary": "Bayer Foundation named 15 winners of its Women Entrepreneurs Award, selected from 1,172 applicants in 124 countries. Each receives \u20ac25K non-dilutive plus a six-month accelerator. Health and food security focus in underserved markets. Global non-dilutive at scale.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/healthcare/articles/bayer-foundation-women-entrepreneurs-award-040000592.html",
+      "date": "2026-07-09",
+      "priority": "P3"
+    },
+    {
+      "title": "FutureFemHealth Q2 2026: $738.78M across 40 women's health rounds",
+      "summary": "FutureFemHealth Q2 2026 analysis shows $738.78M invested across 40 women's health rounds. Largest rounds: CREATE Medicines $122M and Nourish $100M. Women's health continues as a resilient sub-sector.",
+      "source": "FutureFemHealth (Anna O'Sullivan)",
+      "url": "https://www.linkedin.com/posts/annavosullivan_out-now-q2-2026-womens-health-funding-activity-7480559429571051520-lg-_",
+      "date": "2026-07-08",
+      "priority": "P1"
+    },
+    {
+      "title": "European Prize for Women Innovators 2026 winners announced",
+      "summary": "The 2026 European Prize for Women Innovators recognized Katerina Spranger (Oxford Heartbeat, \u20ac2.5M EIC grant), Marta Oliveira (ATMOS Space Cargo, \u20ac13.1M funding), and Ella Cullen (Minespider). EU deeptech capital continues to concentrate around policy-backed programs like EIC.",
+      "source": "Sifted",
+      "url": "https://sifted.eu/articles/award-winning-women-deeptech-startups-brnd",
+      "date": "2026-07-09",
+      "priority": "P4"
+    }
+  ],
+  "stats_ticker": [
+    {
+      "value": "32%",
+      "label": "of investment value UK IWC signatories deployed to female-founded teams (2025) vs 15% market baseline",
+      "source_url": "https://www.gov.uk/government/news/research-shows-backing-female-led-businesses-is-good-for-growth"
+    },
+    {
+      "value": "\u00a390M",
+      "label": "British Business Bank Investor Pathways to 10 microfunds, 57% female-led GPs",
+      "source_url": "https://www.gov.uk/government/news/research-shows-backing-female-led-businesses-is-good-for-growth"
+    },
+    {
+      "value": "3%",
+      "label": "all-female team share of 2026 AI deals (vs 7% cross-sector)",
+      "source_url": "https://entrepreneurplus.co.uk/the-female-founders-funding-gap-hiding-behind-this-weeks-record-ai-boom/"
+    },
+    {
+      "value": "$97M",
+      "label": "Databento Series B, founder Christina Qi",
+      "source_url": "https://fortune.com/2026/07/09/christina-qi-left-a-hedge-fund-trading-7-billion-a-day-for-a-farm-in-utah-startup-raised-97-million-to-rival-bloomberg-lseg-databento/"
+    },
+    {
+      "value": "$738.78M",
+      "label": "Q2 2026 women's health funding across 40 rounds",
+      "source_url": "https://www.linkedin.com/posts/annavosullivan_out-now-q2-2026-womens-health-funding-activity-7480559429571051520-lg-_"
+    },
+    {
+      "value": "1,172",
+      "label": "applicants across 124 countries to Bayer Foundation WEA (15 winners, \u20ac25K each)",
+      "source_url": "https://finance.yahoo.com/healthcare/articles/bayer-foundation-women-entrepreneurs-award-040000592.html"
     }
   ],
   "urgent_deadlines": [
     {
-      "name": "Conception X Raise Autumn 2026 (Deep tech)",
+      "title": "Conception X Raise Autumn 2026 (Deep tech)",
       "deadline": "2026-07-13",
-      "days_left": 0,
       "url": "https://opportunitiesforyouth.org/",
       "region": "UK / Global",
       "sector": "Deep tech, science-led",
-      "funding": "Program + investor exposure"
+      "stage": "Early / PhD-founder",
+      "eligibility": "PhD founders building deep tech ventures",
+      "funding": "Program + investor exposure",
+      "days_until_deadline": 0
     },
     {
-      "name": "Women TechEU - Rolling weekly cutoffs (every Tuesday 17:00 CET)",
+      "title": "Women TechEU - Rolling weekly cutoffs (every Tuesday 17:00 CET)",
       "deadline": "2026-07-14",
-      "days_left": 1,
       "url": "https://womentecheurope.eu",
       "region": "EU Member States + Horizon Europe Associated Countries",
       "sector": "Deep tech",
-      "funding": "EUR 75K equity-free grant + tailored business support"
+      "stage": "Early-stage deep tech, TRL 4-6",
+      "eligibility": "Woman founder/co-founder in top management role (CEO/CTO/CSO), women hold >=25% shares, company registered 6 months to 5 years, raised <EUR 1M equity, no high-fidelity MVP yet",
+      "funding": "EUR 75K equity-free grant + tailored business support",
+      "days_until_deadline": 1
     },
     {
-      "name": "IEEE WIE Big Idea Pitch",
+      "title": "IEEE WIE Big Idea Pitch",
       "deadline": "2026-07-15",
-      "days_left": 2,
       "url": "",
       "region": "Global",
       "sector": "Engineering, tech",
-      "funding": "Pitch prize"
+      "stage": "Idea / early",
+      "eligibility": "IEEE WIE members / women engineers",
+      "funding": "Pitch prize",
+      "days_until_deadline": 2
     },
     {
-      "name": "WeXchange Women STEMpreneurs Competition",
+      "title": "WeXchange Women STEMpreneurs Competition",
       "deadline": "2026-07-15",
-      "days_left": 2,
       "url": "https://wexchange.iadb.org/",
       "region": "Latin America",
       "sector": "STEM",
-      "funding": "Mentorship + investor exposure"
+      "stage": "Early-to-growth STEM",
+      "eligibility": "Latin American women STEM founders",
+      "funding": "Mentorship + investor exposure",
+      "days_until_deadline": 2
     },
     {
-      "name": "How Women Lead - Visible Impact Personal Branding Series",
+      "title": "How Women Lead - Visible Impact Personal Branding Series",
       "deadline": "2026-07-15",
-      "days_left": 2,
       "url": "https://www.howwomenlead.com/events-3",
       "region": "Global (Virtual)",
       "sector": "Any",
-      "funding": "Program (personal brand + visibility)"
+      "stage": "Established leader / founder",
+      "eligibility": "Women leaders and founders",
+      "funding": "Program (personal brand + visibility)",
+      "days_until_deadline": 2
     },
     {
-      "name": "Verizon Small Business Digital Ready $10K Grant",
+      "title": "Verizon Small Business Digital Ready $10K Grant",
       "deadline": "2026-07-15",
-      "days_left": 2,
       "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
       "region": "USA",
       "sector": "Sector-agnostic",
-      "funding": "$10,000 grant"
+      "stage": "Early / small business",
+      "eligibility": "US small businesses (<10 employees), completed Verizon Small Business Digital Ready curriculum",
+      "funding": "$10,000 grant",
+      "days_until_deadline": 2
     },
     {
-      "name": "Tramlines Ventures Pre-Seed (\u00a3250K x 4)",
+      "title": "Tramlines Ventures Pre-Seed (\u00a3250K x 4)",
       "deadline": "2026-07-15",
-      "days_left": 2,
       "url": "https://opportunitiesforyouth.org/",
       "region": "UK",
       "sector": "Sector-agnostic tech",
-      "funding": "\u00a3250,000 pre-seed investment"
+      "stage": "Pre-seed",
+      "eligibility": "UK-based pre-seed founders",
+      "funding": "\u00a3250,000 pre-seed investment",
+      "days_until_deadline": 2
     },
     {
-      "name": "ECOWAS Youth and Women Entrepreneurship Programme (EYWEP)",
+      "title": "ECOWAS Youth and Women Entrepreneurship Programme (EYWEP)",
       "deadline": "2026-07-16",
-      "days_left": 3,
       "url": "https://grantsdatabase.org/category/grants-for-startups/",
       "region": "West Africa (ECOWAS)",
       "sector": "Sector-agnostic",
-      "funding": "Up to $15,000 grant"
+      "stage": "Early / startup",
+      "eligibility": "ECOWAS-region youth and women entrepreneurs",
+      "funding": "Up to $15,000 grant",
+      "days_until_deadline": 3
     },
     {
-      "name": "BGV Pull Up & Pitch NYC",
+      "title": "BGV Pull Up & Pitch NYC",
       "deadline": "2026-07-18",
-      "days_left": 5,
       "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
       "region": "USA (NYC)",
       "sector": "Sector-agnostic",
-      "funding": "Up to $30,000"
+      "stage": "Early",
+      "eligibility": "Black and Brown women entrepreneurs in NYC region",
+      "funding": "Up to $30,000",
+      "days_until_deadline": 5
     },
     {
-      "name": "AI Founders Accelerator",
+      "title": "AI Founders Accelerator",
       "deadline": "2026-07-20",
-      "days_left": 7,
       "url": "",
       "region": "Global",
       "sector": "AI",
-      "funding": "Accelerator program"
+      "stage": "Early AI startups",
+      "eligibility": "AI founders",
+      "funding": "Accelerator program",
+      "days_until_deadline": 7
     },
     {
-      "name": "AWIEF Pitch n Grow",
+      "title": "AWIEF Pitch n Grow",
       "deadline": "2026-07-20",
-      "days_left": 7,
       "url": "",
       "region": "Africa",
       "sector": "Sector-agnostic",
-      "funding": "Pitch prize + visibility"
+      "stage": "Growth",
+      "eligibility": "African women entrepreneurs",
+      "funding": "Pitch prize + visibility",
+      "days_until_deadline": 7
     },
     {
-      "name": "Makers Mindset Grant",
+      "title": "Makers Mindset Grant",
       "deadline": "2026-07-20",
-      "days_left": 7,
       "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
       "region": "USA",
       "sector": "CPG (beauty, food, beverage, pet, tech goods, home goods)",
-      "funding": "$10,000 equity-free + mentorship + visibility"
+      "stage": "Early revenue ($50K-$1M annual)",
+      "eligibility": "Women-led CPG brand, U.S.-based, 1+ year in business, $50K-$1M annual revenue",
+      "funding": "$10,000 equity-free + mentorship + visibility",
+      "days_until_deadline": 7
     },
     {
-      "name": "Biodun & Ibikunle Foundation SEEDINVEST Acceleration Programme 2026",
+      "title": "Biodun & Ibikunle Foundation SEEDINVEST Acceleration Programme 2026",
       "deadline": "2026-07-24",
-      "days_left": 11,
       "url": "https://grantsdatabase.org/category/grants-for-startups/",
       "region": "Nigeria / Africa",
       "sector": "Sector-agnostic",
-      "funding": "Acceleration + seed capital"
+      "stage": "Early",
+      "eligibility": "African founders (Nigerian-led emphasis)",
+      "funding": "Acceleration + seed capital",
+      "days_until_deadline": 11
     },
     {
-      "name": "Climate Economy Accelerator Berlin",
+      "title": "Climate Economy Accelerator Berlin",
       "deadline": "2026-07-26",
-      "days_left": 13,
       "url": "",
       "region": "Berlin / EU",
       "sector": "Climate, sustainability",
-      "funding": "Accelerator program"
+      "stage": "Climate-tech early to growth",
+      "eligibility": "Climate-tech startups",
+      "funding": "Accelerator program",
+      "days_until_deadline": 13
     },
     {
-      "name": "Google DeepMind Accelerator: AI for the Planet (APAC) 2026",
+      "title": "Google DeepMind Accelerator: AI for the Planet (APAC) 2026",
       "deadline": "2026-07-26",
-      "days_left": 13,
       "url": "https://grantsdatabase.org/category/grants-for-startups/",
       "region": "Asia-Pacific",
       "sector": "AI, climate, planet impact",
-      "funding": "Accelerator support + DeepMind mentorship"
+      "stage": "Early to growth",
+      "eligibility": "APAC-based AI startups tackling planetary challenges",
+      "funding": "Accelerator support + DeepMind mentorship",
+      "days_until_deadline": 13
     },
     {
-      "name": "Y Combinator Fall 2026 batch",
+      "title": "Y Combinator Fall 2026 batch",
       "deadline": "2026-07-27",
-      "days_left": 14,
       "url": "https://www.ycombinator.com/apply",
       "region": "Global",
       "sector": "Sector-agnostic",
-      "funding": "$500K SAFE + YC program"
+      "stage": "Early",
+      "eligibility": "Any startup",
+      "funding": "$500K SAFE + YC program",
+      "days_until_deadline": 14
     }
   ],
   "open_programs": [
     {
-      "name": "Capital & Catalyst Grant (Enthuse Foundation)",
+      "title": "Capital & Catalyst Grant (Enthuse Foundation)",
       "deadline": "2026-07-28",
-      "days_left": 15,
       "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
       "region": "USA",
       "sector": "Food & Beverage (excludes skincare/beauty/apparel)",
-      "funding": "$40,000 + mentorship + network"
+      "stage": "Growth-stage food/beverage",
+      "eligibility": "Women-owned food or beverage businesses preparing for next stage of growth",
+      "funding": "$40,000 + mentorship + network",
+      "days_until_deadline": 15
     },
     {
-      "name": "Lululemon Centre for Social Impact - Community Wellbeing Grants",
+      "title": "Lululemon Centre for Social Impact - Community Wellbeing Grants",
       "deadline": "2026-07-31",
-      "days_left": 18,
       "url": "",
       "region": "Global",
       "sector": "Wellbeing, social impact",
-      "funding": "Grant"
+      "stage": "All stages",
+      "eligibility": "Nonprofits + impact orgs",
+      "funding": "Grant",
+      "days_until_deadline": 18
     },
     {
-      "name": "Stanley x TOGETHXR Grant",
+      "title": "Stanley x TOGETHXR Grant",
       "deadline": "2026-07-31",
-      "days_left": 18,
       "url": "",
       "region": "US",
       "sector": "Women's sports + culture",
-      "funding": "Grant"
+      "stage": "Early",
+      "eligibility": "Women-led ventures in women's sports / culture",
+      "funding": "Grant",
+      "days_until_deadline": 18
     },
     {
-      "name": "Women's Health Horizons (WHH) Founder Pitch Competition - London + San Francisco",
+      "title": "Women's Health Horizons (WHH) Founder Pitch Competition - London + San Francisco",
       "deadline": "2026-07-31",
-      "days_left": 18,
       "url": "https://whhwomenshealthhorizons.com",
       "region": "Global (SF + London summits)",
       "sector": "Women's health (fertility, menopause, maternal health, AI, diagnostics, medical devices)",
-      "funding": "Showcase to investors, strategics, ecosystem partners"
+      "stage": "Early to growth-stage",
+      "eligibility": "Women's health ventures",
+      "funding": "Showcase to investors, strategics, ecosystem partners",
+      "days_until_deadline": 18
     },
     {
-      "name": "AT&T She's Connected Contest",
+      "title": "AT&T She's Connected Contest",
       "deadline": "2026-07-31",
-      "days_left": 18,
       "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
       "region": "USA",
       "sector": "Any (women-led business)",
-      "funding": "$50,000 grand prize + 4x $5,000 runner-ups"
+      "stage": "Any",
+      "eligibility": "U.S.-based women-led business",
+      "funding": "$50,000 grand prize + 4x $5,000 runner-ups",
+      "days_until_deadline": 18
     },
     {
-      "name": "Changing the Game Grant (Honeycomb Credit)",
+      "title": "Changing the Game Grant (Honeycomb Credit)",
       "deadline": "2026-07-31",
-      "days_left": 18,
       "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
       "region": "USA",
       "sector": "Food & Beverage venues centering women's sports",
-      "funding": "$20,000 grant"
+      "stage": "Operating business",
+      "eligibility": "U.S.-based for-profit food/beverage businesses centering women's sports",
+      "funding": "$20,000 grant",
+      "days_until_deadline": 18
     },
     {
-      "name": "Galaxy Grants (Hidden Star)",
+      "title": "Galaxy Grants (Hidden Star)",
       "deadline": "2026-07-31",
-      "days_left": 18,
       "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
       "region": "USA",
       "sector": "Any (women and minority owned)",
-      "funding": "$4,250 base + monthly $10K awards to 10 businesses"
+      "stage": "Any (aspiring, early, established)",
+      "eligibility": "Women and minority business owners in the U.S., any stage",
+      "funding": "$4,250 base + monthly $10K awards to 10 businesses",
+      "days_until_deadline": 18
     },
     {
-      "name": "AGE-WELL National Innovation Hub program",
+      "title": "AGE-WELL National Innovation Hub program",
       "deadline": "2026-08-10",
-      "days_left": 28,
       "url": "",
       "region": "Canada",
       "sector": "AgeTech",
-      "funding": "Grant"
+      "stage": "Early to growth",
+      "eligibility": "Canadian researchers / startups in aging-related tech",
+      "funding": "Grant",
+      "days_until_deadline": 28
     },
     {
-      "name": "Women-Led Business Grant",
+      "title": "Women-Led Business Grant",
       "deadline": "2026-08-20",
-      "days_left": 38,
       "url": "",
       "region": "TBD",
       "sector": "Sector-agnostic",
-      "funding": "Grant"
+      "stage": "Established small business",
+      "eligibility": "Women-led businesses",
+      "funding": "Grant",
+      "days_until_deadline": 38
     },
     {
-      "name": "IFC Women-Led Business Grant ($25K-$750K)",
+      "title": "IFC Women-Led Business Grant ($25K-$750K)",
       "deadline": "2026-08-20",
-      "days_left": 38,
       "url": "https://opportunitiesforyouth.org/",
       "region": "Global (emerging markets focus)",
       "sector": "Sector-agnostic",
-      "funding": "$25,000 to $750,000"
+      "stage": "Early to growth",
+      "eligibility": "Women-led businesses in IFC-supported markets",
+      "funding": "$25,000 to $750,000",
+      "days_until_deadline": 38
     },
     {
-      "name": "Women's Health Week Europe 2026 - Mainstage Pitch (Emirates Stadium)",
+      "title": "Women's Health Week Europe 2026 - Mainstage Pitch (Emirates Stadium)",
       "deadline": "2026-08-28",
-      "days_left": 46,
       "url": "https://www.femtechworld.co.uk/entrepreneur/womens-health-week-europe-2026-opens-pitch-applications-for-mainstage-showcase-at-the-emirates-stadium-whw26/",
       "region": "Europe (London)",
       "sector": "Women's health, femtech",
-      "funding": "Mainstage visibility + investor exposure"
+      "stage": "Early to growth",
+      "eligibility": "Women's health / femtech startups",
+      "funding": "Mainstage visibility + investor exposure",
+      "days_until_deadline": 46
     },
     {
-      "name": "CatalyseHer UK (INCO Group) - Cohort 4",
+      "title": "CatalyseHer UK (INCO Group) - Cohort 4",
       "deadline": "2026-09-01",
-      "days_left": 50,
       "url": "https://grantedai.com/grants/catalyseher-uk-inco-group-ea9330e0",
       "region": "UK",
       "sector": "Sector-agnostic",
-      "funding": "Direct cash grants up to $300K USD across cohort"
+      "stage": "Women-led businesses",
+      "eligibility": "Women entrepreneurs in the UK",
+      "funding": "Direct cash grants up to $300K USD across cohort",
+      "days_until_deadline": 50
     },
     {
-      "name": "EIC Accelerator full proposal cutoff (September 2026)",
+      "title": "EIC Accelerator full proposal cutoff (September 2026)",
       "deadline": "2026-09-02",
-      "days_left": 51,
       "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
       "region": "EU + Horizon Europe Associated Countries (incl. Israel)",
       "sector": "Deep tech, sector-agnostic for Open call",
-      "funding": "Up to \u20ac2.5M grant + up to \u20ac10M equity"
+      "stage": "TRL 6-8, deep tech",
+      "eligibility": "Single SMEs/start-ups. Short proposal can be submitted anytime.",
+      "funding": "Up to \u20ac2.5M grant + up to \u20ac10M equity",
+      "days_until_deadline": 51
     },
     {
-      "name": "AceON Accelerator Batch #6 (European founders)",
+      "title": "AceON Accelerator Batch #6 (European founders)",
       "deadline": "2026-09-03",
-      "days_left": 52,
       "url": "https://www.vestbee.com/insights/articles/ace-on-accelerator-2026",
       "region": "Europe",
       "sector": "Sector-agnostic",
-      "funding": "\u20ac40,000 investment for selected startup + mentorship"
+      "stage": "Early",
+      "eligibility": "European founders",
+      "funding": "\u20ac40,000 investment for selected startup + mentorship",
+      "days_until_deadline": 52
     },
     {
-      "name": "Women TechEU 2 - Full Proposal First Cutoff (Sep 2026)",
+      "title": "Women TechEU 2 - Full Proposal First Cutoff (Sep 2026)",
       "deadline": "2026-09-16",
-      "days_left": 65,
       "url": "https://cascadefunding.eu/open-call/women-techeu-2-eic-eligibility-strand/",
       "region": "EU Member States + Horizon Europe Associated Countries",
       "sector": "Deep tech (AI, biotech, energy, robotics, quantum, space, materials)",
-      "funding": "\u20ac75,000 equity-free grant + tailored business support"
+      "stage": "Early-stage deep tech (TRL 4-6)",
+      "eligibility": "Woman founder/co-founder in top management, 25%+ female ownership, EU-registered SME 6mo-5yrs old, raised <\u20ac1M equity",
+      "funding": "\u20ac75,000 equity-free grant + tailored business support",
+      "days_until_deadline": 65
     }
   ],
-  "events": [
-    {
-      "name": "The Pink Skirt Project Summit",
-      "date": "2026-07-09 to 2026-07-10",
-      "location": "Kelowna, BC, Canada",
-      "url": "https://www.thepinkskirtproject.com/summit2026"
-    },
-    {
-      "name": "Working Mothers Summit 2026 (Boston Globe)",
-      "date": "2026-07-10",
-      "location": "Boston, MA",
-      "url": "https://events.bostonglobe.com/2026/working-mothers-summit"
-    },
-    {
-      "name": "Women's Health Horizons Summit - SF",
-      "date": "2026-09-01",
-      "location": "San Francisco",
-      "url": "https://whhwomenshealthhorizons.com"
-    },
-    {
-      "name": "Women's Health Horizons Summit - London",
-      "date": "2026-09-22",
-      "location": "London",
-      "url": "https://whhwomenshealthhorizons.com"
-    },
-    {
-      "name": "Women's Health Week Europe Mainstage Pitch",
-      "date": "2026-08-28",
-      "location": "Emirates Stadium, London",
-      "url": "https://www.femtechworld.co.uk/entrepreneur/womens-health-week-europe-2026-opens-pitch-applications-for-mainstage-showcase-at-the-emirates-stadium-whw26/"
-    }
-  ],
-  "x_thread": [
-    "The UK Investing in Women Code just published its sixth annual report. Signatories directed 32% of investment value to female-founded teams in 2025. Market baseline: 15%. The gap is a policy choice.",
-    "The signatory network grew from 12 firms in 2019 to 330+ today. When institutions commit publicly, publish quarterly data, and measure themselves, the number moves.",
-    "Same week, a different data point. All-female founding teams received only 3% of AI deal share in 2026. Cross-sector average: 7%. The record AI boom widened the gap.",
-    "The rare counter-example. Christina Qi's Databento closed $97M Series B, led by NEA. Three-woman founding team building a Bloomberg competitor from Utah. When a pattern breaks, study it.",
-    "Pink X exists because founders should not have to be the exception. The infrastructure to change the numbers already exists. The question is whether we scale what works or keep celebrating anomalies. pinkxpwr.com"
-  ],
-  "notes": "Gmail connector was disconnected this run. Inbox scan skipped. All items above sourced from public web research and the programs_registry."
+  "next_briefing": "2026-07-20"
 }
