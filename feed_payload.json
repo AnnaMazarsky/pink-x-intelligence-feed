@@ -1,0 +1,569 @@
+{
+  "generated_at": "2026-07-27",
+  "run_number": 10,
+  "week_start": "2026-07-20",
+  "week_end": "2026-07-27",
+  "headline_of_the_week": "The 50M ceiling: 3 years of UK filings, zero all-female raises above 50M pounds",
+  "headlines": [
+    {
+      "title": "SyndicateRoom UK filings: no all-female-founded raise above 50M pounds in 3+ years",
+      "summary": "All-female-founded deal share moved 6.6% to 6.2% and capital share moved 3.4% to 3.5% between 2023 and Q1 2026. Average all-female round 1.2M pounds vs all-male 2.4M pounds.",
+      "source_url": "https://ukbaa.org.uk/blog/2026/07/22/the-50m-ceiling-three-years-of-uk-filings-show-no-all-female-founded-raise-has-broken-through/",
+      "source_name": "UKBAA / SyndicateRoom",
+      "date": "2026-07-22",
+      "category": "research"
+    },
+    {
+      "title": "Israel launches NIS 1B (~$330M) shekel fast-track for tech companies",
+      "summary": "Israel Innovation Authority + Ministry of Finance opened applications Jul 26 for tech cos with 50%+ shekel expenses hit by the strong shekel. Max NIS 15M per company, decisions in 4 weeks.",
+      "source_url": "https://en.globes.co.il/en/article-aid-launched-for-tech-cos-hit-by-strong-shekel-1001550435",
+      "source_name": "Globes",
+      "date": "2026-07-26",
+      "category": "policy"
+    },
+    {
+      "title": "Women TechEU 3rd edition (2026-2028) officially launched",
+      "summary": "Horizon Europe programme funds 160 startups x EUR 75K + coaching. Weekly Tuesday cutoffs 17:00 CET starting August, InfoDays Aug 6 and Sep 15.",
+      "source_url": "https://horizon-europe.org.ua/en/news/calls/the-women-techeu-project-has-been-launched-and-opened-its-call-for-applications/",
+      "source_name": "Horizon Europe",
+      "date": "2026-07-23",
+      "category": "grants"
+    },
+    {
+      "title": "UK female CEOs at an 8-year low, 24% to 17%",
+      "summary": "Grant Thornton Women in Business 2026 shows female mid-market CEO share dropped in one year. Middle-management pipeline erosion cited.",
+      "source_url": "https://prowess.org.uk/female-ceos-uk-eight-year-low/",
+      "source_name": "Prowess / Grant Thornton",
+      "date": "2026-07-22",
+      "category": "research"
+    },
+    {
+      "title": "Airwallex closes $460M Series H at $6.2B",
+      "summary": "Australia-headquartered fintech co-founded by Shannon Scott, largest female-co-founded round of Q2 2026 (excluding Anthropic).",
+      "source_url": "https://www.cutthrough.com/insights/cut-through-quarterly-2q-2026",
+      "source_name": "Cut Through Q2 2026",
+      "date": "2026-07-23",
+      "category": "funding"
+    },
+    {
+      "title": "Vermilion Cliffs Ventures Fund II closes $25M, solo GP Ashley Smith",
+      "summary": "New female-led fund II closed. Adds to the small but growing set of solo-GP female GPs actively deploying.",
+      "source_url": "https://traded.co/vc/",
+      "source_name": "Traded",
+      "date": "2026-07-24",
+      "category": "funds"
+    },
+    {
+      "title": "Angel Academe x SyndicateRoom launching UK first female-founder EIS fund",
+      "summary": "Announced in Angel Academe summer 2026 newsletter. Details forthcoming.",
+      "source_url": "https://angelacademe.substack.com/p/summer-2026-newsletter",
+      "source_name": "Angel Academe",
+      "date": "2026-07-21",
+      "category": "funds"
+    },
+    {
+      "title": "Allison Byers analysis: all-female VC share hit 0.7% in H1 2026",
+      "summary": "US all-female-team share of VC dollars fell to 0.7% in H1 2026 despite record aggregate quarter. Fewer deals YoY.",
+      "source_url": "https://www.linkedin.com/posts/allison-byers_we-saw-record-venture-dollars-in-h1-2026-activity-7485321432478994432-pA4U",
+      "source_name": "Allison Byers",
+      "date": "2026-07-20",
+      "category": "research"
+    },
+    {
+      "title": "Forbes Midas List 2026: only 8 of 100 are women",
+      "summary": "Yasmin Razavi (Spark Capital) tops the female cohort. Female representation flat vs 2025.",
+      "source_url": "https://www.linkedin.com/posts/ivelina-dineva-nft_only-8-women-made-forbes-list-of-the-worlds-activity-7486042716322181120-N6D7",
+      "source_name": "Ivelina Dineva / Forbes",
+      "date": "2026-07-21",
+      "category": "research"
+    },
+    {
+      "title": "Northwestern Farley: women-founded return $0.78 per $1 vs men $0.31",
+      "summary": "Prof. Jackson dossier on gender and returns. Reinforces the returns math thesis vs the diversity framing.",
+      "source_url": "https://farley.northwestern.edu/news-events/news/articles/2026/breaking-the-mold.html",
+      "source_name": "Northwestern Farley",
+      "date": "2026-07-24",
+      "category": "research"
+    }
+  ],
+  "stats_ticker": [
+    {
+      "stat": "50M pounds",
+      "label": "UK all-female-founded raise ceiling, unbroken for 3+ years"
+    },
+    {
+      "stat": "0.7%",
+      "label": "US all-female-team VC share, H1 2026"
+    },
+    {
+      "stat": "17%",
+      "label": "UK female mid-market CEO share, 8-year low (was 24%)"
+    },
+    {
+      "stat": "INR 4 of 100",
+      "label": "of alumni-network capital reaches women founders (Kalaari)"
+    },
+    {
+      "stat": "$0.78 vs $0.31",
+      "label": "per $1: women- vs men-founded return (Northwestern Farley)"
+    },
+    {
+      "stat": "NIS 1B",
+      "label": "Israel shekel fast-track pool, decisions in 4 weeks"
+    },
+    {
+      "stat": "160 x EUR75K",
+      "label": "Women TechEU 3rd edition programme, 2026-2028"
+    },
+    {
+      "stat": "8 of 100",
+      "label": "women on Forbes Midas List 2026"
+    }
+  ],
+  "urgent_deadlines": [
+    {
+      "title": "Y Combinator Fall 2026 batch",
+      "deadline": "2026-07-27",
+      "days_left": 0,
+      "url": "https://www.ycombinator.com/apply",
+      "region": "Global",
+      "stage": "Early",
+      "amount": ""
+    },
+    {
+      "title": "Capital & Catalyst Grant (Enthuse Foundation)",
+      "deadline": "2026-07-28",
+      "days_left": 1,
+      "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
+      "region": "USA",
+      "stage": "Growth-stage food/beverage",
+      "amount": ""
+    },
+    {
+      "title": "Entreprenista Evolve Grant",
+      "deadline": "2026-07-30",
+      "days_left": 3,
+      "url": "https://entreprenista.com/evolve-grant/",
+      "region": "US",
+      "stage": "",
+      "amount": "$5,000"
+    },
+    {
+      "title": "Lululemon Centre for Social Impact - Community Wellbeing Grants",
+      "deadline": "2026-07-31",
+      "days_left": 4,
+      "url": "",
+      "region": "Global",
+      "stage": "All stages",
+      "amount": ""
+    },
+    {
+      "title": "Stanley x TOGETHXR Grant",
+      "deadline": "2026-07-31",
+      "days_left": 4,
+      "url": "",
+      "region": "US",
+      "stage": "Early",
+      "amount": ""
+    },
+    {
+      "title": "Women's Health Horizons (WHH) Founder Pitch Competition - London + San Francisco",
+      "deadline": "2026-07-31",
+      "days_left": 4,
+      "url": "https://whhwomenshealthhorizons.com",
+      "region": "Global (SF + London summits)",
+      "stage": "Early to growth-stage",
+      "amount": ""
+    },
+    {
+      "title": "AT&T She's Connected Contest",
+      "deadline": "2026-07-31",
+      "days_left": 4,
+      "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
+      "region": "USA",
+      "stage": "Any",
+      "amount": ""
+    },
+    {
+      "title": "Changing the Game Grant (Honeycomb Credit)",
+      "deadline": "2026-07-31",
+      "days_left": 4,
+      "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
+      "region": "USA",
+      "stage": "Operating business",
+      "amount": ""
+    },
+    {
+      "title": "Galaxy Grants (Hidden Star)",
+      "deadline": "2026-07-31",
+      "days_left": 4,
+      "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
+      "region": "USA",
+      "stage": "Any (aspiring, early, established)",
+      "amount": ""
+    },
+    {
+      "title": "Melissa Washington Small Business Award (Women Veterans)",
+      "deadline": "2026-07-31",
+      "days_left": 4,
+      "url": "https://www.melissawashington.com/small-business-award/",
+      "region": "US",
+      "stage": "",
+      "amount": "Up to $5,000"
+    },
+    {
+      "title": "Women's Health Horizons SF Pitch Competition 2026",
+      "deadline": "2026-07-31",
+      "days_left": 4,
+      "url": "https://www.womenshealthhorizons.com/",
+      "region": "San Francisco / US",
+      "stage": "Early to growth women's health startups",
+      "amount": "Pitch prizes + investor access"
+    },
+    {
+      "title": "She Leads Pitch for Startups (Brazil) 2026",
+      "deadline": "2026-07-31",
+      "days_left": 4,
+      "url": "https://www.sheleadsbrazil.com/",
+      "region": "Brazil / LatAm",
+      "stage": "Early-stage",
+      "amount": "Pitch prizes"
+    },
+    {
+      "title": "Elevance Health Foundation Maternal & Infant Health RFP",
+      "deadline": "2026-07-31",
+      "days_left": 4,
+      "url": "https://www.elevancehealth.com/foundation",
+      "region": "US",
+      "stage": "Nonprofits addressing maternal/infant health",
+      "amount": "Grant pool"
+    },
+    {
+      "title": "Granum Foundation Prize",
+      "deadline": "2026-08-01",
+      "days_left": 5,
+      "url": "https://www.granumfoundation.org/prize",
+      "region": "US",
+      "stage": "",
+      "amount": "$5,000 grand prize"
+    },
+    {
+      "title": "Diva Pitch 2026 (Digital Divas Summit)",
+      "deadline": "2026-08-01",
+      "days_left": 5,
+      "url": "https://forms.gle/wX4ceGRrN5ZgS28F8",
+      "region": "South Africa",
+      "stage": "",
+      "amount": "Live stage pitch + investor visibility"
+    },
+    {
+      "title": "EforAll Business Accelerator Program 2026",
+      "deadline": "2026-08-06",
+      "days_left": 10,
+      "url": "https://eforall.org/accelerator/",
+      "region": "US (including Puerto Rico)",
+      "stage": "",
+      "amount": "$4,000+ non-dilutive + 1 year program"
+    },
+    {
+      "title": "Women TechEU 3rd Edition (2026-2028)",
+      "deadline": "2026-08-06",
+      "days_left": 10,
+      "url": "https://horizon-europe.org.ua/en/news/calls/the-women-techeu-project-has-been-launched-and-opened-its-call-for-applications/",
+      "region": "EU (Horizon Europe)",
+      "stage": "Deep-tech, early-stage",
+      "amount": "EUR75,000 lump sum + coaching"
+    },
+    {
+      "title": "AGE-WELL National Innovation Hub program",
+      "deadline": "2026-08-10",
+      "days_left": 14,
+      "url": "",
+      "region": "Canada",
+      "stage": "Early to growth",
+      "amount": ""
+    }
+  ],
+  "open_programs": [
+    {
+      "title": "Female Founders Pitch Competition (BE WOMAN Kazakhstan)",
+      "deadline": "2026-08-11",
+      "days_left": 15,
+      "url": "https://bewoman.asia/femalefounders",
+      "region": "Kazakhstan / Central Asia",
+      "stage": "",
+      "amount": "Prizes + mentoring"
+    },
+    {
+      "title": "Swanari TechSprint 4.0: AI for Inclusive Finance",
+      "deadline": "2026-08-15",
+      "days_left": 19,
+      "url": "https://startupfunds.in/funding/swanari-techsprint-4",
+      "region": "India",
+      "stage": "",
+      "amount": "Grant + acceleration"
+    },
+    {
+      "title": "FUJIFILM GFX Challenge Grant",
+      "deadline": "2026-08-17",
+      "days_left": 21,
+      "url": "https://gfx-challenge.com/",
+      "region": "Global",
+      "stage": "",
+      "amount": "$10,000 global grant"
+    },
+    {
+      "title": "Women-Led Business Grant",
+      "deadline": "2026-08-20",
+      "days_left": 24,
+      "url": "",
+      "region": "TBD",
+      "stage": "Established small business",
+      "amount": ""
+    },
+    {
+      "title": "IFC Women-Led Business Grant ($25K-$750K)",
+      "deadline": "2026-08-20",
+      "days_left": 24,
+      "url": "https://opportunitiesforyouth.org/",
+      "region": "Global (emerging markets focus)",
+      "stage": "Early to growth",
+      "amount": ""
+    },
+    {
+      "title": "Fierce Foundry Investment Readiness Bootcamp 2026",
+      "deadline": "2026-08-20",
+      "days_left": 24,
+      "url": "https://www.fiercefoundry.com/",
+      "region": "US / Global remote",
+      "stage": "Pre-seed and seed",
+      "amount": "Bootcamp + investor intros"
+    },
+    {
+      "title": "The Greenhouse - Undaunted Cohort 11 (Imperial College)",
+      "deadline": "2026-08-21",
+      "days_left": 25,
+      "url": "https://undaunted-hq.org/programmes/the-greenhouse/",
+      "region": "UK",
+      "stage": "",
+      "amount": "12-month climate tech programme + support"
+    },
+    {
+      "title": "Women's Health Week Europe 2026 - Mainstage Pitch (Emirates Stadium)",
+      "deadline": "2026-08-28",
+      "days_left": 32,
+      "url": "https://www.femtechworld.co.uk/entrepreneur/womens-health-week-europe-2026-opens-pitch-applications-for-mainstage-showcase-at-the-emirates-stadium-whw26/",
+      "region": "Europe (London)",
+      "stage": "Early to growth",
+      "amount": ""
+    },
+    {
+      "title": "Hey Helen Grant (Visionaries)",
+      "deadline": "2026-08-30",
+      "days_left": 34,
+      "url": "https://www.visionaries.io/hey-helen-grant",
+      "region": "US",
+      "stage": "",
+      "amount": "$5,000-$10,000"
+    },
+    {
+      "title": "How Women Lead - Executive Leadership Program (Aug cohort)",
+      "deadline": "2026-08-30",
+      "days_left": 34,
+      "url": "https://howwomenlead.com/",
+      "region": "US / Global",
+      "stage": "",
+      "amount": "Coaching, mentoring, network"
+    },
+    {
+      "title": "Women Founders Grant",
+      "deadline": "2026-08-31",
+      "days_left": 35,
+      "url": "https://www.womenfoundersgrant.com/",
+      "region": "US",
+      "stage": "",
+      "amount": "$5,000"
+    },
+    {
+      "title": "The 10th House Tech '26 Accelerator (Female Founder Collective)",
+      "deadline": "2026-08-31",
+      "days_left": 35,
+      "url": "https://the10thhouse.femalefoundercollective.com/apply",
+      "region": "Global",
+      "stage": "",
+      "amount": "Industry-specific accelerator + cohort"
+    },
+    {
+      "title": "Social Shifters Global Innovation Challenge 2026",
+      "deadline": "2026-08-31",
+      "days_left": 35,
+      "url": "https://socialshifters.co/challenge",
+      "region": "Global (youth-led)",
+      "stage": "",
+      "amount": "₹2.49L to ₹12.45L (~$3K-$15K)"
+    },
+    {
+      "title": "WEKH BizPitch 2026 (CIBC)",
+      "deadline": "2026-08-31",
+      "days_left": 35,
+      "url": "https://wekh.ca/bizpitch-terms-and-conditions-2026/",
+      "region": "Canada",
+      "stage": "",
+      "amount": "Multiple pitch prizes (student + startup + established)"
+    },
+    {
+      "title": "Ra'idah 2 (Abu Dhabi Businesswomen Council x Publicis)",
+      "deadline": "2026-08-31",
+      "days_left": 35,
+      "url": "https://adbwc.ae/raidah",
+      "region": "UAE / Abu Dhabi",
+      "stage": "",
+      "amount": "Falcon Tank pitch competition + paid media funding"
+    },
+    {
+      "title": "Israel Innovation Authority + Ministry of Finance Shekel Fast-Track (NIS 1B / ~$330M)",
+      "deadline": "2026-08-31",
+      "days_left": 35,
+      "url": "https://en.globes.co.il/en/article-aid-launched-for-tech-cos-hit-by-strong-shekel-1001550435",
+      "region": "Israel",
+      "stage": "Any stage - shekel-impacted Israeli tech companies",
+      "amount": "Up to NIS 15M (~$4.6M) per company"
+    },
+    {
+      "title": "CatalyseHer UK (INCO Group) - Cohort 4",
+      "deadline": "2026-09-01",
+      "days_left": 36,
+      "url": "https://grantedai.com/grants/catalyseher-uk-inco-group-ea9330e0",
+      "region": "UK",
+      "stage": "Women-led businesses",
+      "amount": ""
+    },
+    {
+      "title": "EIC Accelerator full proposal cutoff (September 2026)",
+      "deadline": "2026-09-02",
+      "days_left": 37,
+      "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+      "region": "EU + Horizon Europe Associated Countries (incl. Israel)",
+      "stage": "TRL 6-8, deep tech",
+      "amount": ""
+    },
+    {
+      "title": "W Accelerate (Merck KGaA + M Ventures) 2026",
+      "deadline": "2026-09-02",
+      "days_left": 37,
+      "url": "https://www.emd.com/en/company/press-releases/2024/apr/w-accelerate.html",
+      "region": "Global",
+      "stage": "Deep-tech, health-tech, digital biotech",
+      "amount": "Cash prize + Merck/M Ventures partnership access"
+    },
+    {
+      "title": "AceON Accelerator Batch #6 (European founders)",
+      "deadline": "2026-09-03",
+      "days_left": 38,
+      "url": "https://www.vestbee.com/insights/articles/ace-on-accelerator-2026",
+      "region": "Europe",
+      "stage": "Early",
+      "amount": ""
+    },
+    {
+      "title": "Hadassah Foundation Spark Grants 2026",
+      "deadline": "2026-09-08",
+      "days_left": 43,
+      "url": "https://hadassahfoundation.org/2026-grantmaking-information/",
+      "region": "Israel + US",
+      "stage": "",
+      "amount": "$20,000 x 3 organizations"
+    },
+    {
+      "title": "Promise Fund Imagine Award",
+      "deadline": "2026-09-09",
+      "days_left": 44,
+      "url": "https://www.promisefund.com/imagine-award/",
+      "region": "US",
+      "stage": "",
+      "amount": "$20,000 unrestricted"
+    },
+    {
+      "title": "Women's Economic and Leadership Opportunities Fund (Canada, $100M pool)",
+      "deadline": "2026-09-15",
+      "days_left": 50,
+      "url": "https://resources.charityvillage.com/call-for-proposals-womens-economic-and-leadership-opportunities-fund-2026/",
+      "region": "Canada",
+      "stage": "Nonprofits/orgs supporting women founders (indirect founder benefit)",
+      "amount": "Portion of $100M pool"
+    },
+    {
+      "title": "Israel Innovation Authority Marine Energy Call (NIS 6M)",
+      "deadline": "2026-09-15",
+      "days_left": 50,
+      "url": "https://en.portnews.ru/news/394544/",
+      "region": "Israel",
+      "stage": "Deep-tech marine/ocean energy",
+      "amount": "Share of NIS 6M"
+    },
+    {
+      "title": "Women TechEU 2 - Full Proposal First Cutoff (Sep 2026)",
+      "deadline": "2026-09-16",
+      "days_left": 51,
+      "url": "https://cascadefunding.eu/open-call/women-techeu-2-eic-eligibility-strand/",
+      "region": "EU Member States + Horizon Europe Associated Countries",
+      "stage": "Early-stage deep tech (TRL 4-6)",
+      "amount": ""
+    },
+    {
+      "title": "EIT Health Transformative Healthcare Instrument 2026",
+      "deadline": "2026-09-16",
+      "days_left": 51,
+      "url": "https://eithealth.eu/programmes/",
+      "region": "EU",
+      "stage": "Growth-stage healthtech",
+      "amount": "EUR300,000-500,000"
+    },
+    {
+      "title": "Tara's Circle 2026 Open Call (Tara For Women)",
+      "deadline": "2026-09-17",
+      "days_left": 52,
+      "url": "https://www.tara-women.com/",
+      "region": "Global (Spain HQ)",
+      "stage": "",
+      "amount": "Funding + mentoring + international visibility"
+    },
+    {
+      "title": "The Breakthrough Grant Vol III (Her Agenda)",
+      "deadline": "2026-09-18",
+      "days_left": 53,
+      "url": "https://heragenda.com/breakthrough-grant/",
+      "region": "US",
+      "stage": "",
+      "amount": "$5,000"
+    },
+    {
+      "title": "Propel Healthtech NHS Accelerator 2026",
+      "deadline": "2026-09-25",
+      "days_left": 60,
+      "url": "https://digitalhealth.london/accelerator/",
+      "region": "UK",
+      "stage": "Digital health, health-tech",
+      "amount": "Programme + NHS market access"
+    },
+    {
+      "title": "CoCreate Pitch London 2026",
+      "deadline": "2026-10-05",
+      "days_left": 70,
+      "url": "https://www.cocreate.london/pitch",
+      "region": "UK",
+      "stage": "Early-stage",
+      "amount": "Pitch competition"
+    },
+    {
+      "title": "Bayer Foundation AWE Evergreen Fund",
+      "deadline": "2026-10-15",
+      "days_left": 80,
+      "url": "https://www.bayer-foundation.com/awe",
+      "region": "Global (South/Emerging)",
+      "stage": "",
+      "amount": "Impact investment + technical support"
+    }
+  ],
+  "next_briefing": "2026-08-03T05:00:00Z"
+}
