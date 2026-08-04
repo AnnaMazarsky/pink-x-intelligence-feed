@@ -2,6 +2,12 @@
   "feed": "Pink X Intelligence Feed",
   "weeks": [
     {
+      "date": "2026-08-03",
+      "run_number": 11,
+      "window": "2026-07-27 to 2026-08-03",
+      "file": "archive/2026-08-03.json"
+    },
+    {
       "date": "2026-07-27",
       "run_number": 10,
       "window": "2026-07-20 to 2026-07-27",
