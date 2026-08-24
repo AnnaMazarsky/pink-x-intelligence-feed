@@ -1,0 +1,2543 @@
+{
+  "schema_version": 1,
+  "built_at": "2026-08-24T07:11:20Z",
+  "runs_indexed": [
+    "2:2026-06-01",
+    "3:2026-06-08",
+    "4:2026-06-15",
+    "5:2026-06-22",
+    "6:2026-06-29",
+    "7:2026-07-06",
+    "8:2026-07-13",
+    "9:2026-07-20",
+    "10:2026-07-27",
+    "11:2026-08-03",
+    "12:2026-08-10",
+    "13:2026-08-17",
+    "14:2026-08-24"
+  ],
+  "entries": [
+    {
+      "run_number": 2,
+      "run_date": "2026-06-01",
+      "title": "Kalshi closes $1B Series F at $22B valuation",
+      "url": "https://winslist.beehiiv.com/p/wins-list-kalshi-raises-1b-series-f-a-vc-for-moms-corgi-founder-signal-assessment",
+      "url_norm": "https://winslist.beehiiv.com/p/wins-list-kalshi-raises-1b-series-f-a-vc-for-moms-corgi-founder-signal-assessment",
+      "entities": [
+        "coatue-led",
+        "kalshi",
+        "lara",
+        "latina",
+        "lopes",
+        "luana",
+        "luana lopes lara"
+      ],
+      "amounts": [
+        "1b",
+        "22b"
+      ],
+      "item_date": "2026-05-28"
+    },
+    {
+      "run_number": 2,
+      "run_date": "2026-06-01",
+      "title": "Aurora Tech Award: all-women teams deliver 2x revenue per VC dollar - and get 1.4%",
+      "url": "https://www.globalwomanleader.com/news/indrive-backs-aurora-ventures-to-support-female-founders-nwid-6264.html",
+      "url_norm": "https://globalwomanleader.com/news/indrive-backs-aurora-ventures-to-support-female-founders-nwid-6264.html",
+      "entities": [
+        "africa",
+        "aurora",
+        "award",
+        "indrive-backed",
+        "indrive-backed aurora ventures",
+        "latam",
+        "mena",
+        "mena africa",
+        "ventures"
+      ],
+      "amounts": [
+        "0.31",
+        "0.78",
+        "1.4pct",
+        "180"
+      ],
+      "item_date": "2026-05-25"
+    },
+    {
+      "run_number": 2,
+      "run_date": "2026-06-01",
+      "title": "Switzerland female-led funding jumped 6.9% to 12.2% in two years",
+      "url": "https://www.linkedin.com/posts/arijanawalcott_over-the-last-few-years-of-being-a-gp-more-activity-7464925952385515520-c87h",
+      "url_norm": "https://linkedin.com/posts/arijanawalcott_over-the-last-few-years-of-being-a-gp-more-activity-7464925952385515520-c87h",
+      "entities": [
+        "arijana",
+        "arijana walcott",
+        "swiss",
+        "switzerland",
+        "walcott"
+      ],
+      "amounts": [
+        "1.2pct",
+        "1.7pct",
+        "12.2pct",
+        "6.9pct"
+      ],
+      "item_date": "2026-05-26"
+    },
+    {
+      "run_number": 2,
+      "run_date": "2026-06-01",
+      "title": "Ex-PayPal exec launches AeQuitas Invest, a Reg CF platform for women founders",
+      "url": "https://observer.com/2026/05/this-20-year-paypal-veteran-takes-on-venture-capitals-gender-bias/",
+      "url_norm": "https://observer.com/2026/05/this-20-year-paypal-veteran-takes-on-venture-capitals-gender-bias",
+      "entities": [
+        "aequitas",
+        "aequitas invest",
+        "crowdfunding",
+        "ex-paypal",
+        "huyck",
+        "invest",
+        "molly",
+        "molly huyck",
+        "reg cf",
+        "regulation",
+        "regulation crowdfunding",
+        "underlying"
+      ],
+      "amounts": [
+        "2pct"
+      ],
+      "item_date": "2026-05-27"
+    },
+    {
+      "run_number": 2,
+      "run_date": "2026-06-01",
+      "title": "UK female founders: 2% equity for a decade, GBP 310B opportunity",
+      "url": "https://150sec.com/a-deep-dive-into-the-tech-funding-gap-barriers-facing-female-founders/",
+      "url_norm": "https://150sec.com/a-deep-dive-into-the-tech-funding-gap-barriers-facing-female-founders",
+      "entities": [
+        "barclays",
+        "beauhurst",
+        "gbp",
+        "treasury"
+      ],
+      "amounts": [
+        "2pct",
+        "310b"
+      ],
+      "item_date": "2026-05-28"
+    },
+    {
+      "run_number": 3,
+      "run_date": "2026-06-08",
+      "title": "EU Prize for Women Innovators 2026 winners announced + Scaleup Europe Fund momentum at EIC Summit Brussels",
+      "url": "https://eic.ec.europa.eu/eic-prizes/european-prize-women-innovators-powered-eic-eit/eu-prize-women-innovators-2026-winners_en",
+      "url_norm": "https://eic.ec.europa.eu/eic-prizes/european-prize-women-innovators-powered-eic-eit/eu-prize-women-innovators-2026-winners_en",
+      "entities": [
+        "brussels",
+        "council",
+        "eic summit",
+        "eic summit brussels",
+        "innovation",
+        "innovation council",
+        "innovators",
+        "prize",
+        "scaleup",
+        "summit"
+      ],
+      "amounts": [],
+      "item_date": "2026-06-04"
+    },
+    {
+      "run_number": 3,
+      "run_date": "2026-06-08",
+      "title": "Phia (Phoebe Gates + Sophia Kianni) reveals $35.5M Series A with 30+ celebrity backers",
+      "url": "https://www.shopifreaks.com/phia-the-ai-shopping-app-from-phoebe-gates-and-sophia-kianni-raises-a-35-5m-series-a-backed-by-a-long-list-of-celebrity-investors/",
+      "url_norm": "https://shopifreaks.com/phia-the-ai-shopping-app-from-phoebe-gates-and-sophia-kianni-raises-a-35-5m-series-a-backed-by-a-long-list-of-celebrity-investors",
+      "entities": [
+        "forerunner",
+        "gates",
+        "jenner",
+        "kaling",
+        "kianni",
+        "kris",
+        "kris jenner shakira",
+        "mindy",
+        "mindy kaling",
+        "phia",
+        "phia phoebe gates sophia kianni",
+        "phoebe",
+        "shakira",
+        "sophia"
+      ],
+      "amounts": [
+        "35.5m"
+      ],
+      "item_date": "2026-06-02"
+    },
+    {
+      "run_number": 3,
+      "run_date": "2026-06-08",
+      "title": "Nourish closes $100M Series C, co-founded by Stephanie Liu (Menlo-led)",
+      "url": "https://alleywatch.com/2026/06/nyc-startup-funding-top-largest-may-2026-vc/",
+      "url_norm": "https://alleywatch.com/2026/06/nyc-startup-funding-top-largest-may-2026-vc",
+      "entities": [
+        "menlo",
+        "menlo ventures stephanie liu",
+        "menlo-led",
+        "nourish",
+        "stephanie",
+        "stephanie liu menlo-led telehealth",
+        "telehealth",
+        "ventures"
+      ],
+      "amounts": [
+        "100m"
+      ],
+      "item_date": "2026-06-03"
+    },
+    {
+      "run_number": 3,
+      "run_date": "2026-06-08",
+      "title": "Clyx raises $14M Series A - solo Gen Z female founder Alyx van der Vorm",
+      "url": "https://news.crunchbase.com/venture/startup-founder-building-personal-connections-fundraise-vandervorm-clyx/",
+      "url_norm": "https://news.crunchbase.com/venture/startup-founder-building-personal-connections-fundraise-vandervorm-clyx",
+      "entities": [
+        "alyx",
+        "clyx",
+        "gen",
+        "vorm",
+        "vorm clyx"
+      ],
+      "amounts": [
+        "14m"
+      ],
+      "item_date": "2026-06-01"
+    },
+    {
+      "run_number": 3,
+      "run_date": "2026-06-08",
+      "title": "Saudi Venture Capital appoints Nora Alsarhan as CEO, effective July 1, 2026",
+      "url": "https://www.facebook.com/intlbm/posts/saudi-venture-capital-svc-announced-the-appointment-of-ms-nora-alsarhan-as-chief/1440133478133109/",
+      "url_norm": "https://facebook.com/intlbm/posts/saudi-venture-capital-svc-announced-the-appointment-of-ms-nora-alsarhan-as-chief/1440133478133109",
+      "entities": [
+        "alsarhan",
+        "july",
+        "major",
+        "mena",
+        "mena gcc",
+        "nora",
+        "nora alsarhan",
+        "saudi",
+        "svc"
+      ],
+      "amounts": [],
+      "item_date": "2026-06-03"
+    },
+    {
+      "run_number": 4,
+      "run_date": "2026-06-15",
+      "title": "January Ventures 2026: female founder optimism gap closes for first time since 2019",
+      "url": "https://fortune.com/2026/06/08/female-founders-fundraising-optimism-gap-closed-ai/",
+      "url_norm": "https://fortune.com/2026/06/08/female-founders-fundraising-optimism-gap-closed-ai",
+      "entities": [
+        "january",
+        "january ventures",
+        "ventures"
+      ],
+      "amounts": [
+        "22pct",
+        "72pct"
+      ],
+      "item_date": "2026-06-08"
+    },
+    {
+      "run_number": 4,
+      "run_date": "2026-06-15",
+      "title": "THENA Capital closes £45M Fund I as first all-female GP team backed by British Business Bank ECF",
+      "url": "https://techfundingnews.com/thena-capital-45m-all-female-gp-british-business-bank-ecf-medtech-us/",
+      "url_norm": "https://techfundingnews.com/thena-capital-45m-all-female-gp-british-business-bank-ecf-medtech-us",
+      "entities": [
+        "bank",
+        "british",
+        "british business bank ecf london-based thena",
+        "british business bank enterprise",
+        "business",
+        "enterprise",
+        "london-based",
+        "thena"
+      ],
+      "amounts": [
+        "45m"
+      ],
+      "item_date": "2026-06-12"
+    },
+    {
+      "run_number": 4,
+      "run_date": "2026-06-15",
+      "title": "Cartier Women's Initiative 2026 application deadline June 16",
+      "url": "https://www.cartierwomensinitiative.com/awards",
+      "url_norm": "https://cartierwomensinitiative.com/awards",
+      "entities": [
+        "cartier",
+        "cartier women initiative",
+        "deadline",
+        "initiative",
+        "june"
+      ],
+      "amounts": [
+        "100k"
+      ],
+      "item_date": "2026-06-15"
+    },
+    {
+      "run_number": 4,
+      "run_date": "2026-06-15",
+      "title": "Women TechEU 2 reopens with €12M in €75K equity-free grants, first cutoff June 30",
+      "url": "https://eic.ec.europa.eu/news/women-techeu-continues-another-eu12-million-equity-free-grants-women-founders-deep-tech-2026-06-12_en",
+      "url_norm": "https://eic.ec.europa.eu/news/women-techeu-continues-another-eu12-million-equity-free-grants-women-founders-deep-tech-2026-06-12_en",
+      "entities": [
+        "council",
+        "innovation",
+        "innovation council",
+        "june",
+        "techeu"
+      ],
+      "amounts": [
+        "12m",
+        "75k"
+      ],
+      "item_date": "2026-06-12"
+    },
+    {
+      "run_number": 4,
+      "run_date": "2026-06-15",
+      "title": "PitchBook Q1 2026: all-female teams received 0.6% of VC funding, down from 1% in 2024",
+      "url": "https://www.linkedin.com/posts/kerenhod_female-founders-raised-hundreds-of-millions-activity-7470118192334569472-T2K_",
+      "url_norm": "https://linkedin.com/posts/kerenhod_female-founders-raised-hundreds-of-millions-activity-7470118192334569472-t2k_",
+      "entities": [
+        "monitor",
+        "pitchbook"
+      ],
+      "amounts": [
+        "0.6pct",
+        "1pct"
+      ],
+      "item_date": "2026-06-10"
+    },
+    {
+      "run_number": 5,
+      "run_date": "2026-06-22",
+      "title": "WEF: Mixed female teams doubled to $74B in 2025 (18.4% of VC), but exclusively female-founded still 2%",
+      "url": "https://www.weforum.org/stories/2026/06/women-and-ai-4-questions-opportunity-power-ai-economy/",
+      "url_norm": "https://weforum.org/stories/2026/06/women-and-ai-4-questions-opportunity-power-ai-economy",
+      "entities": [
+        "doubling",
+        "exclusively",
+        "mixed",
+        "per wef",
+        "wef mixed"
+      ],
+      "amounts": [
+        "18.4pct",
+        "2pct",
+        "74b"
+      ],
+      "item_date": "2026-06-18"
+    },
+    {
+      "run_number": 5,
+      "run_date": "2026-06-22",
+      "title": "500 Global promoted Iris Sun to Partner - now in <5% of VCs with majority-women partnership",
+      "url": "https://www.businesswire.com/news/home/20260618377861/en/500-Global-Promotes-Iris-Sun-to-Partner",
+      "url_norm": "https://businesswire.com/news/home/20260618377861/en/500-global-promotes-iris-sun-to-partner",
+      "entities": [
+        "iris",
+        "iris sun",
+        "vcs"
+      ],
+      "amounts": [
+        "5pct"
+      ],
+      "item_date": "2026-06-18"
+    },
+    {
+      "run_number": 5,
+      "run_date": "2026-06-22",
+      "title": "inDrive launched Aurora Ventures - $180-250K pre-seed for emerging markets women",
+      "url": "https://www.b360nepal.com/detail/28760/indrive-launches-aurora-ventures-to-back-women-founders-in-emerging-markets",
+      "url_norm": "https://b360nepal.com/detail/28760/indrive-launches-aurora-ventures-to-back-women-founders-in-emerging-markets",
+      "entities": [
+        "africa",
+        "asia",
+        "asia led",
+        "aurora",
+        "aurora ventures",
+        "ghassemi-smith",
+        "isabella",
+        "isabella ghassemi-smith",
+        "latam",
+        "mena",
+        "mena africa latam",
+        "ventures"
+      ],
+      "amounts": [
+        "180"
+      ],
+      "item_date": "2026-06-18"
+    },
+    {
+      "run_number": 5,
+      "run_date": "2026-06-22",
+      "title": "Sephi Shapira on agreeableness: female founders get funded once they say no",
+      "url": "https://naamamoran.substack.com/p/female-founders-get-funded-once-they",
+      "url_norm": "https://naamamoran.substack.com/p/female-founders-get-funded-once-they",
+      "entities": [
+        "anchored",
+        "march",
+        "moran",
+        "na'ama",
+        "na'ama moran",
+        "pitchbook",
+        "pitchbook march",
+        "sephi",
+        "sephi shapira",
+        "shapira"
+      ],
+      "amounts": [],
+      "item_date": "2026-06-17"
+    },
+    {
+      "run_number": 5,
+      "run_date": "2026-06-22",
+      "title": "Frontier Health UK closed 12M GBP seed led by Atomico (Rachel Finegold, AI healthtech)",
+      "url": "https://femalefoundry.substack.com/p/female-foundry-week-198-more-and",
+      "url_norm": "https://femalefoundry.substack.com/p/female-foundry-week-198-more-and",
+      "entities": [
+        "atomico",
+        "atomico rachel finegold",
+        "finegold",
+        "frontier",
+        "frontier health",
+        "gbp",
+        "health",
+        "rachel",
+        "rachel finegold"
+      ],
+      "amounts": [],
+      "item_date": "2026-06-18"
+    },
+    {
+      "run_number": 6,
+      "run_date": "2026-06-29",
+      "title": "Canada renews Women Entrepreneurship Strategy at $173.7M",
+      "url": "https://ised-isde.canada.ca/site/ised/en/programs-and-initiatives/women-entrepreneurship-strategy",
+      "url_norm": "https://ised-isde.canada.ca/site/ised/en/programs-and-initiatives/women-entrepreneurship-strategy",
+      "entities": [
+        "canada",
+        "country-level",
+        "ecosystem",
+        "entrepreneurship",
+        "entrepreneurship strategy",
+        "knowledge",
+        "knowledge hub country-level",
+        "loan",
+        "strategy"
+      ],
+      "amounts": [
+        "100m",
+        "173.7m",
+        "59m",
+        "7m"
+      ],
+      "item_date": "2026-06-22"
+    },
+    {
+      "run_number": 6,
+      "run_date": "2026-06-29",
+      "title": "British Business Bank deploys £90M to 10 microfunds (57% women GPs)",
+      "url": "https://techfundingnews.com/category/female-funding/",
+      "url_norm": "https://techfundingnews.com/category/female-funding",
+      "entities": [
+        "backing",
+        "bank",
+        "black-led",
+        "bootstrap",
+        "british",
+        "british business bank",
+        "business",
+        "evertrue",
+        "evertrue seedcamp vii seedcamp nation ii",
+        "includes",
+        "nation",
+        "pathways",
+        "seedcamp"
+      ],
+      "amounts": [
+        "130m",
+        "400m",
+        "57pct",
+        "90m"
+      ],
+      "item_date": "2026-06-25"
+    },
+    {
+      "run_number": 6,
+      "run_date": "2026-06-29",
+      "title": "Merav Bahat raising $25-30M Israeli AI fund with Sequoia, Greylock, a16z",
+      "url": "https://www.calcalistech.com/ctechnews/article/ryxgc7kmgg",
+      "url_norm": "https://calcalistech.com/ctechnews/article/ryxgc7kmgg",
+      "entities": [
+        "a16z",
+        "bahat",
+        "ex-dazz",
+        "greylock",
+        "merav",
+        "merav bahat",
+        "sequoia",
+        "sequoia greylock",
+        "wiz"
+      ],
+      "amounts": [
+        "25",
+        "500m"
+      ],
+      "item_date": "2026-06-24"
+    },
+    {
+      "run_number": 6,
+      "run_date": "2026-06-29",
+      "title": "Israel Innovation Authority expands Startup Fund: $700K Pre-Seed, $2M+ Seed",
+      "url": "https://tech.einnews.com/amp/pr_news/922824531/israel-innovation-authority-expands-startup-fund-to-support-early-stage-deeptech-companies",
+      "url_norm": "https://tech.einnews.com/amp/pr_news/922824531/israel-innovation-authority-expands-startup-fund-to-support-early-stage-deeptech-companies",
+      "entities": [
+        "authority",
+        "effective",
+        "effective july",
+        "higher",
+        "innovation",
+        "innovation authority",
+        "july",
+        "major",
+        "pre-seed"
+      ],
+      "amounts": [
+        "2m",
+        "700k"
+      ],
+      "item_date": "2026-06-28"
+    },
+    {
+      "run_number": 6,
+      "run_date": "2026-06-29",
+      "title": "PitchBook March 2026: women-led capital at 1.2% (decade low), Africa hits 2.2%",
+      "url": "https://150sec.com/europes-female-founders-are-outperforming-on-less-and-still-losing-the-funding-race/",
+      "url_norm": "https://150sec.com/europes-female-founders-are-outperforming-on-less-and-still-losing-the-funding-race",
+      "entities": [
+        "africa",
+        "bcg",
+        "germany",
+        "march",
+        "nordic",
+        "pitchbook",
+        "pitchbook march"
+      ],
+      "amounts": [
+        "1.2pct",
+        "2.2pct",
+        "21pct",
+        "8pct",
+        "9pct"
+      ],
+      "item_date": "2026-06-24"
+    },
+    {
+      "run_number": 7,
+      "run_date": "2026-07-06",
+      "title": "British Business Bank confirms: 10 years, still 2% of UK equity for all-female founder teams",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "bank",
+        "british",
+        "british business bank",
+        "business"
+      ],
+      "amounts": [
+        "2pct"
+      ],
+      "item_date": "2026-07-06"
+    },
+    {
+      "run_number": 7,
+      "run_date": "2026-07-06",
+      "title": "SVB: Women's health VC deal-share collapsed 23% (2023-2025)",
+      "url": "https://geristengel.substack.com/p/mens-diseases-are-funded-while-womens",
+      "url_norm": "https://geristengel.substack.com/p/mens-diseases-are-funded-while-womens",
+      "entities": [
+        "bank",
+        "health",
+        "innovation",
+        "seed-to-series",
+        "silicon",
+        "silicon valley bank innovation",
+        "svb women",
+        "valley",
+        "women health"
+      ],
+      "amounts": [
+        "13pct",
+        "23pct",
+        "27pct",
+        "3.1pct",
+        "5.7pct",
+        "7.4pct"
+      ],
+      "item_date": "2026-07-02"
+    },
+    {
+      "run_number": 7,
+      "run_date": "2026-07-06",
+      "title": "British Business Bank: All-female teams stuck at 2% of UK equity for a decade",
+      "url": "https://www.smeweb.com/all-female-founded-businesses-still-only-getting-2-of-equity-investment-with-increased-funding-for-ai-firms-exacerbating-the-trend/",
+      "url_norm": "https://smeweb.com/all-female-founded-businesses-still-only-getting-2-of-equity-investment-with-increased-funding-for-ai-firms-exacerbating-the-trend",
+      "entities": [
+        "all-female",
+        "bank",
+        "british",
+        "british business bank all-female",
+        "business"
+      ],
+      "amounts": [
+        "2pct",
+        "3pct"
+      ],
+      "item_date": "2026-07-02"
+    },
+    {
+      "run_number": 7,
+      "run_date": "2026-07-06",
+      "title": "McKinsey: $700B wealth-transfer opportunity for women SME owners",
+      "url": "https://www.forbes.com/councils/forbesagencycouncil/2026/07/01/how-women-entrepreneurs-are-redefining-generational-wealth/",
+      "url_norm": "https://forbes.com/councils/forbesagencycouncil/2026/07/01/how-women-entrepreneurs-are-redefining-generational-wealth",
+      "entities": [
+        "closing",
+        "mckinsey",
+        "sme",
+        "smes",
+        "u.s smes"
+      ],
+      "amounts": [
+        "23pct",
+        "5",
+        "700b"
+      ],
+      "item_date": "2026-07-01"
+    },
+    {
+      "run_number": 7,
+      "run_date": "2026-07-06",
+      "title": "Magnify Ventures closes $46.6M Fund II for the care economy",
+      "url": "https://fortune.com/2026/07/01/magnify-ventures-fund-two-pivotal-melinda-french-gates-caregiving/",
+      "url_norm": "https://fortune.com/2026/07/01/magnify-ventures-fund-two-pivotal-melinda-french-gates-caregiving",
+      "entities": [
+        "ai-enabled",
+        "anchored",
+        "drake",
+        "french",
+        "gates",
+        "joanna",
+        "joanna drake",
+        "julie",
+        "julie wroblewski magnify ventures",
+        "magnify",
+        "magnify ventures",
+        "melinda",
+        "pivotal",
+        "pivotal ventures melinda french gates",
+        "ventures",
+        "wroblewski"
+      ],
+      "amounts": [
+        "46.6m"
+      ],
+      "item_date": "2026-07-01"
+    },
+    {
+      "run_number": 7,
+      "run_date": "2026-07-06",
+      "title": "IIDEA Fund - $15M for women and rural founders (India)",
+      "url": "https://economictimes.com/tech/funding/3one4-capital-launches-15-million-fund-to-support-overlooked-sectors-women-founders/articleshow/132096225.cms",
+      "url_norm": "https://economictimes.com/tech/funding/3one4-capital-launches-15-million-fund-to-support-overlooked-sectors-women-founders/articleshow/132096225.cms",
+      "entities": [
+        "british",
+        "british international investment",
+        "iidea",
+        "india",
+        "international",
+        "investment"
+      ],
+      "amounts": [
+        "15m"
+      ],
+      "item_date": "2026-06-30"
+    },
+    {
+      "run_number": 7,
+      "run_date": "2026-07-06",
+      "title": "Israeli tech: $7.6B H1 2026 (+52% YoY), $3.3B in June alone",
+      "url": "https://en.globes.co.il/en/article-israeli-startups-raised-33b-in-june-1001547583",
+      "url_norm": "https://en.globes.co.il/en/article-israeli-startups-raised-33b-in-june-1001547583",
+      "entities": [
+        "gender-split",
+        "june",
+        "strongest",
+        "yoy"
+      ],
+      "amounts": [
+        "3.3b",
+        "52pct",
+        "7.6b"
+      ],
+      "item_date": "2026-07-01"
+    },
+    {
+      "run_number": 7,
+      "run_date": "2026-07-06",
+      "title": "Female Foundry hits 6-year milestone; 2026 Female Innovation Index",
+      "url": "https://femalefoundry.substack.com/p/female-foundry-two-hundred-weeks",
+      "url_norm": "https://femalefoundry.substack.com/p/female-foundry-two-hundred-weeks",
+      "entities": [
+        "foundry",
+        "innovation"
+      ],
+      "amounts": [],
+      "item_date": "2026-07-05"
+    },
+    {
+      "run_number": 7,
+      "run_date": "2026-07-06",
+      "title": "Climentum Capital II - EUR60M first close for European climate tech",
+      "url": "https://parsers.substack.com/p/weekly-top-startup-vc-news-of-july-bb1",
+      "url_norm": "https://parsers.substack.com/p/weekly-top-startup-vc-news-of-july-bb1",
+      "entities": [
+        "climentum",
+        "doerte",
+        "doerte hirschberg climentum",
+        "eur60m",
+        "hirschberg"
+      ],
+      "amounts": [
+        "60m"
+      ],
+      "item_date": "2026-07-02"
+    },
+    {
+      "run_number": 7,
+      "run_date": "2026-07-06",
+      "title": "$46.6M Magnify Ventures Fund II close - care economy",
+      "url": "https://fortune.com/2026/07/01/magnify-ventures-fund-two-pivotal-melinda-french-gets-caregiving/",
+      "url_norm": "https://fortune.com/2026/07/01/magnify-ventures-fund-two-pivotal-melinda-french-gets-caregiving",
+      "entities": [
+        "magnify",
+        "magnify ventures",
+        "ventures"
+      ],
+      "amounts": [
+        "46.6m"
+      ],
+      "item_date": "2026-07-06"
+    },
+    {
+      "run_number": 8,
+      "run_date": "2026-07-13",
+      "title": "UK Investing in Women Code proves the fix works: signatories deployed 32% of investment value to female-founded teams in 2025, more than double the 15% market baseline",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "code",
+        "investing"
+      ],
+      "amounts": [
+        "15pct",
+        "32pct"
+      ],
+      "item_date": "2026-07-13"
+    },
+    {
+      "run_number": 8,
+      "run_date": "2026-07-13",
+      "title": "UK Investing in Women Code: signatories deployed 32% vs 15% market baseline",
+      "url": "https://www.gov.uk/government/news/research-shows-backing-female-led-businesses-is-good-for-growth",
+      "url_norm": "https://gov.uk/government/news/research-shows-backing-female-led-businesses-is-good-for-growth",
+      "entities": [
+        "code",
+        "investing",
+        "proof"
+      ],
+      "amounts": [
+        "15pct",
+        "32pct"
+      ],
+      "item_date": "2026-07-08"
+    },
+    {
+      "run_number": 8,
+      "run_date": "2026-07-13",
+      "title": "Databento closes $97M Series B led by NEA - Christina Qi builds Bloomberg competitor",
+      "url": "https://fortune.com/2026/07/09/christina-qi-left-a-hedge-fund-trading-7-billion-a-day-for-a-farm-in-utah-startup-raised-97-million-to-rival-bloomberg-lseg-databento/",
+      "url_norm": "https://fortune.com/2026/07/09/christina-qi-left-a-hedge-fund-trading-7-billion-a-day-for-a-farm-in-utah-startup-raised-97-million-to-rival-bloomberg-lseg-databento",
+      "entities": [
+        "bloomberg",
+        "christina",
+        "christina qi",
+        "databento",
+        "founder-ceo",
+        "lseg",
+        "lseg rare",
+        "nea",
+        "nea founder-ceo christina qi",
+        "rare",
+        "utah"
+      ],
+      "amounts": [
+        "97m"
+      ],
+      "item_date": "2026-07-09"
+    },
+    {
+      "run_number": 8,
+      "run_date": "2026-07-13",
+      "title": "AI boom widened the gender funding gap: 3% AI deal share for all-female teams",
+      "url": "https://entrepreneurplus.co.uk/the-female-founders-funding-gap-hiding-behind-this-weeks-record-ai-boom/",
+      "url_norm": "https://entrepreneurplus.co.uk/the-female-founders-funding-gap-hiding-behind-this-weeks-record-ai-boom",
+      "entities": [
+        "ai-benefits-everyone",
+        "narrative-building"
+      ],
+      "amounts": [
+        "3pct",
+        "7pct"
+      ],
+      "item_date": "2026-07-10"
+    },
+    {
+      "run_number": 8,
+      "run_date": "2026-07-13",
+      "title": "Solo GP Ashley Smith closes Vermilion Cliffs Ventures Fund II at $25M",
+      "url": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+      "url_norm": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund",
+      "entities": [
+        "ashley",
+        "ashley smith",
+        "cliffs",
+        "signal",
+        "smith",
+        "solo",
+        "ventures",
+        "vermilion",
+        "vermilion cliffs ventures"
+      ],
+      "amounts": [
+        "25m"
+      ],
+      "item_date": "2026-07-08"
+    },
+    {
+      "run_number": 8,
+      "run_date": "2026-07-13",
+      "title": "Bayer Foundation Women Entrepreneurs Award: 15 winners from 1,172 applicants across 124 countries",
+      "url": "https://finance.yahoo.com/healthcare/articles/bayer-foundation-women-entrepreneurs-award-040000592.html",
+      "url_norm": "https://finance.yahoo.com/healthcare/articles/bayer-foundation-women-entrepreneurs-award-040000592.html",
+      "entities": [
+        "award",
+        "bayer",
+        "bayer foundation",
+        "each",
+        "entrepreneurs",
+        "entrepreneurs award",
+        "foundation",
+        "health"
+      ],
+      "amounts": [
+        "25k"
+      ],
+      "item_date": "2026-07-09"
+    },
+    {
+      "run_number": 8,
+      "run_date": "2026-07-13",
+      "title": "FutureFemHealth Q2 2026: $738.78M across 40 women's health rounds",
+      "url": "https://www.linkedin.com/posts/annavosullivan_out-now-q2-2026-womens-health-funding-activity-7480559429571051520-lg-_",
+      "url_norm": "https://linkedin.com/posts/annavosullivan_out-now-q2-2026-womens-health-funding-activity-7480559429571051520-lg-_",
+      "entities": [
+        "create",
+        "create medicines",
+        "futurefemhealth",
+        "medicines",
+        "nourish"
+      ],
+      "amounts": [
+        "100m",
+        "122m",
+        "738.78m"
+      ],
+      "item_date": "2026-07-08"
+    },
+    {
+      "run_number": 8,
+      "run_date": "2026-07-13",
+      "title": "European Prize for Women Innovators 2026 winners announced",
+      "url": "https://sifted.eu/articles/award-winning-women-deeptech-startups-brnd",
+      "url_norm": "https://sifted.eu/articles/award-winning-women-deeptech-startups-brnd",
+      "entities": [
+        "atmos",
+        "cargo",
+        "cullen",
+        "eic",
+        "ella",
+        "ella cullen minespider",
+        "heartbeat",
+        "innovators",
+        "katerina",
+        "katerina spranger oxford heartbeat",
+        "marta",
+        "marta oliveira atmos space cargo",
+        "minespider",
+        "oliveira",
+        "oxford",
+        "prize",
+        "space",
+        "spranger"
+      ],
+      "amounts": [
+        "13.1m",
+        "2.5m"
+      ],
+      "item_date": "2026-07-09"
+    },
+    {
+      "run_number": 9,
+      "run_date": "2026-07-20",
+      "title": "Female founders posted their second-best funding quarter ever in Q2 2026 at $73.2B, but 89% flowed to one company (Anthropic), while the UK Invest in Women Taskforce crossed $115M deployed across 22 deals",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "anthropic",
+        "invest",
+        "taskforce"
+      ],
+      "amounts": [
+        "115m",
+        "73.2b",
+        "89pct"
+      ],
+      "item_date": "2026-07-20"
+    },
+    {
+      "run_number": 9,
+      "run_date": "2026-07-20",
+      "title": "Female founders raise $73.2B in Q2 2026, second-best quarter ever, but 89% is one company",
+      "url": "https://www.inc.com/georgia-fearn/female-founders-second-best-funding-quarter-ever/91373321",
+      "url_norm": "https://inc.com/georgia-fearn/female-founders-second-best-funding-quarter-ever/91373321",
+      "entities": [
+        "amodei",
+        "anthropic",
+        "anthropic daniela amodei",
+        "daniela",
+        "inc",
+        "pitchbook",
+        "underneath"
+      ],
+      "amounts": [
+        "65b",
+        "73.2b",
+        "89pct"
+      ],
+      "item_date": "2026-07-17"
+    },
+    {
+      "run_number": 9,
+      "run_date": "2026-07-20",
+      "title": "UK Invest in Women Taskforce surpasses $115M deployed across 22 deals",
+      "url": "https://pulse2.com/invest-in-women-taskforce-surpasses-115-million-deployed-across-22-deals/amp/",
+      "url_norm": "https://pulse2.com/invest-in-women-taskforce-surpasses-115-million-deployed-across-22-deals/amp",
+      "entities": [
+        "debbie",
+        "debbie wosskow cbe",
+        "deployment",
+        "invest",
+        "taskforce",
+        "wosskow"
+      ],
+      "amounts": [
+        "1.75pct",
+        "100m",
+        "115m",
+        "18b"
+      ],
+      "item_date": "2026-07-16"
+    },
+    {
+      "run_number": 9,
+      "run_date": "2026-07-20",
+      "title": "World Bank identifies 49 structural barriers facing women entrepreneurs in Eastern Europe & Central Asia",
+      "url": "https://kz.kursiv.media/en/2026-07-15/world-bank-identifies-49-barriers-for-women-entrepreneurs-in-eurasia/amp/",
+      "url_norm": "https://kz.kursiv.media/en/2026-07-15/world-bank-identifies-49-barriers-for-women-entrepreneurs-in-eurasia/amp",
+      "entities": [
+        "asia",
+        "bank",
+        "central",
+        "central asia",
+        "dfi",
+        "eastern",
+        "sets",
+        "smes"
+      ],
+      "amounts": [],
+      "item_date": "2026-07-15"
+    },
+    {
+      "run_number": 9,
+      "run_date": "2026-07-20",
+      "title": "Swiss SECA H1 2026: only 7% of Swiss VC capital went to female-CEO startups",
+      "url": "https://www.bluewin.ch/en/news/7-percent-of-capital-for-women-led-startups-li.3533202",
+      "url_norm": "https://bluewin.ch/en/news/7-percent-of-capital-for-women-led-startups-li.3533202",
+      "entities": [
+        "association",
+        "corporate",
+        "corporate finance association seca",
+        "dach",
+        "equity",
+        "finance",
+        "private",
+        "seca",
+        "swiss",
+        "swiss private equity",
+        "swiss seca"
+      ],
+      "amounts": [
+        "7pct"
+      ],
+      "item_date": "2026-07-14"
+    },
+    {
+      "run_number": 9,
+      "run_date": "2026-07-20",
+      "title": "Citation Capital closes $1.2B - largest female-led PE fund of 2026",
+      "url": "https://www.linkedin.com/pulse/tech-roundup-127-funding-ai-innovation-global-startup-fedeyko-zlolc",
+      "url_norm": "https://linkedin.com/pulse/tech-roundup-127-funding-ai-innovation-global-startup-fedeyko-zlolc",
+      "entities": [
+        "citation",
+        "glynn",
+        "hagge",
+        "hudson",
+        "institutional",
+        "institutional lps",
+        "laurie",
+        "laurie hagge",
+        "tricia",
+        "tricia glynn hudson"
+      ],
+      "amounts": [
+        "1.2b"
+      ],
+      "item_date": "2026-07-15"
+    },
+    {
+      "run_number": 9,
+      "run_date": "2026-07-20",
+      "title": "Global women's health investment enters $1.55B era of scale - Forbes",
+      "url": "https://www.forbes.com/sites/geristengel/2026/07/15/2025-global-womens-health-investment-hit-a-record-us-investors-curb-their-enthusiasm/",
+      "url_norm": "https://forbes.com/sites/geristengel/2026/07/15/2025-global-womens-health-investment-hit-a-record-us-investors-curb-their-enthusiasm",
+      "entities": [
+        "femhealth",
+        "femhealth ventures",
+        "forbes",
+        "forbes forbes",
+        "sector-thesis",
+        "ventures"
+      ],
+      "amounts": [
+        "1.55b"
+      ],
+      "item_date": "2026-07-15"
+    },
+    {
+      "run_number": 9,
+      "run_date": "2026-07-20",
+      "title": "Women TechEU reopens with 4 cutoffs, first cutoff July 21",
+      "url": "https://horizonteeuropa.es/nueva-convocatoria-women-techeu",
+      "url_norm": "https://horizonteeuropa.es/nueva-convocatoria-women-techeu",
+      "entities": [
+        "council",
+        "innovation",
+        "innovation council",
+        "july",
+        "rolling",
+        "techeu",
+        "tuesday",
+        "tuesday july"
+      ],
+      "amounts": [
+        "75k"
+      ],
+      "item_date": "2026-07-15"
+    },
+    {
+      "run_number": 9,
+      "run_date": "2026-07-20",
+      "title": "Israel closes H1 2026 with $8.4-8.6B raised across 129 rounds",
+      "url": "https://agentsnewsroom.online/en/articles/israeli-tech-2026-07-19",
+      "url_norm": "https://agentsnewsroom.online/en/articles/israeli-tech-2026-07-19",
+      "entities": [
+        "argamani",
+        "eir",
+        "noa argamani",
+        "notable",
+        "ventures",
+        "vine",
+        "vine ventures"
+      ],
+      "amounts": [
+        "8.4"
+      ],
+      "item_date": "2026-07-19"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "SyndicateRoom confirms the 50M ceiling: three years of UK filings and zero all-female-founded raises above 50M pounds, while Israel opens a NIS 1B fast-track and Women TechEU launches its 3rd edition",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "nis",
+        "syndicateroom",
+        "techeu"
+      ],
+      "amounts": [
+        "1b"
+      ],
+      "item_date": "2026-07-27"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "SyndicateRoom UK filings: no all-female-founded raise above 50M pounds in 3+ years",
+      "url": "https://ukbaa.org.uk/blog/2026/07/22/the-50m-ceiling-three-years-of-uk-filings-show-no-all-female-founded-raise-has-broken-through/",
+      "url_norm": "https://ukbaa.org.uk/blog/2026/07/22/the-50m-ceiling-three-years-of-uk-filings-show-no-all-female-founded-raise-has-broken-through",
+      "entities": [
+        "syndicateroom",
+        "zero"
+      ],
+      "amounts": [
+        "3.4pct",
+        "3.5pct",
+        "6.2pct",
+        "6.6pct"
+      ],
+      "item_date": "2026-07-22"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "Israel launches NIS 1B (~$330M) shekel fast-track for tech companies",
+      "url": "https://en.globes.co.il/en/article-aid-launched-for-tech-cos-hit-by-strong-shekel-1001550435",
+      "url_norm": "https://en.globes.co.il/en/article-aid-launched-for-tech-cos-hit-by-strong-shekel-1001550435",
+      "entities": [
+        "applications",
+        "aug",
+        "authority",
+        "finance",
+        "innovation",
+        "innovation authority ministry",
+        "jul",
+        "ministry",
+        "nis"
+      ],
+      "amounts": [
+        "15m",
+        "1b",
+        "330m",
+        "4.6m",
+        "50pct"
+      ],
+      "item_date": "2026-07-26"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "Women TechEU 3rd edition (2026-2028) officially launched",
+      "url": "https://horizon-europe.org.ua/en/news/calls/the-women-techeu-project-has-been-launched-and-opened-its-call-for-applications/",
+      "url_norm": "https://horizon-europe.org.ua/en/news/calls/the-women-techeu-project-has-been-launched-and-opened-its-call-for-applications",
+      "entities": [
+        "aug",
+        "august",
+        "august infodays",
+        "cet",
+        "eur",
+        "horizon",
+        "infodays",
+        "sep",
+        "techeu",
+        "tuesday"
+      ],
+      "amounts": [
+        "75k"
+      ],
+      "item_date": "2026-07-23"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "UK female CEOs at an 8-year low, 24% to 17%",
+      "url": "https://prowess.org.uk/female-ceos-uk-eight-year-low/",
+      "url_norm": "https://prowess.org.uk/female-ceos-uk-eight-year-low",
+      "entities": [
+        "business",
+        "middle-management",
+        "thornton"
+      ],
+      "amounts": [
+        "17pct",
+        "24pct"
+      ],
+      "item_date": "2026-07-22"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "Airwallex closes $460M Series H at $6.2B",
+      "url": "https://www.cutthrough.com/insights/cut-through-quarterly-2q-2026",
+      "url_norm": "https://cutthrough.com/insights/cut-through-quarterly-2q-2026",
+      "entities": [
+        "airwallex",
+        "anthropic",
+        "anthropic cut through",
+        "australia",
+        "australia-headquartered",
+        "scott",
+        "shannon",
+        "shannon scott",
+        "through"
+      ],
+      "amounts": [
+        "33pct",
+        "460m",
+        "6.2b"
+      ],
+      "item_date": "2026-07-23"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "Vermilion Cliffs Ventures Fund II closes $25M, solo GP Ashley Smith",
+      "url": "https://traded.co/vc/",
+      "url_norm": "https://traded.co/vc",
+      "entities": [
+        "ashley",
+        "ashley smith",
+        "cliffs",
+        "smith",
+        "ventures",
+        "vermilion",
+        "vermilion cliffs ventures"
+      ],
+      "amounts": [
+        "25m"
+      ],
+      "item_date": "2026-07-24"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "Angel Academe x SyndicateRoom launching UK first female-founder EIS fund",
+      "url": "https://angelacademe.substack.com/p/summer-2026-newsletter",
+      "url_norm": "https://angelacademe.substack.com/p/summer-2026-newsletter",
+      "entities": [
+        "academe",
+        "angel",
+        "angel academe",
+        "announced",
+        "details",
+        "eis",
+        "syndicateroom"
+      ],
+      "amounts": [],
+      "item_date": "2026-07-21"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "Allison Byers analysis: all-female VC share hit 0.7% in H1 2026",
+      "url": "https://www.linkedin.com/posts/allison-byers_we-saw-record-venture-dollars-in-h1-2026-activity-7485321432478994432-pA4U",
+      "url_norm": "https://linkedin.com/posts/allison-byers_we-saw-record-venture-dollars-in-h1-2026-activity-7485321432478994432-pa4u",
+      "entities": [
+        "allison",
+        "allison byers",
+        "byers"
+      ],
+      "amounts": [
+        "0.7pct"
+      ],
+      "item_date": "2026-07-20"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "Forbes Midas List 2026: only 8 of 100 are women",
+      "url": "https://www.linkedin.com/posts/ivelina-dineva-nft_only-8-women-made-forbes-list-of-the-worlds-activity-7486042716322181120-N6D7",
+      "url_norm": "https://linkedin.com/posts/ivelina-dineva-nft_only-8-women-made-forbes-list-of-the-worlds-activity-7486042716322181120-n6d7",
+      "entities": [
+        "anthropic",
+        "forbes",
+        "forbes midas list",
+        "list",
+        "midas",
+        "midas list overall",
+        "overall",
+        "razavi",
+        "spark",
+        "yasmin",
+        "yasmin razavi spark"
+      ],
+      "amounts": [],
+      "item_date": "2026-07-21"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "Northwestern Farley: women-founded return $0.78 per $1 vs men $0.31",
+      "url": "https://farley.northwestern.edu/news-events/news/articles/2026/breaking-the-mold.html",
+      "url_norm": "https://farley.northwestern.edu/news-events/news/articles/2026/breaking-the-mold.html",
+      "entities": [
+        "farley",
+        "jackson",
+        "northwestern",
+        "northwestern farley",
+        "prof",
+        "prof jackson"
+      ],
+      "amounts": [
+        "0.31",
+        "0.78",
+        "1"
+      ],
+      "item_date": "2026-07-24"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "Israeli cyber trio raises $340M in 8 days, zero female CEOs",
+      "url": "https://www.calcalistech.com/ctechnews/article/r1lna31hzx",
+      "url_norm": "https://calcalistech.com/ctechnews/article/r1lna31hzx",
+      "entities": [
+        "a16z",
+        "ai-security",
+        "alto",
+        "glow",
+        "neo",
+        "oak",
+        "palo",
+        "reinforces",
+        "wiz palo alto"
+      ],
+      "amounts": [
+        "1.2b",
+        "100m",
+        "180m",
+        "340m",
+        "60m"
+      ],
+      "item_date": "2026-07-24"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "Kalaari Capital India: INR 4 of 100 raised by alumni networks reaches women",
+      "url": "https://articles.unesco.org/sites/default/files/medias/fichiers/2026/07/UNESCO%20Outlook%20Study%20on%20AI%20and%20Gender%20in%20South%20Asia_FINAL_1.pdf",
+      "url_norm": "https://articles.unesco.org/sites/default/files/medias/fichiers/2026/07/unesco%20outlook%20study%20on%20ai%20and%20gender%20in%20south%20asia_final_1.pdf",
+      "entities": [
+        "asia",
+        "india",
+        "india inr",
+        "kalaari",
+        "south",
+        "south asia",
+        "unesco"
+      ],
+      "amounts": [],
+      "item_date": "2026-07-24"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "50M pounds UK all-female-founded raise ceiling, unbroken for 3+ years",
+      "url": "",
+      "url_norm": "",
+      "entities": [],
+      "amounts": [],
+      "item_date": "2026-07-27"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "0.7% US all-female-team VC share, H1 2026",
+      "url": "",
+      "url_norm": "",
+      "entities": [],
+      "amounts": [
+        "0.7pct"
+      ],
+      "item_date": "2026-07-27"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "17% UK female mid-market CEO share, 8-year low (was 24%)",
+      "url": "",
+      "url_norm": "",
+      "entities": [],
+      "amounts": [
+        "17pct",
+        "24pct"
+      ],
+      "item_date": "2026-07-27"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "INR 4 of 100 of alumni-network capital reaches women founders (Kalaari India)",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "india",
+        "inr",
+        "kalaari",
+        "kalaari india"
+      ],
+      "amounts": [],
+      "item_date": "2026-07-27"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "$0.78 vs $0.31 return per $1: women- vs men-founded (Northwestern Farley)",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "farley",
+        "northwestern",
+        "northwestern farley"
+      ],
+      "amounts": [
+        "0.31",
+        "0.78",
+        "1"
+      ],
+      "item_date": "2026-07-27"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "NIS 1B Israel shekel fast-track pool, 4-week decisions",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "nis"
+      ],
+      "amounts": [
+        "1b"
+      ],
+      "item_date": "2026-07-27"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "160 x EUR75K Women TechEU 3rd edition programme (2026-2028)",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "eur75k",
+        "techeu"
+      ],
+      "amounts": [
+        "75k"
+      ],
+      "item_date": "2026-07-27"
+    },
+    {
+      "run_number": 10,
+      "run_date": "2026-07-27",
+      "title": "8 of 100 women on Forbes Midas List 2026",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "forbes",
+        "forbes midas list",
+        "list",
+        "midas"
+      ],
+      "amounts": [],
+      "item_date": "2026-07-27"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "Series C is broken across Europe (85 percent of the 2021-2023 Series B cohort has NOT raised C) and US female-founded VC share has halved in one year to 1.1 percent, while Aleph closes Fund V at $150M for Israel and Women TechEU shifts to weekly Tuesday cutoffs.",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "aleph",
+        "techeu",
+        "tuesday"
+      ],
+      "amounts": [
+        "150m"
+      ],
+      "item_date": "2026-08-03"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "Silverpeak H1 2026: 85 percent of European 2021-2023 Series B cohort has NOT raised Series C",
+      "url": "https://www.silverpeakib.com/h1-2026-tech-growth-financing-report/",
+      "url_norm": "https://silverpeakib.com/h1-2026-tech-growth-financing-report",
+      "entities": [
+        "eur",
+        "silverpeak"
+      ],
+      "amounts": [],
+      "item_date": "2026-07-29"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "HerForward: US female-founded VC share halved in one year, 2.1 percent to 1.1 percent",
+      "url": "https://herforward.com/the-funding-gap-persists-for-women-founders-in-vc/",
+      "url_norm": "https://herforward.com/the-funding-gap-persists-for-women-founders-in-vc",
+      "entities": [
+        "anthropic",
+        "herforward"
+      ],
+      "amounts": [],
+      "item_date": "2026-07-30"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "W Group tracker: $1.55B raised in global women's health equity in 2025 across 85 companies",
+      "url": "https://wewillcure.com/insights/news/funding-and-models/womens-health-venture-capital-funding-tracker-2026",
+      "url_norm": "https://wewillcure.com/insights/news/funding-and-models/womens-health-venture-capital-funding-tracker-2026",
+      "entities": [
+        "group",
+        "sector-specific"
+      ],
+      "amounts": [
+        "1.55b"
+      ],
+      "item_date": "2026-07-29"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "Aleph Fund V closes at $150M for Israeli early-stage",
+      "url": "https://cryptorank.io/news/feed/aleph-lp-raise-2026-07-28",
+      "url_norm": "https://cryptorank.io/news/feed/aleph-lp-raise-2026-07-28",
+      "entities": [
+        "aleph",
+        "fresh",
+        "iia nis"
+      ],
+      "amounts": [
+        "150m",
+        "1b"
+      ],
+      "item_date": "2026-07-28"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "Scribe Therapeutics prices $128.7M upsized IPO, Jennifer Doudna co-founded",
+      "url": "https://www.streetinsider.com/PressRelease/Scribe+Therapeutics+Prices+Upsized+Initial+Public+Offering+of+7%2C575%2C000+Shares/25184127.html",
+      "url_norm": "https://streetinsider.com/pressrelease/scribe+therapeutics+prices+upsized+initial+public+offering+of+7%2c575%2c000+shares/25184127.html",
+      "entities": [
+        "crispr",
+        "doudna",
+        "ipo",
+        "ipo jennifer doudna",
+        "jennifer",
+        "scribe",
+        "scribe therapeutics",
+        "therapeutics"
+      ],
+      "amounts": [
+        "128.7m"
+      ],
+      "item_date": "2026-07-30"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "Israeli startups raised $1.5B in July 2026",
+      "url": "https://en.globes.co.il/en/article-israeli-startups-raised-14b-in-july-1001551075",
+      "url_norm": "https://en.globes.co.il/en/article-israeli-startups-raised-14b-in-july-1001551075",
+      "entities": [
+        "aleph",
+        "globes",
+        "iia",
+        "july"
+      ],
+      "amounts": [
+        "1.5b"
+      ],
+      "item_date": "2026-08-01"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "Aurenar closes $5.7M oversubscribed seed for AI drug discovery",
+      "url": "https://finance.yahoo.com/healthcare/articles/aurenar-closes-oversubscribed-5-7m-130000268.html",
+      "url_norm": "https://finance.yahoo.com/healthcare/articles/aurenar-closes-oversubscribed-5-7m-130000268.html",
+      "entities": [
+        "adds",
+        "aurenar"
+      ],
+      "amounts": [
+        "5.7m"
+      ],
+      "item_date": "2026-07-31"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "European Prize for Women Innovators 2026 awards EUR 100K to Katerina Spranger of Oxford Heartbeat",
+      "url": "https://www.chateic.com/articles/european-prize-for-women-innovators-2026-winners-technologies-and-policy-implications",
+      "url_norm": "https://chateic.com/articles/european-prize-for-women-innovators-2026-winners-technologies-and-policy-implications",
+      "entities": [
+        "chat",
+        "eur",
+        "heartbeat",
+        "innovators",
+        "katerina",
+        "katerina spranger",
+        "oxford",
+        "oxford heartbeat",
+        "oxford heartbeat chat eic",
+        "prize",
+        "signals",
+        "spranger"
+      ],
+      "amounts": [
+        "100k"
+      ],
+      "item_date": "2026-07-28"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "Women TechEU 3rd edition shifts to weekly Tuesday cutoffs, next Aug 11",
+      "url": "https://womentecheurope.eu/active-calls/",
+      "url_norm": "https://womentecheurope.eu/active-calls",
+      "entities": [
+        "aug",
+        "cet aug",
+        "eur",
+        "infoday",
+        "infoday sep",
+        "techeu",
+        "tuesday"
+      ],
+      "amounts": [
+        "75k"
+      ],
+      "item_date": "2026-07-28"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "tech.eu H1 2026: EUR 44.1B European tech investment across roughly 1,740 deals",
+      "url": "https://tech.eu/",
+      "url_norm": "https://tech.eu",
+      "entities": [
+        "eur",
+        "silverpeak"
+      ],
+      "amounts": [
+        "44.1b"
+      ],
+      "item_date": "2026-07-31"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "Anthropic hits $170B private valuation on secondary trades",
+      "url": "https://www.theinformation.com/",
+      "url_norm": "https://theinformation.com",
+      "entities": [
+        "anthropic",
+        "secondary"
+      ],
+      "amounts": [
+        "170b"
+      ],
+      "item_date": "2026-07-28"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "85% EU 2021-2023 Series B cohort that has NOT raised Series C (Silverpeak)",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "silverpeak"
+      ],
+      "amounts": [
+        "85pct"
+      ],
+      "item_date": "2026-08-03"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "1.1% US VC dollars to female-founded companies in 2025 (down from 2.1%)",
+      "url": "",
+      "url_norm": "",
+      "entities": [],
+      "amounts": [
+        "1.1pct",
+        "2.1pct"
+      ],
+      "item_date": "2026-08-03"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "$1.55B global women's health equity raised in 2025 across 85 companies",
+      "url": "",
+      "url_norm": "",
+      "entities": [],
+      "amounts": [
+        "1.55b"
+      ],
+      "item_date": "2026-08-03"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "$150M Aleph Fund V close for Israeli early-stage",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "aleph"
+      ],
+      "amounts": [
+        "150m"
+      ],
+      "item_date": "2026-08-03"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "$44.1B European tech H1 2026 investment across ~1,740 deals",
+      "url": "",
+      "url_norm": "",
+      "entities": [],
+      "amounts": [
+        "44.1b"
+      ],
+      "item_date": "2026-08-03"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "EUR 100K European Prize for Women Innovators 2026 (Katerina Spranger)",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "eur",
+        "innovators",
+        "katerina",
+        "katerina spranger",
+        "prize",
+        "spranger"
+      ],
+      "amounts": [
+        "100k"
+      ],
+      "item_date": "2026-08-03"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "18.5B EUR committed European Series B capital stalled without Series C (Silverpeak)",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "eur",
+        "silverpeak"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-03"
+    },
+    {
+      "run_number": 11,
+      "run_date": "2026-08-03",
+      "title": "$128.7M Scribe Therapeutics upsized IPO (Jennifer Doudna co-founded)",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "doudna",
+        "ipo jennifer doudna",
+        "jennifer",
+        "scribe",
+        "scribe therapeutics",
+        "therapeutics"
+      ],
+      "amounts": [
+        "128.7m"
+      ],
+      "item_date": "2026-08-03"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "Innovate UK backs 61 women founders with 75K GBP each while Genius AI twin sisters hit unicorn at 1.15B USD, Volta AI raises 300M at 2.4B with a female co-founder, Citation Capital closes a 1.2B female-led PE debut, and Cut Through Q2 shows 95 percent of Australian early-stage still male-only.",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "australian",
+        "citation",
+        "cut through",
+        "gbp",
+        "genius",
+        "innovate",
+        "through",
+        "usd volta",
+        "volta"
+      ],
+      "amounts": [
+        ""
+      ],
+      "item_date": "2026-08-10"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "Innovate UK Women in Innovation Awards 2026: 61 women funded at 75K GBP each",
+      "url": "https://iuk-business-connect.org.uk/programme/women-in-innovation/",
+      "url_norm": "https://iuk-business-connect.org.uk/programme/women-in-innovation",
+      "entities": [
+        "awards",
+        "gbp",
+        "innovate",
+        "innovation",
+        "innovation awards",
+        "melody",
+        "verinity",
+        "verinity melody williams",
+        "williams"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-05"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "Genius AI (fka GlossGenius) hits unicorn at 1.15B USD led by twin sisters Cohen-Shohet",
+      "url": "https://www.forbes.com/sites/alyssajaffer/2026/08/06/twin-founders-of-genius-ai-raise-series-d-funding-valued-at-115-billion/",
+      "url_norm": "https://forbes.com/sites/alyssajaffer/2026/08/06/twin-founders-of-genius-ai-raise-series-d-funding-valued-at-115-billion",
+      "entities": [
+        "cohen-shohet",
+        "cohen-shohet danielle",
+        "danielle",
+        "genius",
+        "glossgenius",
+        "leah",
+        "leah cohen-shohet",
+        "usd"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-06"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "Volta AI emerges from stealth with 300M USD at 2.4B valuation, co-founded by Sofia Gumuzio",
+      "url": "https://www.businesswire.com/news/home/20260804493428/en/Volta-Emerges-From-Stealth-With-10-Billion-AI-Lab-Partnership-and-5-Billion-AI-Infrastructure-Program",
+      "url_norm": "https://businesswire.com/news/home/20260804493428/en/volta-emerges-from-stealth-with-10-billion-ai-lab-partnership-and-5-billion-ai-infrastructure-program",
+      "entities": [
+        "a16z",
+        "altimeter",
+        "altimeter nvidia",
+        "azora",
+        "azora co-founder sofia gumuzio",
+        "co-founder",
+        "gumuzio",
+        "london-based",
+        "nvidia",
+        "sofia",
+        "sofia gumuzio london-based volta",
+        "usd",
+        "volta"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-04"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "Citation Capital closes 1.2B USD inaugural fund led by Hagge and Hudson",
+      "url": "https://www.linkedin.com/posts/amiesheridan_wins-list-20-women-founded-startups-raise-activity-7490822544107663361-iipz",
+      "url_norm": "https://linkedin.com/posts/amiesheridan_wins-list-20-women-founded-startups-raise-activity-7490822544107663361-iipz",
+      "entities": [
+        "citation",
+        "citation capital",
+        "hagge",
+        "hudson",
+        "hudson tiffany",
+        "lps",
+        "lydie",
+        "tiffany",
+        "usd"
+      ],
+      "amounts": [
+        ""
+      ],
+      "item_date": "2026-08-05"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "Expedition Therapeutics secures 125M USD Series A led by Bain Capital Life Sciences",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nyse-content-expedition-therapeutics-secures-125500373.html",
+      "url_norm": "https://finance.yahoo.com/markets/stocks/articles/nyse-content-expedition-therapeutics-secures-125500373.html",
+      "entities": [
+        "bain",
+        "expedition",
+        "expedition therapeutics",
+        "larson-led",
+        "life",
+        "life sciences",
+        "life sciences yi larson-led expedition therapeutics",
+        "sciences",
+        "therapeutics",
+        "usd"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-05"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "Aavalynx closes 1.75M USD pre-seed for AI-native agentic commerce",
+      "url": "https://www.thesaasnews.com/news/aavalynx-raises-1-75m-pre-seed/",
+      "url_norm": "https://thesaasnews.com/news/aavalynx-raises-1-75m-pre-seed",
+      "entities": [
+        "aavalynx",
+        "ai-native",
+        "founded",
+        "usd"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-06"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "Verinity's Melody Williams wins Innovate UK Women in Innovation Award",
+      "url": "https://insidecroydon.com/2026/08/06/south-end-start-up-that-tackles-scammers-wins-innovate-award/",
+      "url_norm": "https://insidecroydon.com/2026/08/06/south-end-start-up-that-tackles-scammers-wins-innovate-award",
+      "entities": [
+        "award",
+        "innovate",
+        "innovation",
+        "innovation award",
+        "innovation award melody williams verinity",
+        "melody",
+        "verinity",
+        "verinity app",
+        "verinity melody williams",
+        "williams"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-06"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "Israel Innovation Authority Startup Fund open call continues",
+      "url": "https://innovationisrael.org.il/en/programs/startup-fund/",
+      "url_norm": "https://innovationisrael.org.il/en/programs/startup-fund",
+      "entities": [
+        "authority",
+        "iia",
+        "innovation",
+        "innovation authority",
+        "r&d",
+        "rolling"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-04"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "EU Startup and Scaleup Strategy progress note flags execution gaps",
+      "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eu-startup-and-scaleup-strategy-progress-so-far-and-challenges-ahead-2026-01-26_en",
+      "url_norm": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/eu-startup-and-scaleup-strategy-progress-so-far-and-challenges-ahead-2026-01-26_en",
+      "entities": [
+        "commission",
+        "commission progress-so-far",
+        "progress-so-far",
+        "scaleup",
+        "scaleup strategy",
+        "strategy"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-04"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "Entreprenista August 2026 grants roundup for women founders",
+      "url": "https://www.entreprenista.com/articles/august-2026-grants",
+      "url_norm": "https://entreprenista.com/articles/august-2026-grants",
+      "entities": [
+        "august",
+        "entreprenista",
+        "entreprenista august"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-01"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "61 Innovate UK Women in Innovation winners at 75K GBP each",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "gbp",
+        "innovate",
+        "innovation"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-10"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "1.15B USD Genius AI unicorn Series D twin-sister founders",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "genius",
+        "usd genius"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-10"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "95% Australian Angel and Pre-Seed rounds still male-only Q2 2026",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "angel",
+        "australian",
+        "australian angel",
+        "pre-seed"
+      ],
+      "amounts": [
+        "95pct"
+      ],
+      "item_date": "2026-08-10"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "9B USD Raised by women-led VC funds in 60 days (WINS List)",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "list",
+        "usd",
+        "wins",
+        "wins list"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-10"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "806M USD Into women's health startups in 60 days",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "usd"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-10"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "1.2B USD Citation Capital inaugural fund (Hagge + Hudson)",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "citation",
+        "hagge",
+        "hagge hudson",
+        "hudson",
+        "usd citation"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-10"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "300M USD Volta AI emergence at 2.4B valuation",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "usd volta",
+        "volta"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-10"
+    },
+    {
+      "run_number": 12,
+      "run_date": "2026-08-10",
+      "title": "125M USD Expedition Therapeutics Series A (Yi Larson)",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "expedition",
+        "larson",
+        "therapeutics",
+        "usd expedition therapeutics",
+        "yi larson"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-10"
+    },
+    {
+      "run_number": 13,
+      "run_date": "2026-08-17",
+      "title": "20 women-founded companies raised 1.99B USD in one week per WINS List Issue 20, led by Julia DeWahl closing 470M USD Series C for Antares nuclear microreactors, while Highland Europe closed 1.1B EUR Fund VI, Team8 closed 365M USD Fund III with new Managing Partner Sarit Firon, and Forbes reconfirmed just 1.1 percent of 2025 US VC dollars went to all-women teams.",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "antares",
+        "dewahl",
+        "eur",
+        "firon",
+        "forbes",
+        "highland",
+        "iii",
+        "issue",
+        "julia",
+        "julia dewahl",
+        "list",
+        "managing",
+        "sarit",
+        "sarit firon",
+        "team8",
+        "usd",
+        "vi team8",
+        "wins",
+        "wins list issue"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-17"
+    },
+    {
+      "run_number": 13,
+      "run_date": "2026-08-17",
+      "title": "WINS List Issue 20: 20 women-founded companies raise 1.99B USD in one week",
+      "url": "https://winslist.beehiiv.com/p/wins-list-20-women-founded-startups-raise-1-99b-serena-ventures-becomes-starfire",
+      "url_norm": "https://winslist.beehiiv.com/p/wins-list-20-women-founded-startups-raise-1-99b-serena-ventures-becomes-starfire",
+      "entities": [
+        "amie",
+        "amie sheridan wins list issue",
+        "issue",
+        "list",
+        "sheridan",
+        "usd",
+        "wins",
+        "wins list issue"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-13"
+    },
+    {
+      "run_number": 13,
+      "run_date": "2026-08-17",
+      "title": "Forbes: former PayPal exec Nathalie Molina Nino is fixing VC blind spot with AQi 10M USD equity crowdfunding",
+      "url": "https://www.forbes.com/sites/laureldonnellan/2026/08/13/a-former-paypal-exec-is-fixing-vcs-biggest-blind-spot-women-founders/",
+      "url_norm": "https://forbes.com/sites/laureldonnellan/2026/08/13/a-former-paypal-exec-is-fixing-vcs-biggest-blind-spot-women-founders",
+      "entities": [
+        "aqi",
+        "bcg",
+        "cites",
+        "forbes",
+        "molina",
+        "nathalie",
+        "nathalie molina nino",
+        "nino",
+        "paypal",
+        "usd"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-13"
+    },
+    {
+      "run_number": 13,
+      "run_date": "2026-08-17",
+      "title": "Highland Europe closes 1.1B EUR Fund VI with Irena Goldenberg on growth team",
+      "url": "https://www.highlandeurope.com/highland-europe-raises-e1-1bn-growth-capital-fund-vi/",
+      "url_norm": "https://highlandeurope.com/highland-europe-raises-e1-1bn-growth-capital-fund-vi",
+      "entities": [
+        "eur",
+        "goldenberg",
+        "growth",
+        "highland",
+        "irena",
+        "irena goldenberg",
+        "pink",
+        "pink x"
+      ],
+      "amounts": [
+        ""
+      ],
+      "item_date": "2026-08-11"
+    },
+    {
+      "run_number": 13,
+      "run_date": "2026-08-17",
+      "title": "Team8 closes 365M USD Fund III, names Sarit Firon Managing Partner",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS/3792093/team8-raises-365-million-to-back-the-next-generation-of-ai-native-enterprise-companies/",
+      "url_norm": "https://theglobeandmail.com/investing/markets/markets-news/access/3792093/team8-raises-365-million-to-back-the-next-generation-of-ai-native-enterprise-companies",
+      "entities": [
+        "ai-native",
+        "firon",
+        "iii",
+        "managing",
+        "sarit",
+        "sarit firon",
+        "sarit firon managing",
+        "team8",
+        "usd"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-12"
+    },
+    {
+      "run_number": 13,
+      "run_date": "2026-08-17",
+      "title": "1.99B USD 20 women-founded rounds in seven days (WINS List Issue 20)",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "issue",
+        "list",
+        "usd",
+        "wins",
+        "wins list issue"
+      ],
+      "amounts": [
+        "20"
+      ],
+      "item_date": "2026-08-17"
+    },
+    {
+      "run_number": 13,
+      "run_date": "2026-08-17",
+      "title": "470M USD Antares Series C led by CEO Julia DeWahl",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "antares",
+        "dewahl",
+        "julia",
+        "julia dewahl",
+        "usd antares"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-17"
+    },
+    {
+      "run_number": 13,
+      "run_date": "2026-08-17",
+      "title": "450M USD Function Health round with Pranitha Patil",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "function",
+        "health",
+        "patil",
+        "pranitha",
+        "pranitha patil",
+        "usd function health"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-17"
+    },
+    {
+      "run_number": 13,
+      "run_date": "2026-08-17",
+      "title": "200M USD Simile at 2B valuation with Lainie Yallen",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "lainie",
+        "lainie yallen",
+        "simile",
+        "usd simile",
+        "yallen"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-17"
+    },
+    {
+      "run_number": 13,
+      "run_date": "2026-08-17",
+      "title": "1.1B EUR Highland Europe Fund VI closed with Irena Goldenberg on growth",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "eur highland",
+        "goldenberg",
+        "highland",
+        "irena",
+        "irena goldenberg"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-17"
+    },
+    {
+      "run_number": 13,
+      "run_date": "2026-08-17",
+      "title": "1.1% All-women share of 2025 US VC dollars per Forbes and PitchBook",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "all-women",
+        "forbes",
+        "pitchbook"
+      ],
+      "amounts": [
+        "1.1pct"
+      ],
+      "item_date": "2026-08-17"
+    },
+    {
+      "run_number": 14,
+      "run_date": "2026-08-24",
+      "title": "0.8 percent. 34 CEOs. $90M seed. The gender gap and the record week.",
+      "url": "https://www.linkedin.com/pulse/women-entrepreneurs-still-lack-access-capital-rieva-lesonsky-chocc",
+      "url_norm": "https://linkedin.com/pulse/women-entrepreneurs-still-lack-access-capital-rieva-lesonsky-chocc",
+      "entities": [
+        "a16z",
+        "assaf",
+        "assaf rappaport",
+        "bahat",
+        "canadian",
+        "fidler",
+        "fortune",
+        "greylock",
+        "merav",
+        "merav bahat",
+        "pitchbook",
+        "rappaport",
+        "sanja",
+        "sanja fidler veeda",
+        "sequoia",
+        "sequoia greylock",
+        "veeda"
+      ],
+      "amounts": [
+        "25",
+        "90m"
+      ],
+      "item_date": "2026-08-24"
+    },
+    {
+      "run_number": 14,
+      "run_date": "2026-08-24",
+      "title": "Fortune Global 500 hits record 34 women CEOs (6.8%)",
+      "url": "https://fortune.com/2026/08/03/fortune-global-500-female-ceos-2026-elevance-health/",
+      "url_norm": "https://fortune.com/2026/08/03/fortune-global-500-female-ceos-2026-elevance-health",
+      "entities": [
+        "boudreaux",
+        "elevance",
+        "elevance health gail boudreaux",
+        "fortune",
+        "gail",
+        "health"
+      ],
+      "amounts": [
+        "6.8pct"
+      ],
+      "item_date": "2026-08-03"
+    },
+    {
+      "run_number": 14,
+      "run_date": "2026-08-24",
+      "title": "Sanja Fidler's Veeda AI raises $90M seed for world models",
+      "url": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding/",
+      "url_norm": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding",
+      "entities": [
+        "aug",
+        "canadian",
+        "fidler",
+        "nvidia",
+        "nvidia vp sanja fidler",
+        "sanja",
+        "sanja fidler veeda",
+        "veeda",
+        "world-model"
+      ],
+      "amounts": [
+        "90m"
+      ],
+      "item_date": "2026-08-19"
+    },
+    {
+      "run_number": 14,
+      "run_date": "2026-08-24",
+      "title": "Merav Bahat rounds up Sequoia, Greylock, a16z for new Israeli AI fund",
+      "url": "https://www.linkedin.com/pulse/merav-bahat-raising-25-30-million-ai-fund-assaf-rappaport-srxuf",
+      "url_norm": "https://linkedin.com/pulse/merav-bahat-raising-25-30-million-ai-fund-assaf-rappaport-srxuf",
+      "entities": [
+        "a16z",
+        "andreessen",
+        "assaf",
+        "assaf rappaport",
+        "bahat",
+        "greylock",
+        "horowitz",
+        "lps",
+        "merav",
+        "merav bahat",
+        "rappaport",
+        "sequoia",
+        "sequoia greylock",
+        "sequoia greylock andreessen horowitz"
+      ],
+      "amounts": [
+        "25"
+      ],
+      "item_date": "2026-08-19"
+    },
+    {
+      "run_number": 14,
+      "run_date": "2026-08-24",
+      "title": "Callosum closes £73.5M seed, biggest UK round of the week",
+      "url": "https://www.uktech.news/funding/uk-tech-funding-roundup-this-weeks-deals-from-callosum-to-economad-20260821",
+      "url_norm": "https://uktech.news/funding/uk-tech-funding-roundup-this-weeks-deals-from-callosum-to-economad-20260821",
+      "entities": [
+        "aug",
+        "callosum",
+        "london-based",
+        "london-based callosum",
+        "uktn"
+      ],
+      "amounts": [
+        "73.5m"
+      ],
+      "item_date": "2026-08-21"
+    },
+    {
+      "run_number": 14,
+      "run_date": "2026-08-24",
+      "title": "0.8% US VC dollars to all-women teams H1 2026",
+      "url": "",
+      "url_norm": "",
+      "entities": [],
+      "amounts": [
+        "0.8pct"
+      ],
+      "item_date": "2026-08-24"
+    },
+    {
+      "run_number": 14,
+      "run_date": "2026-08-24",
+      "title": "6.3% US VC deal count to all-women teams YTD",
+      "url": "",
+      "url_norm": "",
+      "entities": [],
+      "amounts": [
+        "6.3pct"
+      ],
+      "item_date": "2026-08-24"
+    },
+    {
+      "run_number": 14,
+      "run_date": "2026-08-24",
+      "title": "34 Women CEOs on Fortune Global 500 (record)",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "fortune"
+      ],
+      "amounts": [],
+      "item_date": "2026-08-24"
+    },
+    {
+      "run_number": 14,
+      "run_date": "2026-08-24",
+      "title": "$90M Sanja Fidler Veeda AI seed",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "fidler",
+        "sanja",
+        "sanja fidler veeda",
+        "veeda"
+      ],
+      "amounts": [
+        "90m"
+      ],
+      "item_date": "2026-08-24"
+    },
+    {
+      "run_number": 14,
+      "run_date": "2026-08-24",
+      "title": "£73.5M Callosum London AI seed",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "callosum",
+        "callosum london",
+        "london"
+      ],
+      "amounts": [
+        "73.5m"
+      ],
+      "item_date": "2026-08-24"
+    },
+    {
+      "run_number": 14,
+      "run_date": "2026-08-24",
+      "title": "$25-30M Merav Bahat Israeli AI fund",
+      "url": "",
+      "url_norm": "",
+      "entities": [
+        "bahat",
+        "merav",
+        "merav bahat"
+      ],
+      "amounts": [
+        "25"
+      ],
+      "item_date": "2026-08-24"
+    }
+  ]
+}
