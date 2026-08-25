@@ -3,375 +3,357 @@
   "run_date": "2026-08-24",
   "window": "August 17 to August 24, 2026",
   "headline_of_the_week": {
-    "title": "0.8 percent. 34 CEOs. $90M seed. The gender gap and the record week.",
-    "summary": "PitchBook's mid-August update confirms all-women teams still received just 0.8 percent of US VC dollar volume in H1 2026. Fortune's Global 500 hit an all-time record of 34 women CEOs. Sanja Fidler's Veeda AI closed one of the largest Canadian seed rounds ever at $90M, and Merav Bahat quietly rounded up Sequoia, Greylock, a16z, and Assaf Rappaport for a $25 to 30M Israeli AI fund.",
-    "url": "https://www.linkedin.com/pulse/women-entrepreneurs-still-lack-access-capital-rieva-lesonsky-chocc"
+    "title": "Correction edition. Four items did not survive the new verification gate.",
+    "summary": "We rebuilt the dedup and verification layer behind this briefing and re-screened every item in the August 17 to August 24 edition. Four failed. Three stand: Sanja Fidler's $90M Veeda AI seed, Lilly Chen's $20M FSH Technologies Series A, and the $100M Callosum seed that went to a team with no woman on it.",
+    "url": "https://pinkxpwr.com/intelligence"
   },
   "headlines": [
     {
-      "title": "PitchBook: all-women teams still at 0.8% of US VC dollars in H1 2026",
-      "summary": "PitchBook 2026 US Female Founders update, resurfaced Aug 17, confirms all-women teams received just 0.8 percent of US venture dollar volume in H1 2026 and 6.3 percent of deal count YTD.",
-      "source": "LinkedIn Pulse (Rieva Lesonsky)",
-      "url": "https://www.linkedin.com/pulse/women-entrepreneurs-still-lack-access-capital-rieva-lesonsky-chocc",
-      "date": "2026-08-17",
-      "priority": 1
-    },
-    {
-      "title": "Fortune Global 500 hits record 34 women CEOs (6.8%)",
-      "summary": "Fortune's 2026 Global 500 list crossed 34 women CEOs, an all-time record at 6.8 percent, up from 30 the previous year. Elevance Health's Gail Boudreaux leads.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/03/fortune-global-500-female-ceos-2026-elevance-health/",
-      "date": "2026-08-03",
-      "priority": 1
-    },
-    {
       "title": "Sanja Fidler's Veeda AI raises $90M seed for world models",
-      "summary": "NVIDIA VP Sanja Fidler closed $90M seed for Veeda AI on Aug 19, one of the largest seed rounds in Canadian history. World-model AI category.",
+      "summary": "The NVIDIA VP of AI research left to build world models and closed a $90 million seed, one of the largest seed rounds of the week and the largest to a female founder.",
       "source": "SiliconANGLE",
       "url": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding/",
-      "date": "2026-08-19",
-      "priority": 2
+      "date": "2026-08-19"
     },
     {
-      "title": "Merav Bahat rounds up Sequoia, Greylock, a16z for new Israeli AI fund",
-      "summary": "Merav Bahat is quietly raising a $25 to 30M Israeli AI fund with Sequoia, Greylock, Andreessen Horowitz, and Assaf Rappaport as anchor LPs.",
-      "source": "LinkedIn Pulse (Assaf Rappaport)",
-      "url": "https://www.linkedin.com/pulse/merav-bahat-raising-25-30-million-ai-fund-assaf-rappaport-srxuf",
-      "date": "2026-08-19",
-      "priority": 3
+      "title": "Lilly Chen's FSH Technologies raises $20M Series A led by Lachy Groom",
+      "summary": "The 30-year-old founder and CEO, who dropped out at 16 to become a Buddhist monk, is replacing outdated government technology systems for cities, school districts and state agencies. Total raised now $25 million.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/fsh-technologies-series-a-ceo-lilly-chen-accenture-2026-8",
+      "date": "2026-08-20"
     },
     {
-      "title": "Callosum closes \u00a373.5M seed, biggest UK round of the week",
-      "summary": "London-based Callosum closed a \u00a373.5M seed round on Aug 21, the largest UK tech deal of the week per UKTN's roundup.",
-      "source": "UKTN",
-      "url": "https://www.uktech.news/funding/uk-tech-funding-roundup-this-weeks-deals-from-callosum-to-economad-20260821",
-      "date": "2026-08-21",
-      "priority": 2
+      "title": "Europe's largest seed of the week went to a team with no female founder",
+      "summary": "Callosum raised $100 million led by Atomico with the UK Sovereign AI Fund taking its first ever direct equity stake. The company was founded by two Cambridge PhDs, Danyal Akarca and Jascha Achterberg. We reported this round last week as a female founder story. It is not one.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/ai-startup-callosum-raises-100-million-to-make-ai-tasks-cheaper",
+      "date": "2026-08-20"
     }
   ],
   "stats_ticker": [
     {
-      "stat": "0.8%",
-      "label": "US VC dollars to all-women teams H1 2026"
-    },
-    {
-      "stat": "6.3%",
-      "label": "US VC deal count to all-women teams YTD"
-    },
-    {
-      "stat": "34",
-      "label": "Women CEOs on Fortune Global 500 (record)"
-    },
-    {
       "stat": "$90M",
-      "label": "Sanja Fidler Veeda AI seed"
+      "label": "Sanja Fidler's Veeda AI seed, largest raise to a woman-led company this week",
+      "source_url": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding/"
     },
     {
-      "stat": "\u00a373.5M",
-      "label": "Callosum London AI seed"
+      "stat": "$20M",
+      "label": "Lilly Chen's FSH Technologies Series A led by Lachy Groom",
+      "source_url": "https://www.businessinsider.com/fsh-technologies-series-a-ceo-lilly-chen-accenture-2026-8"
     },
     {
-      "stat": "$25-30M",
-      "label": "Merav Bahat Israeli AI fund"
+      "stat": "$100M",
+      "label": "Callosum seed, largest European seed of the week, zero female founders",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/ai-startup-callosum-raises-100-million-to-make-ai-tasks-cheaper"
     }
   ],
   "urgent_deadlines": [
     {
-      "name": "Women's Health Week Europe 2026 - Mainstage Pitch (Emirates Stadium)",
       "deadline": "2026-08-28",
       "amount": "",
       "region": "Europe (London)",
-      "url": "https://www.femtechworld.co.uk/entrepreneur/womens-health-week-europe-2026-opens-pitch-applications-for-mainstage-showcase-at-the-emirates-stadium-whw26/"
+      "url": "https://www.femtechworld.co.uk/entrepreneur/womens-health-week-europe-2026-opens-pitch-applications-for-mainstage-showcase-at-the-emirates-stadium-whw26/",
+      "title": "Women's Health Week Europe 2026 - Mainstage Pitch (Emirates Stadium)"
     },
     {
-      "name": "Hey Helen Grant (Visionaries)",
       "deadline": "2026-08-30",
       "amount": "$5,000-$10,000",
       "region": "US",
-      "url": "https://www.visionaries.io/hey-helen-grant"
+      "url": "https://www.visionaries.io/hey-helen-grant",
+      "title": "Hey Helen Grant (Visionaries)"
     },
     {
-      "name": "How Women Lead - Executive Leadership Program (Aug cohort)",
       "deadline": "2026-08-30",
       "amount": "Coaching, mentoring, network",
       "region": "US / Global",
-      "url": "https://howwomenlead.com/"
+      "url": "https://howwomenlead.com/",
+      "title": "How Women Lead - Executive Leadership Program (Aug cohort)"
     },
     {
-      "name": "Women Founders Grant",
       "deadline": "2026-08-31",
       "amount": "$5,000",
       "region": "US",
-      "url": "https://www.womenfoundersgrant.com/"
+      "url": "https://www.womenfoundersgrant.com/",
+      "title": "Women Founders Grant"
     },
     {
-      "name": "The 10th House Tech '26 Accelerator (Female Founder Collective)",
       "deadline": "2026-08-31",
       "amount": "Industry-specific accelerator + cohort",
       "region": "Global",
-      "url": "https://the10thhouse.femalefoundercollective.com/apply"
+      "url": "https://the10thhouse.femalefoundercollective.com/apply",
+      "title": "The 10th House Tech '26 Accelerator (Female Founder Collective)"
     },
     {
-      "name": "Social Shifters Global Innovation Challenge 2026",
       "deadline": "2026-08-31",
-      "amount": "\u20b92.49L to \u20b912.45L (~$3K-$15K)",
+      "amount": "₹2.49L to ₹12.45L (~$3K-$15K)",
       "region": "Global (youth-led)",
-      "url": "https://socialshifters.co/challenge"
+      "url": "https://socialshifters.co/challenge",
+      "title": "Social Shifters Global Innovation Challenge 2026"
     },
     {
-      "name": "WEKH BizPitch 2026 (CIBC)",
       "deadline": "2026-08-31",
       "amount": "Multiple pitch prizes (student + startup + established)",
       "region": "Canada",
-      "url": "https://wekh.ca/bizpitch-terms-and-conditions-2026/"
+      "url": "https://wekh.ca/bizpitch-terms-and-conditions-2026/",
+      "title": "WEKH BizPitch 2026 (CIBC)"
     },
     {
-      "name": "Ra'idah 2 (Abu Dhabi Businesswomen Council x Publicis)",
       "deadline": "2026-08-31",
       "amount": "Falcon Tank pitch competition + paid media funding",
       "region": "UAE / Abu Dhabi",
-      "url": "https://adbwc.ae/raidah"
+      "url": "https://adbwc.ae/raidah",
+      "title": "Ra'idah 2 (Abu Dhabi Businesswomen Council x Publicis)"
     },
     {
-      "name": "Israel Innovation Authority + Ministry of Finance Shekel Fast-Track (NIS 1B / ~$330M)",
       "deadline": "2026-08-31",
       "amount": "Up to NIS 15M (~$4.6M) per company",
       "region": "Israel",
-      "url": "https://en.globes.co.il/en/article-aid-launched-for-tech-cos-hit-by-strong-shekel-1001550435"
+      "url": "https://en.globes.co.il/en/article-aid-launched-for-tech-cos-hit-by-strong-shekel-1001550435",
+      "title": "Israel Innovation Authority + Ministry of Finance Shekel Fast-Track (NIS 1B / ~$330M)"
     },
     {
-      "name": "Women Founders Grant Monthly Cycle",
       "deadline": "2026-08-31",
       "amount": "$5,000",
       "region": "US",
-      "url": "https://womenfoundersgrant.com/apply-now-women-grants"
+      "url": "https://womenfoundersgrant.com/apply-now-women-grants",
+      "title": "Women Founders Grant Monthly Cycle"
     },
     {
-      "name": "Amber Grant WomensNet Monthly",
       "deadline": "2026-08-31",
       "amount": "$10,000 monthly + $50,000 year-end",
       "region": "US and Canada",
-      "url": "https://ambergrantsforwomen.com/"
+      "url": "https://ambergrantsforwomen.com/",
+      "title": "Amber Grant WomensNet Monthly"
     },
     {
-      "name": "Miller Center Accelerator Cohort (January 2027)",
       "deadline": "2026-08-31",
       "amount": "Non-dilutive accelerator programming",
       "region": "Global",
-      "url": "https://millercenterglobal.org/accelerator/"
+      "url": "https://millercenterglobal.org/accelerator/",
+      "title": "Miller Center Accelerator Cohort (January 2027)"
     },
     {
-      "name": "CatalyseHer UK (INCO Group) - Cohort 4",
       "deadline": "2026-09-01",
       "amount": "",
       "region": "UK",
-      "url": "https://grantedai.com/grants/catalyseher-uk-inco-group-ea9330e0"
+      "url": "https://grantedai.com/grants/catalyseher-uk-inco-group-ea9330e0",
+      "title": "CatalyseHer UK (INCO Group) - Cohort 4"
     },
     {
-      "name": "EIC Accelerator full proposal cutoff (September 2026)",
       "deadline": "2026-09-02",
       "amount": "",
       "region": "EU + Horizon Europe Associated Countries (incl. Israel)",
-      "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+      "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+      "title": "EIC Accelerator full proposal cutoff (September 2026)"
     },
     {
-      "name": "InnovateHer Investor Summit Sardinia",
       "deadline": "2026-09-02",
       "amount": "$25,000 first prize",
       "region": "EU",
-      "url": "https://www.startuplithuania.com/publicfund/innovateher-investor-summit/"
+      "url": "https://www.startuplithuania.com/publicfund/innovateher-investor-summit/",
+      "title": "InnovateHer Investor Summit Sardinia"
     },
     {
-      "name": "W Accelerate 2026 (Merck KGaA + M Ventures)",
       "deadline": "2026-09-02",
       "amount": "Partnership, investment, or dual pathway",
       "region": "Global",
-      "url": "https://www.femtechworld.co.uk/entrepreneur/applications-open-for-the-third-w-accelerate-with-merck-kgaa-and-m-ventures-whw26/"
+      "url": "https://www.femtechworld.co.uk/entrepreneur/applications-open-for-the-third-w-accelerate-with-merck-kgaa-and-m-ventures-whw26/",
+      "title": "W Accelerate 2026 (Merck KGaA + M Ventures)"
     },
     {
-      "name": "AceON Accelerator Batch #6 (European founders)",
       "deadline": "2026-09-03",
       "amount": "",
       "region": "Europe",
-      "url": "https://www.vestbee.com/insights/articles/ace-on-accelerator-2026"
+      "url": "https://www.vestbee.com/insights/articles/ace-on-accelerator-2026",
+      "title": "AceON Accelerator Batch #6 (European founders)"
     },
     {
-      "name": "NIH SBIR STTR Phase I Women's Health",
       "deadline": "2026-09-05",
       "amount": "Up to $323,000",
       "region": "US",
-      "url": "https://grantedai.com/grants/women"
+      "url": "https://grantedai.com/grants/women",
+      "title": "NIH SBIR STTR Phase I Women's Health"
     }
   ],
   "open_programs": [
     {
-      "name": "Hadassah Foundation Spark Grants 2026",
       "deadline": "2026-09-08",
       "amount": "$20,000 x 3 organizations",
       "region": "Israel + US",
-      "url": "https://hadassahfoundation.org/2026-grantmaking-information/"
+      "url": "https://hadassahfoundation.org/2026-grantmaking-information/",
+      "title": "Hadassah Foundation Spark Grants 2026"
     },
     {
-      "name": "Promise Fund Imagine Award",
       "deadline": "2026-09-09",
       "amount": "$20,000 unrestricted",
       "region": "US",
-      "url": "https://www.promisefund.com/imagine-award/"
+      "url": "https://www.promisefund.com/imagine-award/",
+      "title": "Promise Fund Imagine Award"
     },
     {
-      "name": "Hadassah Foundation Grants 2026 (Israel + US)",
       "deadline": "2026-09-09",
       "amount": "",
       "region": "Israel and United States",
-      "url": "https://hadassahfoundation.org/grantmaking/for-grantseekers/"
+      "url": "https://hadassahfoundation.org/grantmaking/for-grantseekers/",
+      "title": "Hadassah Foundation Grants 2026 (Israel + US)"
     },
     {
-      "name": "Female Founders Contest Germany Grand Finale",
       "deadline": "2026-09-10",
       "amount": "Germany's largest pitch prize pool",
       "region": "Germany",
-      "url": "https://femalefounderscontest.de/en"
+      "url": "https://femalefounderscontest.de/en",
+      "title": "Female Founders Contest Germany Grand Finale"
     },
     {
-      "name": "Women's Economic and Leadership Opportunities Fund (Canada, $100M pool)",
       "deadline": "2026-09-15",
       "amount": "Portion of $100M pool",
       "region": "Canada",
-      "url": "https://resources.charityvillage.com/call-for-proposals-womens-economic-and-leadership-opportunities-fund-2026/"
+      "url": "https://resources.charityvillage.com/call-for-proposals-womens-economic-and-leadership-opportunities-fund-2026/",
+      "title": "Women's Economic and Leadership Opportunities Fund (Canada, $100M pool)"
     },
     {
-      "name": "Israel Innovation Authority Marine Energy Call (NIS 6M)",
       "deadline": "2026-09-15",
       "amount": "Share of NIS 6M",
       "region": "Israel",
-      "url": "https://en.portnews.ru/news/394544/"
+      "url": "https://en.portnews.ru/news/394544/",
+      "title": "Israel Innovation Authority Marine Energy Call (NIS 6M)"
     },
     {
-      "name": "Women TechEU 2 - Full Proposal First Cutoff (Sep 2026)",
       "deadline": "2026-09-16",
       "amount": "",
       "region": "EU Member States + Horizon Europe Associated Countries",
-      "url": "https://cascadefunding.eu/open-call/women-techeu-2-eic-eligibility-strand/"
+      "url": "https://cascadefunding.eu/open-call/women-techeu-2-eic-eligibility-strand/",
+      "title": "Women TechEU 2 - Full Proposal First Cutoff (Sep 2026)"
     },
     {
-      "name": "EIT Health Transformative Healthcare Instrument 2026",
       "deadline": "2026-09-16",
       "amount": "EUR300,000-500,000",
       "region": "EU",
-      "url": "https://eithealth.eu/programmes/"
+      "url": "https://eithealth.eu/programmes/",
+      "title": "EIT Health Transformative Healthcare Instrument 2026"
     },
     {
-      "name": "Women in Tech Accelerator 2026 (Standard Chartered Foundation)",
       "deadline": "2026-09-16",
       "amount": "",
       "region": "Global (multi-country)",
-      "url": "https://www.standardchartered.com/sustainability/community/futuremakers/"
+      "url": "https://www.standardchartered.com/sustainability/community/futuremakers/",
+      "title": "Women in Tech Accelerator 2026 (Standard Chartered Foundation)"
     },
     {
-      "name": "Women TechEU 2 EIC Full Proposal Deadline 5",
       "deadline": "2026-09-16",
-      "amount": "\u20ac75,000 non-dilutive",
+      "amount": "€75,000 non-dilutive",
       "region": "EU",
-      "url": "https://womentecheurope.eu/active-calls/"
+      "url": "https://womentecheurope.eu/active-calls/",
+      "title": "Women TechEU 2 EIC Full Proposal Deadline 5"
     },
     {
-      "name": "Tara's Circle 2026 Open Call (Tara For Women)",
       "deadline": "2026-09-17",
       "amount": "Funding + mentoring + international visibility",
       "region": "Global (Spain HQ)",
-      "url": "https://www.tara-women.com/"
+      "url": "https://www.tara-women.com/",
+      "title": "Tara's Circle 2026 Open Call (Tara For Women)"
     },
     {
-      "name": "50/50 Women on Boards Global Summit 2026 (event, NYC)",
       "deadline": "2026-09-17",
       "amount": "$450 ticket / networking, board-visibility program",
       "region": "",
-      "url": "https://5050wob.com/global-summit/"
+      "url": "https://5050wob.com/global-summit/",
+      "title": "50/50 Women on Boards Global Summit 2026 (event, NYC)"
     },
     {
-      "name": "The Breakthrough Grant Vol III (Her Agenda)",
       "deadline": "2026-09-18",
       "amount": "$5,000",
       "region": "US",
-      "url": "https://heragenda.com/breakthrough-grant/"
+      "url": "https://heragenda.com/breakthrough-grant/",
+      "title": "The Breakthrough Grant Vol III (Her Agenda)"
     },
     {
-      "name": "Forward Faster Accelerator 2026-27 (FFinc UK)",
       "deadline": "2026-09-18",
       "amount": "6-month program, GBP 175 one-off fee",
       "region": "United Kingdom",
-      "url": "https://www.events.ffinc.co/apply-forward-faster"
+      "url": "https://www.events.ffinc.co/apply-forward-faster",
+      "title": "Forward Faster Accelerator 2026-27 (FFinc UK)"
     },
     {
-      "name": "StartHER Grant Program (Texas Woman's University)",
       "deadline": "2026-09-23",
       "amount": "$5,000 (25 winners)",
       "region": "",
-      "url": "https://twu.edu/center-women-entrepreneurs/starther/"
+      "url": "https://twu.edu/center-women-entrepreneurs/starther/",
+      "title": "StartHER Grant Program (Texas Woman's University)"
     },
     {
-      "name": "Propel Healthtech NHS Accelerator 2026",
       "deadline": "2026-09-25",
       "amount": "Programme + NHS market access",
       "region": "UK",
-      "url": "https://digitalhealth.london/accelerator/"
+      "url": "https://digitalhealth.london/accelerator/",
+      "title": "Propel Healthtech NHS Accelerator 2026"
     },
     {
-      "name": "CO WBC Grant September Cycle",
       "deadline": "2026-09-26",
       "amount": "$5,000",
       "region": "US",
-      "url": "https://grantedai.com/grants/women"
+      "url": "https://grantedai.com/grants/women",
+      "title": "CO WBC Grant September Cycle"
     },
     {
-      "name": "Vital Voices VV Venture AI for Impact 2026",
       "deadline": "2026-09-30",
       "amount": "",
       "region": "Global",
-      "url": "https://www.vitalvoices.org/news-articles/announcement/vital-voices-launches-vv-venture-ai-for-impact-2026-program/"
+      "url": "https://www.vitalvoices.org/news-articles/announcement/vital-voices-launches-vv-venture-ai-for-impact-2026-program/",
+      "title": "Vital Voices VV Venture AI for Impact 2026"
     },
     {
-      "name": "Enthuse Foundation Pitch Competition 2026 (NYC)",
       "deadline": "2026-09-30",
       "amount": "Cash grant + mentorship (finals Nov 5 2026 NYC)",
       "region": "",
-      "url": "https://www.enthusefoundation.org/pitch-competition"
+      "url": "https://www.enthusefoundation.org/pitch-competition",
+      "title": "Enthuse Foundation Pitch Competition 2026 (NYC)"
     },
     {
-      "name": "Giving Joy Fall Grant",
       "deadline": "2026-09-30",
       "amount": "Up to $20,000",
       "region": "US and international",
-      "url": "https://grantedai.com/grants/women"
+      "url": "https://grantedai.com/grants/women",
+      "title": "Giving Joy Fall Grant"
     },
     {
-      "name": "CoCreate Pitch London 2026",
       "deadline": "2026-10-05",
       "amount": "Pitch competition",
       "region": "UK",
-      "url": "https://www.cocreate.london/pitch"
+      "url": "https://www.cocreate.london/pitch",
+      "title": "CoCreate Pitch London 2026"
     },
     {
-      "name": "Bayer Foundation AWE Evergreen Fund",
       "deadline": "2026-10-15",
       "amount": "Impact investment + technical support",
       "region": "Global (South/Emerging)",
-      "url": "https://www.bayer-foundation.com/awe"
+      "url": "https://www.bayer-foundation.com/awe",
+      "title": "Bayer Foundation AWE Evergreen Fund"
     },
     {
-      "name": "Comercio Partners SOW Fund (Women Entrepreneurs Nigeria)",
       "deadline": "2026-10-31",
-      "amount": "\u20a6100M fund (~$65K deployments)",
+      "amount": "₦100M fund (~$65K deployments)",
       "region": "Nigeria / West Africa",
-      "url": "https://www.vanguardngr.com/2026/07/comercio-partners-targets-africa-launches-n100m-women-entrepreneurs-fund/"
+      "url": "https://www.vanguardngr.com/2026/07/comercio-partners-targets-africa-launches-n100m-women-entrepreneurs-fund/",
+      "title": "Comercio Partners SOW Fund (Women Entrepreneurs Nigeria)"
     },
     {
-      "name": "EIC Accelerator full proposal cutoff (November 2026)",
       "deadline": "2026-11-04",
-      "amount": "Up to \u20ac2.5M grant + up to \u20ac15M equity",
+      "amount": "Up to €2.5M grant + up to €15M equity",
       "region": "EU + Horizon Europe Associated",
-      "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+      "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+      "title": "EIC Accelerator full proposal cutoff (November 2026)"
     }
   ],
-  "next_briefing": "2026-08-31T05:00:00Z"
+  "next_briefing": "2026-08-31T05:00:00Z",
+  "correction": {
+    "issued": "2026-08-24",
+    "note": "This edition replaces the original Run #14 briefing. Four items failed a newly built verification gate and were removed or corrected: the Callosum round was not a female founder story, the Merav Bahat Israeli AI fund was a repeat of the June 29 lead, the Fortune Global 500 women CEO item was 21 days old, and the 0.8 percent US VC figure could not be traced to a primary source.",
+    "corrections": [
+      "Callosum was founded by Danyal Akarca and Jascha Achterberg. No female founder. Round size was $100 million, not GBP 73.5 million as a female founder win.",
+      "The Merav Bahat Israeli AI fund ran as the lead headline on 2026-06-29 and was republished with no material change.",
+      "The Fortune Global 500 record of 34 women CEOs was published 2026-08-03, outside the seven-day window.",
+      "The 0.8 percent figure came from a reposted newsletter. Verified primary readings are 1.1 percent for FY2025 (PitchBook-NVCA, down from 2.1 percent) and 0.6 percent of deal value in Q1 2026."
+    ]
+  }
 }

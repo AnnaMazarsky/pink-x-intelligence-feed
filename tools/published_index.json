@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "built_at": "2026-08-24T07:11:20Z",
+  "built_at": "2026-08-25T07:14:20Z",
   "runs_indexed": [
     "2:2026-06-01",
     "3:2026-06-08",
@@ -2340,52 +2340,30 @@
     {
       "run_number": 14,
       "run_date": "2026-08-24",
-      "title": "0.8 percent. 34 CEOs. $90M seed. The gender gap and the record week.",
-      "url": "https://www.linkedin.com/pulse/women-entrepreneurs-still-lack-access-capital-rieva-lesonsky-chocc",
-      "url_norm": "https://linkedin.com/pulse/women-entrepreneurs-still-lack-access-capital-rieva-lesonsky-chocc",
+      "title": "Correction edition. Four items did not survive the new verification gate.",
+      "url": "https://pinkxpwr.com/intelligence",
+      "url_norm": "https://pinkxpwr.com/intelligence",
       "entities": [
-        "a16z",
-        "assaf",
-        "assaf rappaport",
-        "bahat",
-        "canadian",
+        "august",
+        "callosum",
+        "chen",
+        "correction",
         "fidler",
-        "fortune",
-        "greylock",
-        "merav",
-        "merav bahat",
-        "pitchbook",
-        "rappaport",
+        "four",
+        "fsh technologies",
+        "lilly",
+        "lilly chen",
         "sanja",
-        "sanja fidler veeda",
-        "sequoia",
-        "sequoia greylock",
+        "sanja fidler",
+        "technologies",
         "veeda"
       ],
       "amounts": [
-        "25",
+        "100m",
+        "20m",
         "90m"
       ],
       "item_date": "2026-08-24"
-    },
-    {
-      "run_number": 14,
-      "run_date": "2026-08-24",
-      "title": "Fortune Global 500 hits record 34 women CEOs (6.8%)",
-      "url": "https://fortune.com/2026/08/03/fortune-global-500-female-ceos-2026-elevance-health/",
-      "url_norm": "https://fortune.com/2026/08/03/fortune-global-500-female-ceos-2026-elevance-health",
-      "entities": [
-        "boudreaux",
-        "elevance",
-        "elevance health gail boudreaux",
-        "fortune",
-        "gail",
-        "health"
-      ],
-      "amounts": [
-        "6.8pct"
-      ],
-      "item_date": "2026-08-03"
     },
     {
       "run_number": 14,
@@ -2394,110 +2372,9 @@
       "url": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding/",
       "url_norm": "https://siliconangle.com/2026/08/19/sanja-fidlers-world-model-startup-veeda-ai-raises-90m-in-seed-funding",
       "entities": [
-        "aug",
-        "canadian",
         "fidler",
         "nvidia",
-        "nvidia vp sanja fidler",
-        "sanja",
-        "sanja fidler veeda",
-        "veeda",
-        "world-model"
-      ],
-      "amounts": [
-        "90m"
-      ],
-      "item_date": "2026-08-19"
-    },
-    {
-      "run_number": 14,
-      "run_date": "2026-08-24",
-      "title": "Merav Bahat rounds up Sequoia, Greylock, a16z for new Israeli AI fund",
-      "url": "https://www.linkedin.com/pulse/merav-bahat-raising-25-30-million-ai-fund-assaf-rappaport-srxuf",
-      "url_norm": "https://linkedin.com/pulse/merav-bahat-raising-25-30-million-ai-fund-assaf-rappaport-srxuf",
-      "entities": [
-        "a16z",
-        "andreessen",
-        "assaf",
-        "assaf rappaport",
-        "bahat",
-        "greylock",
-        "horowitz",
-        "lps",
-        "merav",
-        "merav bahat",
-        "rappaport",
-        "sequoia",
-        "sequoia greylock",
-        "sequoia greylock andreessen horowitz"
-      ],
-      "amounts": [
-        "25"
-      ],
-      "item_date": "2026-08-19"
-    },
-    {
-      "run_number": 14,
-      "run_date": "2026-08-24",
-      "title": "Callosum closes £73.5M seed, biggest UK round of the week",
-      "url": "https://www.uktech.news/funding/uk-tech-funding-roundup-this-weeks-deals-from-callosum-to-economad-20260821",
-      "url_norm": "https://uktech.news/funding/uk-tech-funding-roundup-this-weeks-deals-from-callosum-to-economad-20260821",
-      "entities": [
-        "aug",
-        "callosum",
-        "london-based",
-        "london-based callosum",
-        "uktn"
-      ],
-      "amounts": [
-        "73.5m"
-      ],
-      "item_date": "2026-08-21"
-    },
-    {
-      "run_number": 14,
-      "run_date": "2026-08-24",
-      "title": "0.8% US VC dollars to all-women teams H1 2026",
-      "url": "",
-      "url_norm": "",
-      "entities": [],
-      "amounts": [
-        "0.8pct"
-      ],
-      "item_date": "2026-08-24"
-    },
-    {
-      "run_number": 14,
-      "run_date": "2026-08-24",
-      "title": "6.3% US VC deal count to all-women teams YTD",
-      "url": "",
-      "url_norm": "",
-      "entities": [],
-      "amounts": [
-        "6.3pct"
-      ],
-      "item_date": "2026-08-24"
-    },
-    {
-      "run_number": 14,
-      "run_date": "2026-08-24",
-      "title": "34 Women CEOs on Fortune Global 500 (record)",
-      "url": "",
-      "url_norm": "",
-      "entities": [
-        "fortune"
-      ],
-      "amounts": [],
-      "item_date": "2026-08-24"
-    },
-    {
-      "run_number": 14,
-      "run_date": "2026-08-24",
-      "title": "$90M Sanja Fidler Veeda AI seed",
-      "url": "",
-      "url_norm": "",
-      "entities": [
-        "fidler",
+        "nvidia vp",
         "sanja",
         "sanja fidler veeda",
         "veeda"
@@ -2505,39 +2382,54 @@
       "amounts": [
         "90m"
       ],
-      "item_date": "2026-08-24"
+      "item_date": "2026-08-19"
     },
     {
       "run_number": 14,
       "run_date": "2026-08-24",
-      "title": "£73.5M Callosum London AI seed",
-      "url": "",
-      "url_norm": "",
+      "title": "Lilly Chen's FSH Technologies raises $20M Series A led by Lachy Groom",
+      "url": "https://www.businessinsider.com/fsh-technologies-series-a-ceo-lilly-chen-accenture-2026-8",
+      "url_norm": "https://businessinsider.com/fsh-technologies-series-a-ceo-lilly-chen-accenture-2026-8",
       "entities": [
+        "buddhist",
+        "chen",
+        "groom",
+        "lachy",
+        "lachy groom",
+        "lilly",
+        "lilly chen fsh technologies",
+        "technologies",
+        "total"
+      ],
+      "amounts": [
+        "20m",
+        "25m"
+      ],
+      "item_date": "2026-08-20"
+    },
+    {
+      "run_number": 14,
+      "run_date": "2026-08-24",
+      "title": "Europe's largest seed of the week went to a team with no female founder",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/ai-startup-callosum-raises-100-million-to-make-ai-tasks-cheaper",
+      "url_norm": "https://bloomberg.com/news/articles/2026-08-20/ai-startup-callosum-raises-100-million-to-make-ai-tasks-cheaper",
+      "entities": [
+        "achterberg",
+        "akarca",
+        "atomico",
         "callosum",
-        "callosum london",
-        "london"
+        "cambridge",
+        "cambridge phds danyal akarca",
+        "danyal",
+        "jascha",
+        "jascha achterberg we",
+        "phds",
+        "sovereign"
       ],
       "amounts": [
-        "73.5m"
+        "100m"
       ],
-      "item_date": "2026-08-24"
-    },
-    {
-      "run_number": 14,
-      "run_date": "2026-08-24",
-      "title": "$25-30M Merav Bahat Israeli AI fund",
-      "url": "",
-      "url_norm": "",
-      "entities": [
-        "bahat",
-        "merav",
-        "merav bahat"
-      ],
-      "amounts": [
-        "25"
-      ],
-      "item_date": "2026-08-24"
+      "item_date": "2026-08-20"
     }
   ]
 }
