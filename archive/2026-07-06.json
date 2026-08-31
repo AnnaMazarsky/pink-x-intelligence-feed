@@ -1,0 +1,525 @@
+{
+  "run_number": 7,
+  "run_date": "2026-07-06",
+  "window": "June 29 - July 6, 2026",
+  "headline_of_the_week": "British Business Bank confirms: 10 years, still 2% of UK equity for all-female founder teams",
+  "headlines": [
+    {
+      "title": "SVB: Women's health VC deal-share collapsed 23% (2023-2025)",
+      "summary": "Silicon Valley Bank's Innovation In Women's Health report shows deal-share dropped from 7.4% to 5.7% of healthcare VC and dollar share to 3.1%. Seed-to-Series A conversion halved from 27% to 13%.",
+      "source": "SVB / Geri Stengel",
+      "url": "https://geristengel.substack.com/p/mens-diseases-are-funded-while-womens",
+      "date": "2026-07-02",
+      "priority": 1
+    },
+    {
+      "title": "British Business Bank: All-female teams stuck at 2% of UK equity for a decade",
+      "summary": "All-female founder teams received just 2% of UK equity investment in 2025 - identical to the 10-year average. Only 3% of AI deals went to all-female teams. Female teams received deals 4x smaller on average.",
+      "source": "British Business Bank / SME Magazine",
+      "url": "https://www.smeweb.com/all-female-founded-businesses-still-only-getting-2-of-equity-investment-with-increased-funding-for-ai-firms-exacerbating-the-trend/",
+      "date": "2026-07-02",
+      "priority": 1
+    },
+    {
+      "title": "McKinsey: $700B wealth-transfer opportunity for women SME owners",
+      "summary": "6M U.S. SMEs will change hands by 2035, representing $5T in value. Women own only 23% today. Closing that gap unlocks $700B in new wealth.",
+      "source": "Forbes / McKinsey Great Ownership Transfer",
+      "url": "https://www.forbes.com/councils/forbesagencycouncil/2026/07/01/how-women-entrepreneurs-are-redefining-generational-wealth/",
+      "date": "2026-07-01",
+      "priority": 1
+    },
+    {
+      "title": "Magnify Ventures closes $46.6M Fund II for the care economy",
+      "summary": "Joanna Drake and Julie Wroblewski's Magnify Ventures closed $46.6M Fund II focused on care economy and AI-enabled care infrastructure. Anchored by Pivotal Ventures (Melinda French Gates).",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/01/magnify-ventures-fund-two-pivotal-melinda-french-gates-caregiving/",
+      "date": "2026-07-01",
+      "priority": 3
+    },
+    {
+      "title": "IIDEA Fund - $15M for women and rural founders (India)",
+      "summary": "3one4 Capital and British International Investment launched a $15M IIDEA Fund for overlooked-sector founders including women and rural entrepreneurs in India.",
+      "source": "Economic Times",
+      "url": "https://economictimes.com/tech/funding/3one4-capital-launches-15-million-fund-to-support-overlooked-sectors-women-founders/articleshow/132096225.cms",
+      "date": "2026-06-30",
+      "priority": 3
+    },
+    {
+      "title": "Israeli tech: $7.6B H1 2026 (+52% YoY), $3.3B in June alone",
+      "summary": "Israeli startups raised $3.3B in June, bringing H1 2026 to $7.6B - up 52% year-over-year. Strongest H1 in three years. Gender-split remains untransparent.",
+      "source": "Globes",
+      "url": "https://en.globes.co.il/en/article-israeli-startups-raised-33b-in-june-1001547583",
+      "date": "2026-07-01",
+      "priority": 6
+    },
+    {
+      "title": "Female Foundry hits 6-year milestone; 2026 Female Innovation Index",
+      "summary": "First pan-European analysis of female founder funding reached 200 weeks. 800+ founders signed up for 2026 edition - 8x growth vs first edition.",
+      "source": "Female Foundry Substack",
+      "url": "https://femalefoundry.substack.com/p/female-foundry-two-hundred-weeks",
+      "date": "2026-07-05",
+      "priority": 1
+    },
+    {
+      "title": "Climentum Capital II - EUR60M first close for European climate tech",
+      "summary": "Doerte Hirschberg's Climentum Capital closed EUR60M for its second climate tech fund - adds female-led GP capacity to Europe's climate stack.",
+      "source": "Parsers VC",
+      "url": "https://parsers.substack.com/p/weekly-top-startup-vc-news-of-july-bb1",
+      "date": "2026-07-02",
+      "priority": 3
+    }
+  ],
+  "stats_ticker": [
+    {
+      "value": "2%",
+      "label": "UK equity to all-female teams in 2025 (same as 10yr avg)",
+      "source_url": "https://www.smeweb.com/all-female-founded-businesses-still-only-getting-2-of-equity-investment-with-increased-funding-for-ai-firms-exacerbating-the-trend/"
+    },
+    {
+      "value": "3%",
+      "label": "AI deals going to all-female founder teams",
+      "source_url": "https://www.smeweb.com/all-female-founded-businesses-still-only-getting-2-of-equity-investment-with-increased-funding-for-ai-firms-exacerbating-the-trend/"
+    },
+    {
+      "value": "5.7%",
+      "label": "Women's health share of healthcare VC deals 2025 (down from 7.4%)",
+      "source_url": "https://geristengel.substack.com/p/mens-diseases-are-funded-while-womens"
+    },
+    {
+      "value": "$7.6B",
+      "label": "Israeli tech raised H1 2026 (+52% YoY)",
+      "source_url": "https://en.globes.co.il/en/article-israeli-startups-raised-33b-in-june-1001547583"
+    },
+    {
+      "value": "$46.6M",
+      "label": "Magnify Ventures Fund II close - care economy",
+      "source_url": "https://fortune.com/2026/07/01/magnify-ventures-fund-two-pivotal-melinda-french-gets-caregiving/"
+    },
+    {
+      "value": "$700B",
+      "label": "wealth unlock if women hit 50% of SME ownership by 2035",
+      "source_url": "https://www.forbes.com/councils/forbesagencycouncil/2026/07/01/how-women-entrepreneurs-are-redefining-generational-wealth/"
+    }
+  ],
+  "urgent_deadlines": [
+    {
+      "title": "WE-EMPOWER II Grant",
+      "deadline": "2026-07-06",
+      "url": "",
+      "region": "TBD",
+      "sector": "Sector-agnostic",
+      "stage": "Early-stage women-led",
+      "eligibility": "Women entrepreneurs",
+      "funding": ""
+    },
+    {
+      "title": "Women TechEU - Rolling weekly cutoffs (every Tuesday 17:00 CET)",
+      "deadline": "2026-07-07",
+      "url": "https://womentecheurope.eu",
+      "region": "EU Member States + Horizon Europe Associated Countries",
+      "sector": "Deep tech",
+      "stage": "Early-stage deep tech, TRL 4-6",
+      "eligibility": "Woman founder/co-founder in top management role (CEO/CTO/CSO), women hold >=25% shares, company registered 6 months to 5 years, raised <EUR 1M equity, no high-fidelity MVP yet",
+      "funding": ""
+    },
+    {
+      "title": "SheConnects",
+      "deadline": "2026-07-08",
+      "url": "",
+      "region": "Global",
+      "sector": "Sector-agnostic",
+      "stage": "Early-stage",
+      "eligibility": "Women founders",
+      "funding": ""
+    },
+    {
+      "title": "EIC Accelerator full proposal cutoff (July 2026)",
+      "deadline": "2026-07-08",
+      "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+      "region": "EU + Horizon Europe Associated Countries (incl. Israel)",
+      "sector": "Deep tech, sector-agnostic for Open call",
+      "stage": "TRL 6-8, deep tech",
+      "eligibility": "Single SMEs/start-ups. Short proposal can be submitted anytime. Full proposal requires a GO on the short proposal.",
+      "funding": ""
+    },
+    {
+      "title": "EEN2EIC NRW (women-led + North Rhine-Westphalia) - July cutoff",
+      "deadline": "2026-07-08",
+      "url": "https://nrweuropa.de/en/een2eic/",
+      "region": "North Rhine-Westphalia, Germany",
+      "sector": "Innovative product/service/business model",
+      "stage": "TRL 5-8 within 24 months",
+      "eligibility": "Woman in founding team or leading role + NRW-located",
+      "funding": ""
+    },
+    {
+      "title": "Makers Mindset Grant",
+      "deadline": "2026-07-10",
+      "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
+      "region": "USA",
+      "sector": "CPG (beauty, food, beverage, pet, tech goods, home goods)",
+      "stage": "Early revenue ($50K-$1M annual)",
+      "eligibility": "Women-led CPG brand, U.S.-based, 1+ year in business, $50K-$1M annual revenue",
+      "funding": "$10,000 equity-free + mentorship + visibility"
+    },
+    {
+      "title": "UNHCR Innovation Accelerator",
+      "deadline": "2026-07-12",
+      "url": "",
+      "region": "Global",
+      "sector": "Impact",
+      "stage": "Growth-stage with refugee/humanitarian impact",
+      "eligibility": "Startups serving refugees / displaced populations",
+      "funding": ""
+    },
+    {
+      "title": "EmpowHER Tech Launchpad",
+      "deadline": "2026-07-12",
+      "url": "",
+      "region": "TBD",
+      "sector": "Tech",
+      "stage": "Early-stage women in tech",
+      "eligibility": "Women in tech",
+      "funding": ""
+    },
+    {
+      "title": "IEEE WIE Big Idea Pitch",
+      "deadline": "2026-07-15",
+      "url": "",
+      "region": "Global",
+      "sector": "Engineering, tech",
+      "stage": "Idea / early",
+      "eligibility": "IEEE WIE members / women engineers",
+      "funding": ""
+    },
+    {
+      "title": "WeXchange Women STEMpreneurs Competition",
+      "deadline": "2026-07-15",
+      "url": "https://wexchange.iadb.org/",
+      "region": "Latin America",
+      "sector": "STEM",
+      "stage": "Early-to-growth STEM",
+      "eligibility": "Latin American women STEM founders",
+      "funding": ""
+    },
+    {
+      "title": "How Women Lead - Visible Impact Personal Branding Series",
+      "deadline": "2026-07-15",
+      "url": "https://www.howwomenlead.com/events-3",
+      "region": "Global (Virtual)",
+      "sector": "Any",
+      "stage": "Established leader / founder",
+      "eligibility": "Women leaders and founders",
+      "funding": "Program (personal brand + visibility)"
+    },
+    {
+      "title": "AI Founders Accelerator",
+      "deadline": "2026-07-20",
+      "url": "",
+      "region": "Global",
+      "sector": "AI",
+      "stage": "Early AI startups",
+      "eligibility": "AI founders",
+      "funding": ""
+    },
+    {
+      "title": "AWIEF Pitch n Grow",
+      "deadline": "2026-07-20",
+      "url": "",
+      "region": "Africa",
+      "sector": "Sector-agnostic",
+      "stage": "Growth",
+      "eligibility": "African women entrepreneurs",
+      "funding": ""
+    }
+  ],
+  "open_programs": [
+    {
+      "title": "WE-EMPOWER II Grant",
+      "deadline": "2026-07-06",
+      "url": "",
+      "region": "TBD",
+      "sector": "Sector-agnostic",
+      "stage": "Early-stage women-led",
+      "eligibility": "Women entrepreneurs",
+      "funding": "",
+      "days_until_deadline": 0
+    },
+    {
+      "title": "Women TechEU - Rolling weekly cutoffs (every Tuesday 17:00 CET)",
+      "deadline": "2026-07-07",
+      "url": "https://womentecheurope.eu",
+      "region": "EU Member States + Horizon Europe Associated Countries",
+      "sector": "Deep tech",
+      "stage": "Early-stage deep tech, TRL 4-6",
+      "eligibility": "Woman founder/co-founder in top management role (CEO/CTO/CSO), women hold >=25% shares, company registered 6 months to 5 years, raised <EUR 1M equity, no high-fidelity MVP yet",
+      "funding": "",
+      "days_until_deadline": 1
+    },
+    {
+      "title": "SheConnects",
+      "deadline": "2026-07-08",
+      "url": "",
+      "region": "Global",
+      "sector": "Sector-agnostic",
+      "stage": "Early-stage",
+      "eligibility": "Women founders",
+      "funding": "",
+      "days_until_deadline": 2
+    },
+    {
+      "title": "EIC Accelerator full proposal cutoff (July 2026)",
+      "deadline": "2026-07-08",
+      "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+      "region": "EU + Horizon Europe Associated Countries (incl. Israel)",
+      "sector": "Deep tech, sector-agnostic for Open call",
+      "stage": "TRL 6-8, deep tech",
+      "eligibility": "Single SMEs/start-ups. Short proposal can be submitted anytime. Full proposal requires a GO on the short proposal.",
+      "funding": "",
+      "days_until_deadline": 2
+    },
+    {
+      "title": "EEN2EIC NRW (women-led + North Rhine-Westphalia) - July cutoff",
+      "deadline": "2026-07-08",
+      "url": "https://nrweuropa.de/en/een2eic/",
+      "region": "North Rhine-Westphalia, Germany",
+      "sector": "Innovative product/service/business model",
+      "stage": "TRL 5-8 within 24 months",
+      "eligibility": "Woman in founding team or leading role + NRW-located",
+      "funding": "",
+      "days_until_deadline": 2
+    },
+    {
+      "title": "Makers Mindset Grant",
+      "deadline": "2026-07-10",
+      "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
+      "region": "USA",
+      "sector": "CPG (beauty, food, beverage, pet, tech goods, home goods)",
+      "stage": "Early revenue ($50K-$1M annual)",
+      "eligibility": "Women-led CPG brand, U.S.-based, 1+ year in business, $50K-$1M annual revenue",
+      "funding": "$10,000 equity-free + mentorship + visibility",
+      "days_until_deadline": 4
+    },
+    {
+      "title": "UNHCR Innovation Accelerator",
+      "deadline": "2026-07-12",
+      "url": "",
+      "region": "Global",
+      "sector": "Impact",
+      "stage": "Growth-stage with refugee/humanitarian impact",
+      "eligibility": "Startups serving refugees / displaced populations",
+      "funding": "",
+      "days_until_deadline": 6
+    },
+    {
+      "title": "EmpowHER Tech Launchpad",
+      "deadline": "2026-07-12",
+      "url": "",
+      "region": "TBD",
+      "sector": "Tech",
+      "stage": "Early-stage women in tech",
+      "eligibility": "Women in tech",
+      "funding": "",
+      "days_until_deadline": 6
+    },
+    {
+      "title": "IEEE WIE Big Idea Pitch",
+      "deadline": "2026-07-15",
+      "url": "",
+      "region": "Global",
+      "sector": "Engineering, tech",
+      "stage": "Idea / early",
+      "eligibility": "IEEE WIE members / women engineers",
+      "funding": "",
+      "days_until_deadline": 9
+    },
+    {
+      "title": "WeXchange Women STEMpreneurs Competition",
+      "deadline": "2026-07-15",
+      "url": "https://wexchange.iadb.org/",
+      "region": "Latin America",
+      "sector": "STEM",
+      "stage": "Early-to-growth STEM",
+      "eligibility": "Latin American women STEM founders",
+      "funding": "",
+      "days_until_deadline": 9
+    },
+    {
+      "title": "How Women Lead - Visible Impact Personal Branding Series",
+      "deadline": "2026-07-15",
+      "url": "https://www.howwomenlead.com/events-3",
+      "region": "Global (Virtual)",
+      "sector": "Any",
+      "stage": "Established leader / founder",
+      "eligibility": "Women leaders and founders",
+      "funding": "Program (personal brand + visibility)",
+      "days_until_deadline": 9
+    },
+    {
+      "title": "AI Founders Accelerator",
+      "deadline": "2026-07-20",
+      "url": "",
+      "region": "Global",
+      "sector": "AI",
+      "stage": "Early AI startups",
+      "eligibility": "AI founders",
+      "funding": "",
+      "days_until_deadline": 14
+    },
+    {
+      "title": "AWIEF Pitch n Grow",
+      "deadline": "2026-07-20",
+      "url": "",
+      "region": "Africa",
+      "sector": "Sector-agnostic",
+      "stage": "Growth",
+      "eligibility": "African women entrepreneurs",
+      "funding": "",
+      "days_until_deadline": 14
+    },
+    {
+      "title": "Climate Economy Accelerator Berlin",
+      "deadline": "2026-07-26",
+      "url": "",
+      "region": "Berlin / EU",
+      "sector": "Climate, sustainability",
+      "stage": "Climate-tech early to growth",
+      "eligibility": "Climate-tech startups",
+      "funding": "",
+      "days_until_deadline": 20
+    },
+    {
+      "title": "Y Combinator Fall 2026 batch",
+      "deadline": "2026-07-27",
+      "url": "https://www.ycombinator.com/apply",
+      "region": "Global",
+      "sector": "Sector-agnostic",
+      "stage": "Early",
+      "eligibility": "Any startup",
+      "funding": "",
+      "days_until_deadline": 21
+    },
+    {
+      "title": "Capital & Catalyst Grant (Enthuse Foundation)",
+      "deadline": "2026-07-28",
+      "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
+      "region": "USA",
+      "sector": "Food & Beverage (excludes skincare/beauty/apparel)",
+      "stage": "Growth-stage food/beverage",
+      "eligibility": "Women-owned food or beverage businesses preparing for next stage of growth",
+      "funding": "$40,000 + mentorship + network",
+      "days_until_deadline": 22
+    },
+    {
+      "title": "Lululemon Centre for Social Impact - Community Wellbeing Grants",
+      "deadline": "2026-07-31",
+      "url": "",
+      "region": "Global",
+      "sector": "Wellbeing, social impact",
+      "stage": "All stages",
+      "eligibility": "Nonprofits + impact orgs",
+      "funding": "",
+      "days_until_deadline": 25
+    },
+    {
+      "title": "Stanley x TOGETHXR Grant",
+      "deadline": "2026-07-31",
+      "url": "",
+      "region": "US",
+      "sector": "Women's sports + culture",
+      "stage": "Early",
+      "eligibility": "Women-led ventures in women's sports / culture",
+      "funding": "",
+      "days_until_deadline": 25
+    },
+    {
+      "title": "Women's Health Horizons (WHH) Founder Pitch Competition - London + San Francisco",
+      "deadline": "2026-07-31",
+      "url": "https://whhwomenshealthhorizons.com",
+      "region": "Global (SF + London summits)",
+      "sector": "Women's health (fertility, menopause, maternal health, AI, diagnostics, medical devices)",
+      "stage": "Early to growth-stage",
+      "eligibility": "Women's health ventures",
+      "funding": "",
+      "days_until_deadline": 25
+    },
+    {
+      "title": "AT&T She's Connected Contest",
+      "deadline": "2026-07-31",
+      "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
+      "region": "USA",
+      "sector": "Any (women-led business)",
+      "stage": "Any",
+      "eligibility": "U.S.-based women-led business",
+      "funding": "$50,000 grand prize + 4x $5,000 runner-ups",
+      "days_until_deadline": 25
+    },
+    {
+      "title": "Changing the Game Grant (Honeycomb Credit)",
+      "deadline": "2026-07-31",
+      "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
+      "region": "USA",
+      "sector": "Food & Beverage venues centering women's sports",
+      "stage": "Operating business",
+      "eligibility": "U.S.-based for-profit food/beverage businesses centering women's sports",
+      "funding": "$20,000 grant",
+      "days_until_deadline": 25
+    },
+    {
+      "title": "Galaxy Grants (Hidden Star)",
+      "deadline": "2026-07-31",
+      "url": "https://transformthehustle.substack.com/p/july-2026-grants-opportunities",
+      "region": "USA",
+      "sector": "Any (women and minority owned)",
+      "stage": "Any (aspiring, early, established)",
+      "eligibility": "Women and minority business owners in the U.S., any stage",
+      "funding": "$4,250 base + monthly $10K awards to 10 businesses",
+      "days_until_deadline": 25
+    },
+    {
+      "title": "AGE-WELL National Innovation Hub program",
+      "deadline": "2026-08-10",
+      "url": "",
+      "region": "Canada",
+      "sector": "AgeTech",
+      "stage": "Early to growth",
+      "eligibility": "Canadian researchers / startups in aging-related tech",
+      "funding": "",
+      "days_until_deadline": 35
+    },
+    {
+      "title": "Women-Led Business Grant",
+      "deadline": "2026-08-20",
+      "url": "",
+      "region": "TBD",
+      "sector": "Sector-agnostic",
+      "stage": "Established small business",
+      "eligibility": "Women-led businesses",
+      "funding": "",
+      "days_until_deadline": 45
+    },
+    {
+      "title": "Women's Health Week Europe 2026 - Mainstage Pitch (Emirates Stadium)",
+      "deadline": "2026-08-28",
+      "url": "https://www.femtechworld.co.uk/entrepreneur/womens-health-week-europe-2026-opens-pitch-applications-for-mainstage-showcase-at-the-emirates-stadium-whw26/",
+      "region": "Europe (London)",
+      "sector": "Women's health, femtech",
+      "stage": "Early to growth",
+      "eligibility": "Women's health / femtech startups",
+      "funding": "",
+      "days_until_deadline": 53
+    },
+    {
+      "title": "CatalyseHer UK (INCO Group) - Cohort 4",
+      "deadline": "2026-09-01",
+      "url": "https://grantedai.com/grants/catalyseher-uk-inco-group-ea9330e0",
+      "region": "UK",
+      "sector": "Sector-agnostic",
+      "stage": "Women-led businesses",
+      "eligibility": "Women entrepreneurs in the UK",
+      "funding": "",
+      "days_until_deadline": 57
+    }
+  ],
+  "next_briefing": "2026-07-13"
+}
