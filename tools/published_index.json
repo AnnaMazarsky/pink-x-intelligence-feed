@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "built_at": "2026-08-25T07:14:20Z",
+  "built_at": "2026-08-31T05:21:38Z",
   "runs_indexed": [
     "2:2026-06-01",
     "3:2026-06-08",
@@ -14,7 +14,8 @@
     "11:2026-08-03",
     "12:2026-08-10",
     "13:2026-08-17",
-    "14:2026-08-24"
+    "14:2026-08-24",
+    "15:2026-08-31"
   ],
   "entries": [
     {
@@ -2430,6 +2431,123 @@
         "100m"
       ],
       "item_date": "2026-08-20"
+    },
+    {
+      "run_number": 15,
+      "run_date": "2026-08-31",
+      "title": "Unrivaled closes a $100 million-plus Series C",
+      "url": "https://refreshmiami.com/news/for-the-win-miami-based-basketball-startup-league-unrivaled-raises-100m-series-c/",
+      "url_norm": "https://refreshmiami.com/news/for-the-win-miami-based-basketball-startup-league-unrivaled-raises-100m-series-c",
+      "entities": [
+        "crunchbase",
+        "pillars",
+        "sports",
+        "ten pillars sports",
+        "unrivaled"
+      ],
+      "amounts": [
+        "100m",
+        "106m"
+      ],
+      "item_date": "2026-08-26"
+    },
+    {
+      "run_number": 15,
+      "run_date": "2026-08-31",
+      "title": "BOOKR Kids raises EUR 6.1 million for AI-ready literacy learning",
+      "url": "https://techfundingnews.com/female-founded-bookr-raises-e6-1m-to-bring-ai-ready-learning-to-children-worldwide/",
+      "url_norm": "https://techfundingnews.com/female-founded-bookr-raises-e6-1m-to-bring-ai-ready-learning-to-children-worldwide",
+      "entities": [
+        "ai-ready",
+        "bookr",
+        "bookr kids",
+        "budapest",
+        "dorka",
+        "dr dorka horvath",
+        "eur",
+        "horvath",
+        "kids",
+        "tcee"
+      ],
+      "amounts": [
+        "6.1m",
+        "662,000"
+      ],
+      "item_date": "2026-08-25"
+    },
+    {
+      "run_number": 15,
+      "run_date": "2026-08-31",
+      "title": "eNOugh raises $2.7 million for an AI-powered safety wearable",
+      "url": "https://femtechinsider.com/enough-raises-2-7m-for-ai-powered-wearable-safety-device/",
+      "url_norm": "https://femtechinsider.com/enough-raises-2-7m-for-ai-powered-wearable-safety-device",
+      "entities": [
+        "ai-powered",
+        "ina jovicic",
+        "jovicic",
+        "london-based",
+        "ventures"
+      ],
+      "amounts": [
+        "2.7m"
+      ],
+      "item_date": "2026-08-27"
+    },
+    {
+      "run_number": 15,
+      "run_date": "2026-08-31",
+      "title": "Capital F closes a $17 million debut fund for the female economy",
+      "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
+      "url_norm": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy",
+      "entities": [
+        "coblentz",
+        "dawn",
+        "dawn dobras",
+        "dobras",
+        "margaret",
+        "margaret coblentz"
+      ],
+      "amounts": [
+        "17m",
+        "1m",
+        "250,000"
+      ],
+      "item_date": "2026-08-26"
+    },
+    {
+      "run_number": 15,
+      "run_date": "2026-08-31",
+      "title": "Women TechEU opens a EUR 12 million third round",
+      "url": "https://www.sensorik-bayern.de/aktuelles/artikel/foerderung-women-techeu",
+      "url_norm": "https://sensorik-bayern.de/aktuelles/artikel/foerderung-women-techeu",
+      "entities": [
+        "eur",
+        "july",
+        "techeu",
+        "tuesday"
+      ],
+      "amounts": [
+        "12m"
+      ],
+      "item_date": "2026-08-26"
+    },
+    {
+      "run_number": 15,
+      "run_date": "2026-08-31",
+      "title": "$100,000 Capital Elle Business Impact Award",
+      "url": "https://www.elleiance.ca/award",
+      "url_norm": "https://elleiance.ca/award",
+      "entities": [
+        "award",
+        "business",
+        "elle",
+        "elle business impact award",
+        "impact"
+      ],
+      "amounts": [
+        "100,000"
+      ],
+      "item_date": "2026-08-31"
     }
   ]
 }
