@@ -1,93 +1,99 @@
 {
-  "feed": "Pink X Intelligence Feed",
-  "weeks": [
-    {
-      "date": "2026-08-31",
-      "run_number": 15,
-      "url": "archive/2026-08-31.json"
-    },
-    {
-      "date": "2026-08-24",
-      "run_number": 14,
-      "url": "archive/2026-08-24.json",
-      "correction_issued": "2026-08-24"
-    },
-    {
-      "date": "2026-08-17",
-      "run_number": 13,
-      "window": "2026-08-10 to 2026-08-17",
-      "file": "archive/2026-08-17.json"
-    },
-    {
-      "date": "2026-08-10",
-      "run_number": 12,
-      "window": "2026-08-03 to 2026-08-10",
-      "file": "archive/2026-08-10.json"
-    },
-    {
-      "date": "2026-08-03",
-      "run_number": 11,
-      "window": "2026-07-27 to 2026-08-03",
-      "file": "archive/2026-08-03.json"
-    },
-    {
-      "date": "2026-07-27",
-      "run_number": 10,
-      "window": "2026-07-20 to 2026-07-27",
-      "file": "archive/2026-07-27.json"
-    },
-    {
-      "date": "2026-07-20",
-      "run_number": 9,
-      "window": "2026-07-13 to 2026-07-20",
-      "file": "archive/2026-07-20.json"
-    },
-    {
-      "date": "2026-07-13",
-      "run_number": 8,
-      "window": "2026-07-06 to 2026-07-13",
-      "file": "archive/2026-07-13.json"
-    },
-    {
-      "date": "2026-07-06",
-      "run_number": 7,
-      "url": "archive/2026-07-06.json"
-    },
-    {
-      "date": "2026-06-29",
-      "run_number": 6,
-      "url": "archive/2026-06-29.json"
-    },
-    {
-      "date": "2026-06-22",
-      "run_number": 5,
-      "url": "archive/2026-06-22.json"
-    },
-    {
-      "date": "2026-06-15",
-      "run_number": 4,
-      "url": "archive/2026-06-15.json"
-    },
-    {
-      "date": "2026-06-08",
-      "run_number": 3,
-      "url": "archive/2026-06-08.json"
-    },
-    {
-      "date": "2026-06-01",
-      "run_number": 2,
-      "url": "archive/2026-06-01.json"
-    }
-  ],
-  "runs": [
-    {
-      "run_number": 7,
-      "run_date": "2026-07-06",
-      "window": "June 29 - July 6, 2026",
-      "archive_url": "archive/run7_2026-07-06.json"
-    }
-  ],
-  "latest_run": 15,
-  "last_updated": "2026-08-31",
-  "latest": "latest.json"
+ "feed": "Pink X Intelligence Feed",
+ "weeks": [
+  {
+   "date": "2026-09-07",
+   "run_number": 16,
+   "window": "2026-08-31 to 2026-09-07",
+   "url": "archive/2026-09-07.json"
+  },
+  {
+   "date": "2026-08-31",
+   "run_number": 15,
+   "url": "archive/2026-08-31.json"
+  },
+  {
+   "date": "2026-08-24",
+   "run_number": 14,
+   "url": "archive/2026-08-24.json",
+   "correction_issued": "2026-08-24"
+  },
+  {
+   "date": "2026-08-17",
+   "run_number": 13,
+   "window": "2026-08-10 to 2026-08-17",
+   "file": "archive/2026-08-17.json"
+  },
+  {
+   "date": "2026-08-10",
+   "run_number": 12,
+   "window": "2026-08-03 to 2026-08-10",
+   "file": "archive/2026-08-10.json"
+  },
+  {
+   "date": "2026-08-03",
+   "run_number": 11,
+   "window": "2026-07-27 to 2026-08-03",
+   "file": "archive/2026-08-03.json"
+  },
+  {
+   "date": "2026-07-27",
+   "run_number": 10,
+   "window": "2026-07-20 to 2026-07-27",
+   "file": "archive/2026-07-27.json"
+  },
+  {
+   "date": "2026-07-20",
+   "run_number": 9,
+   "window": "2026-07-13 to 2026-07-20",
+   "file": "archive/2026-07-20.json"
+  },
+  {
+   "date": "2026-07-13",
+   "run_number": 8,
+   "window": "2026-07-06 to 2026-07-13",
+   "file": "archive/2026-07-13.json"
+  },
+  {
+   "date": "2026-07-06",
+   "run_number": 7,
+   "url": "archive/2026-07-06.json"
+  },
+  {
+   "date": "2026-06-29",
+   "run_number": 6,
+   "url": "archive/2026-06-29.json"
+  },
+  {
+   "date": "2026-06-22",
+   "run_number": 5,
+   "url": "archive/2026-06-22.json"
+  },
+  {
+   "date": "2026-06-15",
+   "run_number": 4,
+   "url": "archive/2026-06-15.json"
+  },
+  {
+   "date": "2026-06-08",
+   "run_number": 3,
+   "url": "archive/2026-06-08.json"
+  },
+  {
+   "date": "2026-06-01",
+   "run_number": 2,
+   "url": "archive/2026-06-01.json"
+  }
+ ],
+ "runs": [
+  {
+   "run_number": 7,
+   "run_date": "2026-07-06",
+   "window": "June 29 - July 6, 2026",
+   "archive_url": "archive/run7_2026-07-06.json"
+  }
+ ],
+ "latest_run": 15,
+ "last_updated": "2026-08-31",
+ "latest": "latest.json"
 }
