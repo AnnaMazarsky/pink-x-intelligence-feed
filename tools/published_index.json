@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "built_at": "2026-08-31T05:21:38Z",
+  "built_at": "2026-09-07T05:26:58Z",
   "runs_indexed": [
     "2:2026-06-01",
     "3:2026-06-08",
@@ -15,7 +15,8 @@
     "12:2026-08-10",
     "13:2026-08-17",
     "14:2026-08-24",
-    "15:2026-08-31"
+    "15:2026-08-31",
+    "16:2026-09-07"
   ],
   "entries": [
     {
@@ -2548,6 +2549,156 @@
         "100,000"
       ],
       "item_date": "2026-08-31"
+    },
+    {
+      "run_number": 16,
+      "run_date": "2026-09-07",
+      "title": "Auxxo closes Female Catalyst Fund II at EUR 33.3 million and adds a founder matching platform",
+      "url": "https://www.startbase.com/news/auxxo-schliesst-zweiten-female-catalyst-fund-bei-333-millionen-euro/",
+      "url_norm": "https://startbase.com/news/auxxo-schliesst-zweiten-female-catalyst-fund-bei-333-millionen-euro",
+      "entities": [
+        "auxxo",
+        "berlin-based",
+        "berlin-based auxxo",
+        "catalyst",
+        "eur",
+        "vcs auxxo"
+      ],
+      "amounts": [
+        "19m",
+        "33.3m"
+      ],
+      "item_date": "2026-09-01"
+    },
+    {
+      "run_number": 16,
+      "run_date": "2026-09-07",
+      "title": "Barilla acquires Goodles, the mac-and-cheese brand co-founded by Gal Gadot and led by CEO Jen Zeszut",
+      "url": "https://variety.com/2026/biz/news/gal-gadot-goodles-mac-and-cheese-startup-acquired-barilla-1236850624/",
+      "url_norm": "https://variety.com/2026/biz/news/gal-gadot-goodles-mac-and-cheese-startup-acquired-barilla-1236850624",
+      "entities": [
+        "barilla",
+        "co-founder",
+        "financial",
+        "foods",
+        "gadot",
+        "gal gadot",
+        "gal gadot co-founder",
+        "gooder",
+        "gooder foods",
+        "goodles",
+        "group",
+        "jen zeszut",
+        "jen zeszut barilla group",
+        "october",
+        "zeszut"
+      ],
+      "amounts": [],
+      "item_date": "2026-09-03"
+    },
+    {
+      "run_number": 16,
+      "run_date": "2026-09-07",
+      "title": "DivInc names Tauri Laws-Philips CEO and relaunches its Women in Tech Accelerator",
+      "url": "https://www.forbes.com/sites/brittanychambers/2026/09/02/divinc-names-tauri-laws-philips-ceo-relaunches-women-tech-accelerator/",
+      "url_norm": "https://forbes.com/sites/brittanychambers/2026/09/02/divinc-names-tauri-laws-philips-ceo-relaunches-women-tech-accelerator",
+      "entities": [
+        "andreessen",
+        "andreessen horowitz",
+        "divinc",
+        "horowitz",
+        "laws-philips",
+        "tauri",
+        "tauri laws-philips"
+      ],
+      "amounts": [],
+      "item_date": "2026-09-02"
+    },
+    {
+      "run_number": 16,
+      "run_date": "2026-09-07",
+      "title": "iPremom raises EUR 15 million seed led by Amadeus Capital Partners to predict pregnancy complications from a blood test",
+      "url": "https://www.vestbee.com/insights/articles/i-premom-lands-15-m",
+      "url_norm": "https://vestbee.com/insights/articles/i-premom-lands-15-m",
+      "entities": [
+        "amadeus",
+        "amadeus apex technology",
+        "apex",
+        "apex ventures",
+        "asabys",
+        "eur",
+        "technology",
+        "valencia-based",
+        "ventures"
+      ],
+      "amounts": [
+        "15m"
+      ],
+      "item_date": "2026-09-02"
+    },
+    {
+      "run_number": 16,
+      "run_date": "2026-09-07",
+      "title": "Femtech companies took USD 621.8 million across 36 disclosed equity deals in the month just closed",
+      "url": "https://newmarketpitch.com/blogs/news/femtech-funding-analysis",
+      "url_norm": "https://newmarketpitch.com/blogs/news/femtech-funding-analysis",
+      "entities": [
+        "femtech",
+        "usd"
+      ],
+      "amounts": [
+        "621.825m",
+        "621.8m"
+      ],
+      "item_date": "2026-09-02"
+    },
+    {
+      "run_number": 16,
+      "run_date": "2026-09-07",
+      "title": "EUR 9.7B European deal value to female founders so far in 2026, nearly matching all of 2025",
+      "url": "https://finance.yahoo.com/small-business/articles/wave-vc-funds-bets-female-173548742.html",
+      "url_norm": "https://finance.yahoo.com/small-business/articles/wave-vc-funds-bets-female-173548742.html",
+      "entities": [
+        "eur"
+      ],
+      "amounts": [
+        "9.7b"
+      ],
+      "item_date": "2026-09-07"
+    },
+    {
+      "run_number": 16,
+      "run_date": "2026-09-07",
+      "title": "USD 180K H&R Block Fund Her Future total, four awards of USD 45,000, closing September 22",
+      "url": "https://www.hrblock.com/fund-her-future-small-business-grants/",
+      "url_norm": "https://hrblock.com/fund-her-future-small-business-grants",
+      "entities": [
+        "block",
+        "future",
+        "h&r block",
+        "september",
+        "usd"
+      ],
+      "amounts": [
+        "180k",
+        "45,000"
+      ],
+      "item_date": "2026-09-07"
+    },
+    {
+      "run_number": 16,
+      "run_date": "2026-09-07",
+      "title": "USD 1.16B Raised by Israeli startups in the first two days of September, nearly double all of September 2025",
+      "url": "https://www.calcalistech.com/ctechnews/article/hjvc16uoge",
+      "url_norm": "https://calcalistech.com/ctechnews/article/hjvc16uoge",
+      "entities": [
+        "september",
+        "usd"
+      ],
+      "amounts": [
+        "1.16b"
+      ],
+      "item_date": "2026-09-07"
     }
   ]
 }
