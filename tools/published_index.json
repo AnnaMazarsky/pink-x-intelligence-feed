@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "built_at": "2026-09-07T05:26:58Z",
+  "built_at": "2026-09-14T05:28:53Z",
   "runs_indexed": [
     "2:2026-06-01",
     "3:2026-06-08",
@@ -16,7 +16,8 @@
     "13:2026-08-17",
     "14:2026-08-24",
     "15:2026-08-31",
-    "16:2026-09-07"
+    "16:2026-09-07",
+    "17:2026-09-14"
   ],
   "entries": [
     {
@@ -2699,6 +2700,161 @@
         "1.16b"
       ],
       "item_date": "2026-09-07"
+    },
+    {
+      "run_number": 17,
+      "run_date": "2026-09-14",
+      "title": "The Exploration Company closes USD 450 million Series C co-led by Bessemer, Atomico and the EQT managed Scaleup Europe Fund",
+      "url": "https://www.voxelmatters.com/the-exploration-company-raises-450-million-in-europes-largest-space-series-c/",
+      "url_norm": "https://voxelmatters.com/the-exploration-company-raises-450-million-in-europes-largest-space-series-c",
+      "entities": [
+        "atomico",
+        "balderton",
+        "balderton plural cherry",
+        "bessemer",
+        "bessemer atomico",
+        "cherry",
+        "company",
+        "eqt",
+        "exploration",
+        "exploration company",
+        "helene",
+        "helene huby",
+        "huby",
+        "plural",
+        "red river west",
+        "river",
+        "scaleup",
+        "usd",
+        "west"
+      ],
+      "amounts": [
+        "2b",
+        "450m",
+        "680m"
+      ],
+      "item_date": "2026-09-09"
+    },
+    {
+      "run_number": 17,
+      "run_date": "2026-09-14",
+      "title": "Norway's DNB lists DNB Fund Women's Health, reported as the first women's health equity fund from a major bank",
+      "url": "https://www.dnb.no/dnbnyheter/no/din-okonomi/nytt-aksjefond-dnb-fund-womens-health",
+      "url_norm": "https://dnb.no/dnbnyheter/no/din-okonomi/nytt-aksjefond-dnb-fund-womens-health",
+      "entities": [
+        "anesa",
+        "anesa mulabecirovic sahnoun",
+        "dnb",
+        "health",
+        "mulabecirovic",
+        "norway",
+        "norway dnb",
+        "portfolio",
+        "sahnoun",
+        "women health"
+      ],
+      "amounts": [],
+      "item_date": "2026-09-02"
+    },
+    {
+      "run_number": 17,
+      "run_date": "2026-09-14",
+      "title": "Euno raises USD 23 million Series A led by N47 with Wiz, Cyera and Eon founders backing it",
+      "url": "https://www.vccafe.com/2026/09/11/weekly-firgun-newsletter-september-11-2026/",
+      "url_norm": "https://vccafe.com/2026/09/11/weekly-firgun-newsletter-september-11-2026",
+      "entities": [
+        "aviv",
+        "co-founder",
+        "cyera",
+        "eon",
+        "euno",
+        "francisco",
+        "levy",
+        "n47",
+        "san francisco",
+        "sarah",
+        "sarah levy",
+        "tel aviv",
+        "usd",
+        "wiz cyera"
+      ],
+      "amounts": [
+        "23m",
+        "29m"
+      ],
+      "item_date": "2026-09-11"
+    },
+    {
+      "run_number": 17,
+      "run_date": "2026-09-14",
+      "title": "The Gender Index finds Australian women start businesses in numbers then hit a scaling cliff costing more than AUD 100 billion a year",
+      "url": "https://womensagenda.com.au/business/entrepreneurs/women-in-business-face-a-scaling-cliff-thats-costing-australia/",
+      "url_norm": "https://womensagenda.com.au/business/entrepreneurs/women-in-business-face-a-scaling-cliff-thats-costing-australia",
+      "entities": [
+        "aud",
+        "australian",
+        "gender"
+      ],
+      "amounts": [],
+      "item_date": "2026-09-03"
+    },
+    {
+      "run_number": 17,
+      "run_date": "2026-09-14",
+      "title": "Cherub raises USD 4.5 million pre-seed from Baukunst, Slauson and Co and Ghost Angels",
+      "url": "https://theventurecodex.com/companies/cherub",
+      "url_norm": "https://theventurecodex.com/companies/cherub",
+      "entities": [
+        "angeline",
+        "angeline vuong",
+        "angels",
+        "baukunst",
+        "baukunst slauson",
+        "cherub",
+        "co-founders",
+        "ghost",
+        "ghost angels co-founders jaclyn johnson",
+        "jaclyn",
+        "johnson",
+        "slauson",
+        "usd",
+        "vuong"
+      ],
+      "amounts": [
+        "4.5m"
+      ],
+      "item_date": "2026-09-10"
+    },
+    {
+      "run_number": 17,
+      "run_date": "2026-09-14",
+      "title": "AUD 100B Forgone Australian wages and tax revenue every year from the women's scaling cliff",
+      "url": "https://www.westpac.com.au/news/money-matters/2026/09/new-research-reveals-100-billion-reasons-to-help-more-women-scale-their-business/",
+      "url_norm": "https://westpac.com.au/news/money-matters/2026/09/new-research-reveals-100-billion-reasons-to-help-more-women-scale-their-business",
+      "entities": [
+        "aud",
+        "australian",
+        "forgone",
+        "forgone australian"
+      ],
+      "amounts": [],
+      "item_date": "2026-09-14"
+    },
+    {
+      "run_number": 17,
+      "run_date": "2026-09-14",
+      "title": "USD 1.4B Announced across 14 Israeli rounds in a single week, more than twice all of August",
+      "url": "https://israelvc.com/news/israels-1-4b-week-capital-returns-at-full-speed/",
+      "url_norm": "https://israelvc.com/news/israels-1-4b-week-capital-returns-at-full-speed",
+      "entities": [
+        "announced",
+        "august",
+        "usd"
+      ],
+      "amounts": [
+        "1.4b"
+      ],
+      "item_date": "2026-09-14"
     }
   ]
 }
