@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "built_at": "2026-09-14T05:28:53Z",
+  "built_at": "2026-09-21T05:25:21Z",
   "runs_indexed": [
     "2:2026-06-01",
     "3:2026-06-08",
@@ -17,7 +17,8 @@
     "14:2026-08-24",
     "15:2026-08-31",
     "16:2026-09-07",
-    "17:2026-09-14"
+    "17:2026-09-14",
+    "18:2026-09-21"
   ],
   "entries": [
     {
@@ -2855,6 +2856,154 @@
         "1.4b"
       ],
       "item_date": "2026-09-14"
+    },
+    {
+      "run_number": 18,
+      "run_date": "2026-09-21",
+      "title": "Evvy raises $40M Series B led by Catalio Capital Management",
+      "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+      "url_norm": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data",
+      "entities": [
+        "alumni",
+        "alumni ventures",
+        "catalio",
+        "evvy",
+        "fertility",
+        "fertility innovation",
+        "impact",
+        "innovation",
+        "jain",
+        "management",
+        "muse",
+        "priyanka",
+        "priyanka jain",
+        "rethink",
+        "rethink impact muse",
+        "ventures"
+      ],
+      "amounts": [
+        "40m"
+      ],
+      "item_date": "2026-09-15"
+    },
+    {
+      "run_number": 18,
+      "run_date": "2026-09-21",
+      "title": "Highstock lands $30M Series A from a16z",
+      "url": "https://www.alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-14-2026/",
+      "url_norm": "https://alleywatch.com/2026/09/the-alleywatch-startup-daily-funding-report-9-14-2026",
+      "entities": [
+        "a16z",
+        "andreessen",
+        "andreessen horowitz",
+        "camille",
+        "highstock",
+        "horne",
+        "horne nyc",
+        "horowitz",
+        "rare",
+        "september"
+      ],
+      "amounts": [
+        "30m",
+        "35.5m"
+      ],
+      "item_date": "2026-09-14"
+    },
+    {
+      "run_number": 18,
+      "run_date": "2026-09-21",
+      "title": "FE+MALE Swiss report: 14.1% of 2024 funded Swiss startups had a female founder",
+      "url": "https://www.startupticker.ch/en/news/fe-male-report-fixing-the-funding-bias-may-be-more-practical-than-political",
+      "url_norm": "https://startupticker.ch/en/news/fe-male-report-fixing-the-funding-bias-may-be-more-practical-than-political",
+      "entities": [
+        "fe male",
+        "fe male swiss",
+        "male",
+        "september",
+        "startupticker",
+        "swiss"
+      ],
+      "amounts": [
+        "14.1pct"
+      ],
+      "item_date": "2026-09-11"
+    },
+    {
+      "run_number": 18,
+      "run_date": "2026-09-21",
+      "title": "MENA female founders took 0.14% of H1 2026 VC dollars, $2.5M of $1.7B",
+      "url": "https://fortune.com/2026/09/16/the-middle-easts-female-founders-are-on-the-rise-why-isnt-the-funding-following/",
+      "url_norm": "https://fortune.com/2026/09/16/the-middle-easts-female-founders-are-on-the-rise-why-isnt-the-funding-following",
+      "entities": [
+        "august",
+        "fortune",
+        "mena",
+        "wamda"
+      ],
+      "amounts": [
+        "0.14pct",
+        "1.7b",
+        "2.5m",
+        "375m"
+      ],
+      "item_date": "2026-09-16"
+    },
+    {
+      "run_number": 18,
+      "run_date": "2026-09-21",
+      "title": "Boundless Futures Foundation crosses $1.5M in lifetime grants with $300K to 6 women founders",
+      "url": "https://finance.yahoo.com/small-business/articles/boundless-futures-foundation-surpasses-1-120000760.html",
+      "url_norm": "https://finance.yahoo.com/small-business/articles/boundless-futures-foundation-surpasses-1-120000760.html",
+      "entities": [
+        "accelidea",
+        "accelidea rose huang enspired solutions denise kay ries megan graham rif care valerie emanuel",
+        "boundless",
+        "boundless futures foundation",
+        "caputo",
+        "care",
+        "denise",
+        "emanuel",
+        "empowher",
+        "enspired",
+        "foundation",
+        "futures",
+        "graham",
+        "hansjee",
+        "huang",
+        "industries",
+        "megan",
+        "mpho",
+        "rebecca",
+        "rebecca caputo shopconsciously mpho hansjee",
+        "ries",
+        "rose",
+        "september",
+        "shopconsciously",
+        "solutions",
+        "tayyaba",
+        "tikal",
+        "tikal industries tayyaba ali",
+        "valerie"
+      ],
+      "amounts": [
+        "1.5m",
+        "300k",
+        "50,000"
+      ],
+      "item_date": "2026-09-17"
+    },
+    {
+      "run_number": 18,
+      "run_date": "2026-09-21",
+      "title": "First Global drop in female fund-manager share in eight years, amid DEI backlash",
+      "url": "https://www.thetimes.com/business/companies-markets/article/proportion-female-fund-managers-falls-for-first-time-s33gk75j8",
+      "url_norm": "https://thetimes.com/business/companies-markets/article/proportion-female-fund-managers-falls-for-first-time-s33gk75j8",
+      "entities": [
+        "dei"
+      ],
+      "amounts": [],
+      "item_date": "2026-09-21"
     }
   ]
 }
