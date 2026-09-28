@@ -2,20 +2,67 @@
   "run_number": 19,
   "run_date": "2026-09-28",
   "window": "September 21 to September 28, 2026",
+  "web_revision": {
+    "date": "2026-09-28",
+    "scope": "Editorial and website correction to the existing Run 19. No new run or email."
+  },
   "headline_of_the_week": {
-    "title": "USD 13M for fertility care",
-    "summary": "Toronto-based Bird&Be, co-founded by CEO Samantha Diamond and Breanna Hughes, announced funding led by BDC Thrive and BFG Partners. Its legal adviser confirms a USD 13 million Series A for reproductive-health products, product development and retail expansion.",
-    "url": "https://www.prnewswire.com/news-releases/fertility-brand-birdbe-raises-13m-to-expand-access-to-evidence-backed-fertility-care-nationwide-302884277.html",
-    "date": "2026-09-22"
+    "title": "Michelle Daubar joins Engine Ventures to lead capital formation",
+    "summary": "A woman takes a senior role leading institutional investor relationships and fundraising strategy at a venture firm managing more than USD 1 billion. The appointment concerns the firm's capital base, not a newly announced fund or a women-founder investment mandate.",
+    "url": "https://venturebeat.com/business/michelle-daubar-joins-engine-ventures-as-partner-head-of-investor-relations-capital-formation",
+    "date": "2026-09-23"
+  },
+  "signal_of_the_week": {
+    "rank": 1,
+    "source_url": "https://venturebeat.com/business/michelle-daubar-joins-engine-ventures-as-partner-head-of-investor-relations-capital-formation",
+    "why_it_matters": [
+      "Daubar's remit is institutional investor relationships and capital formation: a leadership role in raising the capital that funds venture investing, rather than a startup fundraising announcement.",
+      "For founders following the investor ecosystem, this identifies who will lead Engine Ventures' relationships with LPs and fundraising strategy. It does not establish responsibility for selecting startup investments.",
+      "The firm reports more than USD 1 billion in assets under management. No new fund close, new allocation to women founders or gender-lens mandate was announced."
+    ]
+  },
+  "intelligence_brief": {
+    "read": "This edition separates fund-level leadership, company financing and funding-gap research. Three of the four announcements published within September 21 to 28 are issuer press releases; they verify announcements but do not constitute independent evidence of a market-wide trend. The September 16 Austrian study is explicitly included as earlier research context.",
+    "lanes": [
+      {
+        "label": "FUND-LEVEL LEADERSHIP",
+        "icon": "investor",
+        "body": "Michelle Daubar joins Engine Ventures to lead institutional investor relationships and capital formation. AUM above USD 1 billion describes the firm, not a new fund raised this week.",
+        "source_url": "https://venturebeat.com/business/michelle-daubar-joins-engine-ventures-as-partner-head-of-investor-relations-capital-formation"
+      },
+      {
+        "label": "COMPANY FINANCING",
+        "icon": "capital",
+        "body": "Bird&Be's USD 13 million Series A is a specific fertility-care financing, confirmed by its legal adviser. One round cannot establish that access to capital has improved for women founders generally.",
+        "source_url": "https://www.osler.com/en/about-us/representative-work/birdbe/"
+      },
+      {
+        "label": "RESEARCH WITH CONTEXT",
+        "icon": "research",
+        "body": "In EY's funded-company sample, 3 of 95 startups had all-women teams and received 0.3% of capital; 20 mixed teams received 4.8%. These are funded companies with known teams, not all Austrian startups.",
+        "source_url": "https://www.ey.com/de_at/newsroom/2026/09/female-start-up-funding-h1-26"
+      }
+    ]
   },
   "headlines": [
     {
-      "title": "Austria's funding rebound leaves all-women teams with 0.3% of capital",
-      "summary": "EY Austria, Female Founders and Fund F report that all-women teams received 0.3% of H1 2026 funding among startups with known founding-team composition, about EUR 1.4 million. The analysis covers 95 funded startups with known teams; all known teams in rounds above EUR 10 million were all-male. 14-day research fallback: no qualifying newly published primary fundraising study was verified in September 21 to 28. This study was published September 16.",
-      "source": "EY Austria",
-      "url": "https://www.ey.com/de_at/newsroom/2026/09/female-start-up-funding-h1-26",
-      "date": "2026-09-16",
-      "priority": 1
+      "title": "Michelle Daubar joins Engine Ventures to lead capital formation",
+      "summary": "Engine Ventures appointed Michelle Daubar Partner, Head of Investor Relations and Capital Formation. She will lead institutional investor relationships and fundraising strategy at the Cambridge, Massachusetts firm, which reports more than USD 1 billion in assets under management. The announcement does not report a new fund close or a women-founder investment mandate.",
+      "source": "Business Wire via VentureBeat",
+      "url": "https://venturebeat.com/business/michelle-daubar-joins-engine-ventures-as-partner-head-of-investor-relations-capital-formation",
+      "date": "2026-09-23",
+      "priority": 4,
+      "rank": 1,
+      "category": "vc_move",
+      "source_type": "Issuer press release, Business Wire syndication",
+      "hero_stat": {
+        "value": "> USD 1B",
+        "label": "Assets managed by Engine Ventures, not a new fund. Michelle Daubar joins to lead investor relations and capital formation."
+      },
+      "why_it_matters": [
+        "This appointment puts a woman in a senior role managing the firm's institutional investor relationships and capital formation.",
+        "Her announced remit concerns the firm's fundraising and LP relationships. It does not establish a new startup-investment mandate or increased funding for women founders."
+      ]
     },
     {
       "title": "Bird&Be raises USD 13 million for fertility care",
@@ -23,7 +70,18 @@
       "source": "Bird&Be / PR Newswire; Osler",
       "url": "https://www.prnewswire.com/news-releases/fertility-brand-birdbe-raises-13m-to-expand-access-to-evidence-backed-fertility-care-nationwide-302884277.html",
       "date": "2026-09-22",
-      "priority": 2
+      "priority": 2,
+      "rank": 2,
+      "category": "funding_round",
+      "source_type": "Issuer press release; amount corroborated by legal adviser",
+      "hero_stat": {
+        "value": "USD 13M",
+        "label": "Bird&Be Series A for fertility care. The currency and amount are confirmed by its legal adviser, Osler."
+      },
+      "why_it_matters": [
+        "The round identifies BDC Thrive and BFG Partners as backers of this reproductive-health company and provides a concrete financing example for the sector.",
+        "It does not establish better access to capital for all women founders, nor that these investors fit every fertility or women's-health startup."
+      ]
     },
     {
       "title": "Arey secures a Series A led by Unilever Ventures",
@@ -31,15 +89,38 @@
       "source": "Beauty Independent",
       "url": "https://www.beautyindependent.com/unilever-ventures-backs-anti-gray-arey-hair-longevity-vision-series-a/",
       "date": "2026-09-22",
-      "priority": 2
+      "priority": 2,
+      "rank": 3,
+      "category": "funding_round",
+      "source_type": "Independent trade publication",
+      "hero_stat": {
+        "value": "Series A",
+        "label": "Arey's round was led by Unilever Ventures. The amount was not disclosed."
+      },
+      "why_it_matters": [
+        "A consumer-sector investor is backing Arey's hair-longevity strategy, with financing directed toward research, clinical studies and growth.",
+        "The amount is undisclosed. This is evidence of one company's financing, not proof of a category-wide funding surge or clinical efficacy."
+      ]
     },
     {
-      "title": "Michelle Daubar joins Engine Ventures to lead capital formation",
-      "summary": "Engine Ventures named Michelle Daubar Partner, Head of Investor Relations and Capital Formation. She will lead institutional investor relationships and fundraising strategy at the Cambridge, Massachusetts firm, which reports more than USD 1 billion in assets under management.",
-      "source": "Business Wire via VentureBeat",
-      "url": "https://venturebeat.com/business/michelle-daubar-joins-engine-ventures-as-partner-head-of-investor-relations-capital-formation",
-      "date": "2026-09-23",
-      "priority": 4
+      "title": "Austria's funding rebound leaves all-women teams with 0.3% of capital",
+      "summary": "EY, Female Founders and Fund F analyzed 95 Austrian startups funded in H1 2026 with known founding teams. All-women teams represented 3 of those companies, about 3.2%, and received 0.3% of the capital, approximately EUR 1.4 million. Mixed teams represented 20 companies, about 21.1%, and received 4.8% of capital.",
+      "source": "EY Austria",
+      "url": "https://www.ey.com/de_at/newsroom/2026/09/female-start-up-funding-h1-26",
+      "date": "2026-09-16",
+      "priority": 1,
+      "rank": 4,
+      "category": "research",
+      "source_type": "Original research publisher",
+      "context_note": "Earlier research context: published September 16, outside the September 21 to 28 news window but within the disclosed 14-day extension. The measured period is H1 2026.",
+      "hero_stat": {
+        "value": "3 of 95",
+        "label": "Funded Austrian startups had all-women teams; they received 0.3% of capital. H1 2026 sample, published September 16."
+      },
+      "why_it_matters": [
+        "Even within the funded-company sample, all-women and mixed teams received smaller shares of capital than their shares of companies. This is a funding-distribution warning, not evidence of positive fundraising momentum.",
+        "The study does not measure all Austrian startups or unsuccessful fundraising attempts. Sector, stage and round size would need to be considered before attributing the gap to a single cause."
+      ]
     },
     {
       "title": "VentureIsrael appoints Evgenia Zaslavskaya as Venture Partner",
@@ -47,7 +128,18 @@
       "source": "VentureIsrael / PR Newswire",
       "url": "https://www.prnewswire.com/news-releases/ventureisrael-appoints-evgenia-zaslavskaya-as-venture-partner-302888391.html",
       "date": "2026-09-23",
-      "priority": 6
+      "priority": 6,
+      "rank": 5,
+      "category": "vc_move",
+      "source_type": "Issuer press release, PR Newswire",
+      "hero_stat": {
+        "value": "VC move",
+        "label": "VentureIsrael appointed Evgenia Zaslavskaya with an international and portfolio communications remit."
+      },
+      "why_it_matters": [
+        "The fund is adding communications leadership for its international positioning and portfolio support.",
+        "The Venture Partner title alone does not establish investment decision-making authority, a new fund or a change in access to capital."
+      ]
     }
   ],
   "stats_ticker": [
