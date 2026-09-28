@@ -2,6 +2,12 @@
   "feed": "Pink X Intelligence Feed",
   "weeks": [
     {
+      "run_number": 19,
+      "run_date": "2026-09-28",
+      "window": "September 21 to September 28, 2026",
+      "url": "archive/2026-09-28.json"
+    },
+    {
       "run_number": 18,
       "run_date": "2026-09-21",
       "window": "September 14 to September 21, 2026",
@@ -106,10 +112,10 @@
       "archive_url": "archive/run7_2026-07-06.json"
     }
   ],
-  "latest_run": 17,
-  "last_updated": "2026-08-31",
+  "latest_run": 19,
+  "last_updated": "2026-09-28",
   "latest": "latest.json",
-  "updated_at": "2026-09-14T05:28:39.578065Z",
-  "latest_run_number": 18,
-  "latest_run_date": "2026-09-21"
+  "updated_at": "2026-09-28T05:18:04.559687+00:00",
+  "latest_run_number": 19,
+  "latest_run_date": "2026-09-28"
 }

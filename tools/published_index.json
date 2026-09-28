@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "built_at": "2026-09-21T05:25:21Z",
+  "built_at": "2026-09-28T05:17:26Z",
   "runs_indexed": [
     "2:2026-06-01",
     "3:2026-06-08",
@@ -18,7 +18,8 @@
     "15:2026-08-31",
     "16:2026-09-07",
     "17:2026-09-14",
-    "18:2026-09-21"
+    "18:2026-09-21",
+    "19:2026-09-28"
   ],
   "entries": [
     {
@@ -3004,6 +3005,133 @@
       ],
       "amounts": [],
       "item_date": "2026-09-21"
+    },
+    {
+      "run_number": 19,
+      "run_date": "2026-09-28",
+      "title": "USD 13M for fertility care",
+      "url": "https://www.prnewswire.com/news-releases/fertility-brand-birdbe-raises-13m-to-expand-access-to-evidence-backed-fertility-care-nationwide-302884277.html",
+      "url_norm": "https://prnewswire.com/news-releases/fertility-brand-birdbe-raises-13m-to-expand-access-to-evidence-backed-fertility-care-nationwide-302884277.html",
+      "entities": [
+        "bdc thrive",
+        "bfg",
+        "bird&be",
+        "breanna",
+        "breanna hughes",
+        "diamond",
+        "hughes",
+        "samantha",
+        "samantha diamond",
+        "thrive",
+        "toronto-based",
+        "toronto-based bird&be",
+        "usd"
+      ],
+      "amounts": [
+        "13m"
+      ],
+      "item_date": "2026-09-22"
+    },
+    {
+      "run_number": 19,
+      "run_date": "2026-09-28",
+      "title": "Austria's funding rebound leaves all-women teams with 0.3% of capital",
+      "url": "https://www.ey.com/de_at/newsroom/2026/09/female-start-up-funding-h1-26",
+      "url_norm": "https://ey.com/de_at/newsroom/2026/09/female-start-up-funding-h1-26",
+      "entities": [
+        "austria",
+        "eur",
+        "ey austria",
+        "september"
+      ],
+      "amounts": [
+        "0.3pct",
+        "1.4m",
+        "10m"
+      ],
+      "item_date": "2026-09-16"
+    },
+    {
+      "run_number": 19,
+      "run_date": "2026-09-28",
+      "title": "Arey secures a Series A led by Unilever Ventures",
+      "url": "https://www.beautyindependent.com/unilever-ventures-backs-anti-gray-arey-hair-longevity-vision-series-a/",
+      "url_norm": "https://beautyindependent.com/unilever-ventures-backs-anti-gray-arey-hair-longevity-vision-series-a",
+      "entities": [
+        "allison",
+        "allison conrad",
+        "arey",
+        "conrad",
+        "hair-longevity",
+        "hemington",
+        "izzy",
+        "izzy hemington",
+        "jay small",
+        "small",
+        "unilever",
+        "unilever ventures",
+        "unilever ventures hair-longevity",
+        "ventures"
+      ],
+      "amounts": [],
+      "item_date": "2026-09-22"
+    },
+    {
+      "run_number": 19,
+      "run_date": "2026-09-28",
+      "title": "Michelle Daubar joins Engine Ventures to lead capital formation",
+      "url": "https://venturebeat.com/business/michelle-daubar-joins-engine-ventures-as-partner-head-of-investor-relations-capital-formation",
+      "url_norm": "https://venturebeat.com/business/michelle-daubar-joins-engine-ventures-as-partner-head-of-investor-relations-capital-formation",
+      "entities": [
+        "cambridge",
+        "cambridge massachusetts",
+        "daubar",
+        "engine",
+        "engine ventures",
+        "formation",
+        "formation she",
+        "head",
+        "massachusetts",
+        "michelle",
+        "michelle daubar",
+        "relations",
+        "usd",
+        "ventures"
+      ],
+      "amounts": [
+        "1b"
+      ],
+      "item_date": "2026-09-23"
+    },
+    {
+      "run_number": 19,
+      "run_date": "2026-09-28",
+      "title": "VentureIsrael appoints Evgenia Zaslavskaya as Venture Partner",
+      "url": "https://www.prnewswire.com/news-releases/ventureisrael-appoints-evgenia-zaslavskaya-as-venture-partner-302888391.html",
+      "url_norm": "https://prnewswire.com/news-releases/ventureisrael-appoints-evgenia-zaslavskaya-as-venture-partner-302888391.html",
+      "entities": [
+        "evgenia",
+        "evgenia zaslavskaya",
+        "ventureisrael",
+        "zaslavskaya"
+      ],
+      "amounts": [],
+      "item_date": "2026-09-23"
+    },
+    {
+      "run_number": 19,
+      "run_date": "2026-09-28",
+      "title": "USD 13M Bird&Be Series A, confirmed by the company's legal adviser.",
+      "url": "https://www.osler.com/en/about-us/representative-work/birdbe/",
+      "url_norm": "https://osler.com/en/about-us/representative-work/birdbe",
+      "entities": [
+        "bird&be",
+        "usd"
+      ],
+      "amounts": [
+        "13m"
+      ],
+      "item_date": "2026-09-28"
     }
   ]
 }
