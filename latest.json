@@ -22,25 +22,39 @@
     ]
   },
   "intelligence_brief": {
-    "read": "This edition separates fund-level leadership, company financing and funding-gap research. Three of the four announcements published within September 21 to 28 are issuer press releases; they verify announcements but do not constitute independent evidence of a market-wide trend. The September 16 Austrian study is explicitly included as earlier research context.",
+    "format": "annas_take",
+    "headline": "Your closest funding comparable may be outside your category.",
+    "read": "Bird&Be sells fertility products. Arey sells haircare. Both have subscription businesses and plans to broaden distribution, alongside investment in research and product development.",
+    "paragraphs": [
+      "My take: look beneath the category label. A company selling a different product may offer a more useful fundraising comparison if it shares your revenue model, route to customers and next growth milestone.",
+      "That changes how I would research an investor. Once their mandate, stage and geography fit, I would look for a portfolio company facing a comparable business challenge. Then I would examine what that company had already demonstrated and what its next round was intended to unlock."
+    ],
+    "action": "Take five investors on your shortlist. For each, complete: \"You backed ___ as it moved from ___ to ___. Our next milestone is comparable because ___.\" Use documented facts. Where the comparison breaks, you have found a question to investigate before reaching out.",
+    "sources": [
+      {
+        "label": "Bird&Be announcement",
+        "url": "https://www.prnewswire.com/news-releases/fertility-brand-birdbe-raises-13m-to-expand-access-to-evidence-backed-fertility-care-nationwide-302884277.html"
+      },
+      {
+        "label": "Arey reporting",
+        "url": "https://www.beautyindependent.com/unilever-ventures-backs-anti-gray-arey-hair-longevity-vision-series-a/"
+      }
+    ],
     "lanes": [
       {
-        "label": "FUND-LEVEL LEADERSHIP",
-        "icon": "investor",
-        "body": "Michelle Daubar joins Engine Ventures to lead institutional investor relationships and capital formation. AUM above USD 1 billion describes the firm, not a new fund raised this week.",
-        "source_url": "https://venturebeat.com/business/michelle-daubar-joins-engine-ventures-as-partner-head-of-investor-relations-capital-formation"
-      },
-      {
-        "label": "COMPANY FINANCING",
-        "icon": "capital",
-        "body": "Bird&Be's USD 13 million Series A is a specific fertility-care financing, confirmed by its legal adviser. One round cannot establish that access to capital has improved for women founders generally.",
-        "source_url": "https://www.osler.com/en/about-us/representative-work/birdbe/"
-      },
-      {
-        "label": "RESEARCH WITH CONTEXT",
+        "label": "ANNA'S TAKE",
         "icon": "research",
-        "body": "In EY's funded-company sample, 3 of 95 startups had all-women teams and received 0.3% of capital; 20 mixed teams received 4.8%. These are funded companies with known teams, not all Austrian startups.",
-        "source_url": "https://www.ey.com/de_at/newsroom/2026/09/female-start-up-funding-h1-26"
+        "body": "Your closest funding comparable may be outside your category. Look beneath the category label for a comparable revenue model, route to customers and next growth milestone."
+      },
+      {
+        "label": "INVESTOR FIT",
+        "icon": "investor",
+        "body": "Once mandate, stage and geography fit, examine a portfolio company facing a comparable business challenge: what had it demonstrated, and what was its next round intended to unlock?"
+      },
+      {
+        "label": "YOUR MOVE THIS WEEK",
+        "icon": "capital",
+        "body": "Take five investors. For each, use documented facts to complete: \"You backed ___ as it moved from ___ to ___. Our next milestone is comparable because ___.\" Investigate gaps before reaching out."
       }
     ]
   },
